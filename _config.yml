@@ -6,8 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 
-markdown                 : kramdown
-remote_theme             : mmistakes/minimal-mistakes/dark
+Theme            : mmistakes/minimal-mistakes/dark
 
 # Site Settings
 locale                   : "en-US"
