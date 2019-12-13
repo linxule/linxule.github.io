@@ -7,8 +7,7 @@
 
 
 
-remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark"
+remote_theme             : "mmistakes/minimal-mistakes@4.17.2"
 
 # Site Settings
 locale                   : "en-US"
