@@ -8,6 +8,7 @@
 
 
 remote_theme             : "mmistakes/minimal-mistakes/dark"
+minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "en-US"
