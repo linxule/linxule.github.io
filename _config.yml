@@ -75,16 +75,16 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Decentralized"
-  employer         :
-  pubmed           : ""
-  googlescholar    : ""
-  email            :
+  employer         : Imperial College Business School
+#  pubmed           : ""
+#  googlescholar    : ""
+  email            : "linxule@imperial.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Xule_Lin"
   github           : "LinXule"
   linkedin         : "linxule"
   twitter          : "LinXule"
-  weibo            :
-  wikipedia        :
+#  weibo            :
+#  wikipedia        :
 
 
 # Reading Files
