@@ -4,10 +4,10 @@ main:
     url: /publications/
 
   - title: "Twitter List - Management Research"
-    url: /twitter1   
+    url: /twitter1/   
     
   - title: "Twitter List - Crypto & DAOs Research"
-    url: /twitter2     
+    url: /twitter2/     
         
   - title: "Blog Posts"
     url: /year-archive/
