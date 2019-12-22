@@ -9,6 +9,3 @@ redirect_from:
 ---
 ------
 <a class="twitter-timeline" href="https://twitter.com/LinXule/lists/mgmtresearch?ref_src=twsrc%5Etfw">A Twitter List by LinXule</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-DAOs & Crypto Research
-------
