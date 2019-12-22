@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "My Twitter Lists"
+excerpt: "Subscribe to my Twitter Lists"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+My Twitter List, “[Management Research](https://twitter.com/LinXule/lists/mgmtresearch?ref_src=twsrc%5Etfw)”, from which I draw my inspiration for management research. This list includes individuals, blogs, and journals in various fields, such as management, sociology, and psychology. You can also subscribe to this Twitter List via [RSS](<a class="twitter-timeline" href="https://twitter.com/LinXule/lists/mgmtresearch?ref_src=twsrc%5Etfw">A Twitter List by LinXule</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ). 
