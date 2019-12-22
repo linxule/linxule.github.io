@@ -6,7 +6,7 @@ main:
   - title: "Talks"
     url: /talks/    
 
-- title: "Twitter List"
+  - title: "Twitter List"
     url: /twitterlist/  
     
   - title: "Teaching"
