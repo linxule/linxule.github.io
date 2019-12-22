@@ -4,10 +4,7 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
-
-  - title: "Twitter List"
-    url: /twitterlist/  
+    url: /talks/     
     
   - title: "Teaching"
     url: /teaching/    
