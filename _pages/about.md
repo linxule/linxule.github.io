@@ -15,13 +15,8 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 My twitter lists
 ======
+[Management Research](http://linxule.com/twitter1/)
 
-Management Research
-------
-<a class="twitter-timeline" href="https://twitter.com/LinXule/lists/mgmtresearch?ref_src=twsrc%5Etfw">A Twitter List by LinXule</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-DAOs & Crypto Research
-------
-<a class="twitter-timeline" href="https://twitter.com/LinXule/lists/daos-crypto-research?ref_src=twsrc%5Etfw">A Twitter List by LinXule</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+[DAOs & Crypto Research](http://linxule.com/twitter2/)
 
 ------
