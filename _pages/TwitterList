@@ -1,0 +1,11 @@
+---
+layout: archive
+title: "TwitterList"
+permalink: /twitterlist/
+author_profile: false
+---
+
+{% plugin_type twitter_url *options %}
+
+# Example for timeline of the **jekyllrb** user with a maximum of 5 Tweets and with a width of 500px
+{% twitter https://twitter.com/jekyllrb maxwidth=500 limit=5 %}
