@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "林徐乐 Lin Xule"
+title                    : "@LinXule"
 title_separator          : "-"
-name                     : &name "林徐乐 Lin Xule"
+name                     : &name "林徐乐 Xule Lin"
 description              : &description "PhD student at Imperial College Business School"
 url                      : https://linxule.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
