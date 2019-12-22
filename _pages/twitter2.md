@@ -1,10 +1,9 @@
 ---
-permalink: /twitter2
+permalink: /twitter2/
 title: "My twitter List - Management Research"
 excerpt: "Inspiration from Twitter"
 author_profile: true
 redirect_from:
-  - /twitter2/
   - /twitter2.html
 ---
 ------
