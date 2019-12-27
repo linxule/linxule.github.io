@@ -1,6 +1,6 @@
 ---
 permalink: /twitter2/
-title: "My twitter List - Management Research"
+title: "My Twitter List - DAOs and Crypto Research"
 excerpt: "Inspiration from Twitter"
 author_profile: true
 redirect_from:
