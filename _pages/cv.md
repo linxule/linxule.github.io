@@ -70,10 +70,10 @@ Committee
 
 Industry Experience
 ====
-* Ernst & Young, 2016 - 2018
+* Ernst & Young, Chicago, 2016 - 2018
   * Staff
 
-* Café Tatum Break, 2013 - 2014
+* Café Tatum Break, Xiamen, 2013 - 2014
   * Co-founder, Manager
 
 ----------------------------
