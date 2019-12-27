@@ -1,13 +1,8 @@
 # main links links
 main:
-  - title: "Blog Posts"
-    url: /year-archive/
-  
+ 
   - title: "CV"
     url: /cv/
-  
-  - title: "Publications"
-    url: /publications/
 
   - title: "#Management"
     url: /twitter1/   
@@ -15,5 +10,9 @@ main:
   - title: "#DAOs & Crypto"
     url: /twitter2/     
         
-
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "Publications"
+    url: /publications/
     
