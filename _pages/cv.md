@@ -47,7 +47,7 @@ Grants, Fellowship, Awards
 * Radical Exchange Foundation, 2019
   * Student Scholarship, Ideas and Research Track
 
-* The Indiana Collegiate Press Association, 2015
+* Indiana Collegiate Press Association, 2015
   * News Magazines, First Place for Best Sports Photo
 
 Skills
