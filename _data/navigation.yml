@@ -4,12 +4,6 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "#Management"
-    url: /twitter1/
-
-  - title: "#DAOs&Crypto"
-    url: /twitter2/
-
   - title: "Blog Posts"
     url: /year-archive/
 
@@ -19,8 +13,14 @@ main:
   - title: "Projects/Work-in-progress"
     url: /portfolio/
 
+  - title: "中文"
+    url: http://fanyi.baidu.com/transpage?query=linxule.com&source=url&ie=utf8&from=en&to=zh&render=1
+
   - title: "Other Languages"
     url: https://translate.google.com/translate?sl=en&tl=zh-CN&u=linxule.com
 
-  - title: "中文"
-    url: http://fanyi.baidu.com/transpage?query=linxule.com&source=url&ie=utf8&from=en&to=zh&render=1
+  - title: "#Management"
+    url: /twitter1/
+
+  - title: "#DAOs&Crypto"
+    url: /twitter2/
