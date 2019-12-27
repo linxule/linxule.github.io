@@ -41,6 +41,9 @@ Publication
 
 Projects/Work in Progress
 ====
+<ul>{% for post in site.portfolio %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
 
 Grants, Fellowship, Awards
 ====
