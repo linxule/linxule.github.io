@@ -24,7 +24,7 @@ Education
 
 * University of Notre Dame, 2011 - 2015
   * BBA in Accounting
-  
+
 Experience
 ====
 * University of Chicago, Booth School of Business, 2018 - 2019
@@ -66,7 +66,6 @@ Activities
 * Imperial College Business School, Doctoral Student Staff
 Committee
   * MRes Social Chair
-
 
 Industry Experience
 ====
