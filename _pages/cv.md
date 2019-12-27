@@ -23,7 +23,8 @@ Education
   * MSc in Accountancy
 
 * University of Notre Dame, 2011 - 2015
-  * BBA in Accounting 
+  * BBA in Accounting
+  
 Experience
 ====
 * University of Chicago, Booth School of Business, 2018 - 2019
