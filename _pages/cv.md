@@ -57,9 +57,9 @@ Skills
   * Stata, SAS, RStudio
 
 * Languages
-  * Native in Mandarin
-  * Fluency in English
-  * Un-contracted Braille(Read & Write)
+  * Mandarin (Native)
+  * English (Fluent)
+  * Un-contracted Braille (Read & Write)
 
 Activities
 ====
