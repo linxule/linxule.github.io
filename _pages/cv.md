@@ -22,7 +22,7 @@ Education
 * University of Notre Dame, 2015 - 2016
   * Master of Science in Accountancy
 
-* University of Notre Dame**, 2011 - 2015
+* University of Notre Dame, 2011 - 2015
   * Master of Science in Accountancy
 
 Experience
@@ -30,7 +30,7 @@ Experience
 * University of Chicago, Booth School of Business, 2018 - 2019
   * Research Assistant
 
-* University of Notre Dame, Mendoza College of Business**, 2015 - 2016
+* University of Notre Dame, Mendoza College of Business, 2015 - 2016
   * Graduate Teaching Assistant
 
 Publication
@@ -45,10 +45,10 @@ Projects/Work in Progress
 Grants, Fellowship, Awards
 ====
 * Radical Exchange Foundation, 2019
-Student Scholarship, Ideas and Research Track
+  * Student Scholarship, Ideas and Research Track
 
 * The Indiana Collegiate Press Association, 2015
-News Magazines, First Place for Best Sports Photo
+  * News Magazines, First Place for Best Sports Photo
 
 Skills
 ====
@@ -73,7 +73,7 @@ Industry Experience
 * Ernst & Young, 2016 - 2018
   * Staff
 
-* Café Tatum Break, 2013 -2014
+* Café Tatum Break, 2013 - 2014
   * Co-founder, Manager
 
 ----------------------------
