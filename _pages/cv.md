@@ -20,11 +20,10 @@ Education
   * Graduate Student At-Large
 
 * University of Notre Dame, 2015 - 2016
-  * Master of Science in Accountancy
+  * MSc in Accountancy
 
 * University of Notre Dame, 2011 - 2015
-  * Master of Science in Accountancy
-
+  * BBA in Accounting 
 Experience
 ====
 * University of Chicago, Booth School of Business, 2018 - 2019
