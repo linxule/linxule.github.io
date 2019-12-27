@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<p style="text-align: center;"><span style="font-size:larger;"> Xule Lin </span> </p>
-<p style="text-align: center;">Imperial College Business School\
-South Kensington Campus, London SW7 2AZ, UK\
-linxule@imperial.ac.uk</p>
+Xule Lin
+====
+Imperial College Business School
+South Kensington Campus, London SW7 2AZ, UK
+linxule@imperial.ac.uk
 
 ---
 
