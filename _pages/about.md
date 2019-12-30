@@ -28,7 +28,8 @@ I draw inspirations from the wisdom and knowledge of these Twitter accounts, cat
 
 * [Management Research](http://linxule.com/twitter1/)
 * [DAOs & Crypto Research](http://linxule.com/twitter2/)
-{: .notice--success}
+{: .notice--primary}
+{: .text-center}
 
 PhD life
 -----
