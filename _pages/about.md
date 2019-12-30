@@ -19,9 +19,9 @@ Another stream of my research looks at the innovation and creativity in culinary
 Read more about my research interests and theoretical approaches in [my blog post](/posts/2019/12/so-what-do-you-study/). Or, take a look at my [current projects](/portfolio/).
 {: .notice--info}
 
-My Twitter lists
+My Twitter lists #MgmtTwitter
 =====
-\#MgmtTwitter
+
 I draw inspirations from the wisdom and knowledge of these Twitter accounts, categorized based on topics.  
 
     * [Management Research](http://linxule.com/twitter1/)
