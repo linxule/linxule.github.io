@@ -8,17 +8,19 @@ tags:
 
 My current research interests
 ======
+I am interested in the trend of decentralization in various aspects of society and the associated implications for individuals, groups, communities, organizations, and alike.  
+
 Decentralized forms of organizing
 ------
 This stream of research aims to explore how more decentralized forms of organizing are/ will be different from existing forms of organizing when it comes to venture creation, organizational learning, and innovation.
 
-As there's no consensus about the definitions of decentralized organizations, my research covers a range of decentralized organizations: Decentralized organizations, Decentralized Autonomous Organizations (DAOs), Decentralized Autonomous Corporations/Companies (DACs)
+As there's no consensus about the definitions of decentralized organizations, my research covers a range of decentralized organizations: Decentralized organizations, Decentralized Autonomous Organizations (DAOs), Decentralized Autonomous Corporations/Companies (DACs).
 {: .notice--warning}
 
 Innovation and creativity in culinary arts
 ------
-This stream of research aims to explore how the new styles/categories of cuisine emerge and evolve through the networks of elite restaurants and chefs. These elite restaurants and chefs are constantly producing innovative and creative dishes and beverages to stay in competition and earn prestige (i.e. Michelin stars).
+This stream of research aims to explore how the new styles/categories of cuisine emerge and evolve through the networks of elite restaurants and chefs. These elite restaurants and chefs are consistently producing innovative and creative dishes and beverages to stay in the competition and earn prestige (i.e., Michelin stars).
 
 My theoretical approaches
 ======
-My theoretical approaches stem from organizational theory & learning, entrepreneurial & platform ecosystems, and social networks. Also, theories from other disciplines, such as deliberative democracy, collective action, stigma, and anonymity, shape how I approach research questions.
+My theoretical approaches stem from organizational theory & learning, entrepreneurial & platform ecosystems, and social networks. Also, theories from other disciplines shape how I approach research questions. Some examples are:  such as deliberative democracy, collective action, stigma, and anonymity. 
