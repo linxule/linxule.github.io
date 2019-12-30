@@ -1,5 +1,5 @@
-Welcome to my website
-
 This site is forked from academicpages.github.io.
 
-More on how to configure the site and pages:[documentation on Minimal Mistakes A Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+Handy links to the official Jekyll & Minimal Mistakes configuration guide:
+* [Documentation on Minimal Mistakes A Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+* [Text and image styling](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/#top)
