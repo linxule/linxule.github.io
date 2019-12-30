@@ -32,10 +32,10 @@ PhD life
 -----
 [Learning resources and tools](https://www.notion.so/linxule/Learning-Resources-and-tools-7ada6088f41745a8989ff86259884c7c): a collection of learning resources that I find and use in my doctoral study. The list covers various topics, such as:
 
-1. Programming languages(LaTex, R, Stata)
-2. Research methods(CARMA)
-3. Workshops and training camps
-4. Online courses
+* Programming languages(LaTex, R, Stata)
+* Research methods(CARMA)
+* Workshops and training camps
+* Online courses
 {: .notice--primary}
 
 ------
