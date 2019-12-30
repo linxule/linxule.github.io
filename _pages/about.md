@@ -31,10 +31,10 @@ I draw inspirations from the wisdom and knowledge of these Twitter accounts, cat
 PhD life
 -----
 [Learning resources and tools](https://www.notion.so/linxule/Learning-Resources-and-tools-7ada6088f41745a8989ff86259884c7c): a collection of learning resources that I find and use in my doctoral study. The list covers various topics, such as:
-1. programming languages(LaTex, R)
-2. research methods(CARMA)
-3. workshops and training camps
-4. online courses, etc.
+1. Programming languages(LaTex, R, Stata)
+2. Research methods(CARMA)
+3. Workshops and training camps
+4. Online courses
 {: .notice--summary}
 
 ------
