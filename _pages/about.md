@@ -36,4 +36,6 @@ During my study and research, I collect various types of [learning resources and
 * Online courses
 {: .notice--primary}
 
+<a href="https://www.notion.so/linxule/Learning-Resources-and-tools-7ada6088f41745a8989ff86259884c7c" class="btn btn--primary">Check it out via Notion.so</a>
+
 ------
