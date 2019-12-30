@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me (site under construction)"
-excerpt: "About me (site under construction)"
+title: "@LinXule"
+excerpt: "My personal website"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-My personal website
+About me
 ======
 After eight years of studying and working in the US, I moved to London in the autumn of 2019. Currently, I am a PhD student in the Department of Management and Entrepreneurship at the Imperial College Business School.
 
