@@ -26,10 +26,10 @@ My Twitter lists
 \#MgmtTwitter
 I draw inspirations from the wisdom and knowledge of these Twitter accounts, categorized based on topics.  
 
-* [Management Research](http://linxule.com/twitter1/)
-* [DAOs & Crypto Research](http://linxule.com/twitter2/)
+    * [Management Research](http://linxule.com/twitter1/)
+    * [DAOs & Crypto Research](http://linxule.com/twitter2/)
 {: .notice--primary}
-{: .text-center}
+
 
 PhD life
 -----
