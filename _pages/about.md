@@ -10,6 +10,7 @@ redirect_from:
 
 After eight years of studying and working in the US, I moved to London in the autumn of 2019. Currently, I am a PhD student in the Department of Management and Entrepreneurship at the Imperial College Business School.
 
+-----
 My research interests
 -----
 One stream of my research looks at how blockchain technology enables new forms of organizing that are decentralized and the implications for management research. Another stream of my research looks at the innovation and creativity in culinary arts.
@@ -24,7 +25,6 @@ I draw inspirations from the wisdom and knowledge of these Twitter accounts, cat
 * [Management Research](http://linxule.com/twitter1/)
 * [DAOs & Crypto Research](http://linxule.com/twitter2/)
 {: .notice--info}
-
 
 Resources and tools
 -----
