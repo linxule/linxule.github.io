@@ -19,7 +19,7 @@ Another stream of my research looks at the innovation and creativity in culinary
 Read more about my research interests and theoretical approaches in [my blog post](/posts/2019/12/so-what-do-you-study/). Or, take a look at my [current projects](/portfolio/).
 {: .notice--danger}
 
-My Twitter lists #MgmtTwitter
+\#MgmtTwitter
 -----
 I draw inspirations from the wisdom and knowledge of these Twitter accounts, categorized based on topics.  
 
@@ -28,9 +28,9 @@ I draw inspirations from the wisdom and knowledge of these Twitter accounts, cat
 {: .notice--info}
 
 
-PhD life
+Resources and tools
 -----
-[Learning resources and tools](https://www.notion.so/linxule/Learning-Resources-and-tools-7ada6088f41745a8989ff86259884c7c): a collection of learning resources that I find and use in my doctoral study. The list covers various topics, such as:
+During my study and research, I collect various types of[learning resources and tools](https://www.notion.so/linxule/Learning-Resources-and-tools-7ada6088f41745a8989ff86259884c7c).This list covers various topics, such as:
 
 * Programming languages(LaTex, R, Stata)
 * Research methods(CARMA)
