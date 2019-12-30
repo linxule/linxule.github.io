@@ -8,7 +8,7 @@ tags:
 
 My current research interests
 ======
-I am interested in the trend of decentralization in various aspects of society and the associated implications for individuals, groups, communities, organizations, and alike.  
+I am interested in the trend of decentralization in various aspects of society and the associated implications for individuals, groups, communities, organizations, and alike. In addition, I am interested in the innovation and creativity in the culinary industry. 
 
 Decentralized forms of organizing
 ------
@@ -23,4 +23,4 @@ This stream of research aims to explore how the new styles/categories of cuisine
 
 My theoretical approaches
 ======
-My theoretical approaches stem from organizational theory & learning, entrepreneurial & platform ecosystems, and social networks. Also, theories from other disciplines shape how I approach research questions. Some examples are:  such as deliberative democracy, collective action, stigma, and anonymity. 
+My theoretical approaches stem from organizational theory & learning, entrepreneurial & platform ecosystems, and social networks. Also, theories from other disciplines shape how I approach research questions. Some examples are:  such as deliberative democracy, collective action, stigma, and anonymity.
