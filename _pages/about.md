@@ -40,5 +40,6 @@ The list covers various topics, such as:
 3. workshops and training camps
 4. online courses, etc.
 {: .notice--info}
+{: .text-center}
 
 ------
