@@ -6,13 +6,14 @@ tags:
   - research
 ---
 
-This is a sample blog post.
-
 My current research interests
 ======
 Decentralized forms of organizing
 ------
-This stream of research aims to explore how more decentralized forms of organizing are/ will be different from existing forms of organizing when it comes to venture creation, organizational learning, and innovation. As there's no consensus about the definitions of decentralized organizations, my research covers a range of decentralized organizations: Decentralized organizations, Decentralized Autonomous Organizations (DAOs), Decentralized Autonomous Corporations/Companies (DACs)
+This stream of research aims to explore how more decentralized forms of organizing are/ will be different from existing forms of organizing when it comes to venture creation, organizational learning, and innovation.
+
+As there's no consensus about the definitions of decentralized organizations, my research covers a range of decentralized organizations: Decentralized organizations, Decentralized Autonomous Organizations (DAOs), Decentralized Autonomous Corporations/Companies (DACs)
+{: .notice--warning}
 
 Innovation and creativity in culinary arts
 ------
