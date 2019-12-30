@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "@LinXule"
+title: "About"
 excerpt: "My personal website"
 author_profile: true
 redirect_from:
