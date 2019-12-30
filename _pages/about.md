@@ -36,6 +36,6 @@ PhD life
 2. Research methods(CARMA)
 3. Workshops and training camps
 4. Online courses
-{: .notice--summary}
+{: .notice--primary}
 
 ------
