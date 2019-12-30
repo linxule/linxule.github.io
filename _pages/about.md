@@ -17,7 +17,7 @@ One stream of my research looks at how blockchain technology enables new forms o
 Another stream of my research looks at the innovation and creativity in culinary arts.
 
 Read more about my research interests and theoretical approaches in [my blog post](/posts/2019/12/so-what-do-you-study/). Or, take a look at my [current projects](/portfolio/).
-{: .notice--info}
+{: .notice--danger}
 
 My Twitter lists #MgmtTwitter
 -----
@@ -25,7 +25,7 @@ I draw inspirations from the wisdom and knowledge of these Twitter accounts, cat
 
 * [Management Research](http://linxule.com/twitter1/)
 * [DAOs & Crypto Research](http://linxule.com/twitter2/)
-{: .notice--primary}
+{: .notice--info}
 
 
 PhD life
@@ -35,6 +35,6 @@ PhD life
 2. research methods(CARMA)
 3. workshops and training camps
 4. online courses, etc.
-{: .notice--info}
+{: .notice--summary}
 
 ------
