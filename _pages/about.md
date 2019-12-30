@@ -11,11 +11,7 @@ My personal website
 ======
 After eight years of studying and working in the US, I moved to London in the autumn of 2019. Currently, I am a PhD student in the Department of Management and Entrepreneurship at the Imperial College Business School.
 
-One stream of my research looks at the blockchain/distributed ledger technology and decentralized autonomous organizations(DAOs). This stream of research aims to explore how more decentralized forms of organizing are/ will be different from existing forms of organizing when it comes to venture creation, organizational learning, and innovation.
-
-Another stream of my research looks at the innovation and creativity in culinary arts. This stream of research aims to explore how the new styles/categories of cuisine emerge and evolve through the networks of elite restaurants and chefs. These elite restaurants and chefs are constantly producing innovative and creative dishes and beverages to stay in competition and earn prestige (i.e. Michelin stars).
-
-My theoretical approaches stem from organizational theory & learning, entrepreneurial & platform ecosystems, and social networks. Also, theories from other disciplines, such as deliberative democracy, collective action, stigma, and anonymity, shape how I approach research questions.
+One stream of my research looks at how blockchain technology enables new forms of organizing that are decentralized and the implications for management research. Another stream of my research looks at the innovation and creativity in culinary arts. Read more about my research interests and theoretical approaches in the blog posts here. 
 
 My Twitter lists
 ======
