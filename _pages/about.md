@@ -28,7 +28,7 @@ I draw inspirations from the wisdom and knowledge of these Twitter accounts, cat
 
 Resources and tools
 -----
-During my study and research, I collect various types of[learning resources and tools](https://www.notion.so/linxule/Learning-Resources-and-tools-7ada6088f41745a8989ff86259884c7c).This list covers various topics, such as:
+During my study and research, I collect various types of [learning resources and tools](https://www.notion.so/linxule/Learning-Resources-and-tools-7ada6088f41745a8989ff86259884c7c). This list covers various topics, such as:
 
 * Programming languages(LaTex, R, Stata)
 * Research methods(CARMA)
