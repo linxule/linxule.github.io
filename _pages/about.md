@@ -36,6 +36,5 @@ PhD life
 3. workshops and training camps
 4. online courses, etc.
 {: .notice--info}
-{: .text-center}
 
 ------
