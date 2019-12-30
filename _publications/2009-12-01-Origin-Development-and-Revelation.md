@@ -1,5 +1,5 @@
 ---
-title: "根源、发展和启示——中外当代慈善文化比较   Origin, Development, and Revelation – The Comparison of Charity Cultures between China and the West(available in Chinese)"
+title: "根源、发展和启示——中外当代慈善文化比较   Origin, Development, and Revelation – The Comparison of Charity Cultures between China and the West(only available in Chinese)"
 collection: publications
 permalink: /publication/2009-12-01-Origin-Development-and-Revelation
 excerpt: '从历史沿革、形态变迁到蓬勃发展和现实挑战,慈善文化进行了自内而外的调整和完善,在体系构成与建设中同样经历了时代的考校和验证.中国和外国(主要特指西方)的慈善文化在民族传统和基础起源上有很大的差别,慈善事业、机构亦是不同.本文将着重从根源、发晨和启示等方面对当代中外慈善文化进行比较研究,尤其是慈善思想与慈善意识在慈善文化中的重要性等都将做具体阐述.
