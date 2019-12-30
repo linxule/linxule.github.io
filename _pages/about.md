@@ -11,7 +11,9 @@ My personal website
 ======
 After eight years of studying and working in the US, I moved to London in the autumn of 2019. Currently, I am a PhD student in the Department of Management and Entrepreneurship at the Imperial College Business School.
 
-One stream of my research looks at how blockchain technology enables new forms of organizing that are decentralized and the implications for management research. Another stream of my research looks at the innovation and creativity in culinary arts. Read more about my research interests and theoretical approaches in [the blog posts here](/posts/2019/12/so-what-do-you-study/).
+One stream of my research looks at how blockchain technology enables new forms of organizing that are decentralized and the implications for management research. Another stream of my research looks at the innovation and creativity in culinary arts.
+
+Read more about my research interests and theoretical approaches in [my blog post](/posts/2019/12/so-what-do-you-study/). Or, take a look at my [current projects](/portfolio/).
 
 My Twitter lists
 ======
