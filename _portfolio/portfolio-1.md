@@ -1,7 +1,6 @@
 ---
-title: "DAOs learning and innovation"
-excerpt: "Decentralized Autonomous Organizations(DAOs)"
+title: "Decentralized Autonomous Organizations(DAOs)"
+excerpt: "Learning and innovation"
 collection: project
 ---
 Collaborating with: [Dr. Ying-Ying Hsieh](https://www.imperial.ac.uk/people/y.hsieh) at Imperial College Business School
-Ongoing
