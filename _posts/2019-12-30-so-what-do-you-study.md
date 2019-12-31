@@ -1,7 +1,7 @@
 ---
-title: '"So, what do you study?"'
+title: '"So, what are you studying?"'
 date: 2019-12-30
-permalink: /posts/2019/12/so-what-do-you-study/
+permalink: /posts/2019/12/so-what-are-you-studying/
 tags:
   - research
 ---
