@@ -15,7 +15,7 @@ My research interests
 -----
 One stream of my research looks at how blockchain technology enables new forms of organizing that are decentralized and the implications for management research. Another stream of my research looks at the innovation and creativity in culinary arts.
 
-Read more about my research interests and theoretical approaches in [my blog post](/posts/2019/12/so-what-do-you-study/). Or, take a look at my [current projects](/portfolio/).
+Read more about my research interests and theoretical approaches in [my blog post](/posts/2019/12/so-what-are-you-studying/). Or, take a look at my [current projects](/portfolio/).
 {: .notice--danger}
 
 \#MgmtTwitter
