@@ -26,7 +26,7 @@ My theoretical approaches
 My theoretical approaches stem from organizational theory & learning, entrepreneurial & platform ecosystems, and social networks. Also, ideas and theories from other disciplines shape how I approach research questions.
 
 Some examples are:
-* data as labor in digitized economy
+* (data as labor in digitized economy)[https://radicalxchange.org/blog/posts/2019-1-5-ydij2t/]
 * deliberative democracy,
 * collective action/activity
 * stigma
