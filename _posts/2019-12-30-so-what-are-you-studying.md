@@ -27,7 +27,7 @@ My theoretical approaches stem from organizational theory & learning, entreprene
 
 Some examples are:
 * (data as labor in digitized economy)[https://radicalxchange.org/blog/posts/2019-1-5-ydij2t/]
-* deliberative democracy,
+* deliberative democracy
 * collective action/activity
 * stigma
 * anonymity and privacy
