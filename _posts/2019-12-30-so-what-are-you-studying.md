@@ -5,6 +5,9 @@ permalink: /posts/2019/12/so-what-are-you-studying/
 tags:
   - research
 ---
+My theoretical approaches
+======
+My theoretical approaches stem from organizational theory & learning, entrepreneurial & platform ecosystems, and social networks.
 
 My current research interests
 ======
@@ -26,9 +29,9 @@ Innovation and creativity in culinary arts
 ------
 This stream of research aims to explore how the new styles/categories of cuisine emerge and evolve through the networks of elite restaurants and chefs. These elite restaurants and chefs are consistently producing innovative and creative dishes and beverages to stay in the competition and earn prestige (i.e., Michelin stars).
 
-My theoretical approaches
-======
-My theoretical approaches stem from organizational theory & learning, entrepreneurial & platform ecosystems, and social networks. Also, ideas and theories from other disciplines shape how I approach research questions.
+Ideas and theories from other disciplines
+----
+Knowledge from outside of management research field also shapes how I develop and approach research questions.
 
 Some examples are:
 * [data as labor in digitized economy](https://radicalxchange.org/blog/posts/2019-1-5-ydij2t/)
