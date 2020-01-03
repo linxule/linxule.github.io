@@ -13,7 +13,11 @@ After eight years of studying and working in the US, I moved to London in the au
 
 My research interests
 -----
-Read about my research interests and theoretical approaches in [my blog post](/posts/2019/12/so-what-are-you-studying/). Or, take a look at my [current project(s)](/portfolio/).
+- Blockchain technology, blockchain ecosystem
+
+- Innovation and creativity in culinary arts
+
+Read about my research interests and theoretical approaches in [here](/posts/2019/12/so-what-are-you-studying/). Or, take a look at my [current project(s)](/portfolio/).
 {: .notice--danger}
 
 \#MgmtTwitter
