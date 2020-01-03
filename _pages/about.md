@@ -13,7 +13,13 @@ After eight years of studying and working in the US, I moved to London in the au
 
 My research interests
 -----
-One stream of my research looks at how blockchain technology enables new forms of organizing that are decentralized and the implications for management research. Another stream of my research looks at the innovation and creativity in culinary arts.
+**Blockchain technology**
+- How blockchain technology enables new forms of organizing that are decentralized(e.g., DAOs) ?  
+- What drives the emergence and development of blockchain ecosystems?
+- What are the implications for management research (e.g., boundaries of organizations)?
+
+
+**innovation and creativity in culinary arts**
 
 Read more about my research interests and theoretical approaches in [my blog post](/posts/2019/12/so-what-do-you-study/). Or, take a look at my [current project(s)](/portfolio/).
 {: .notice--danger}
