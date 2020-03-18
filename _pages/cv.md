@@ -64,8 +64,11 @@ Skills
   * English (Fluent)
   * Un-contracted Braille (Read & Write)
 
-Activities
+Professional and University Activities
 ====
+* Academy of Management 
+  * Reviewer
+
 * Imperial College Business School, Doctoral Student Staff
 Committee
   * MRes Social Chair

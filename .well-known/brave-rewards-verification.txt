@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: linxule.com
+Token: b29897678d1cd675a49bb67ed22256cb325ba74744f5eb81a817074a823917a5
