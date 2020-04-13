@@ -1,6 +1,6 @@
 ---
 title: "Academic Writing in Markdown"
-excerpt: "Governance and solution search"
+excerpt: "Formatting"
 collection: project
 ---
 
