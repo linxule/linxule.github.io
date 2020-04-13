@@ -92,9 +92,9 @@ Projects/Work in Progress
 
 # Supervisor
 
-**Erkko Autio**,  Professor, Chair in Technology Venturing, Imperial College Business School, [erkko.autio@imperial.ac.uk](erkko.autio@imperial.ac.uk), +44 (0)20 7594 1991
+**[Erkko Autio](https://www.imperial.ac.uk/people/erkko.autio)**,  Professor, Chair in Technology Venturing, Imperial College Business School, [erkko.autio@imperial.ac.uk](erkko.autio@imperial.ac.uk), +44 (0)20 7594 1991
 
-**Ying-Ying Hsieh**,  Assistant Professor of Innovation and Entrepreneurship,  [y.hsieh@imperial.ac.uk](y.hsieh@imperial.ac.uk)
+**[Ying-Ying Hsieh](https://www.imperial.ac.uk/people/y.hsieh)**,  Assistant Professor of Innovation and Entrepreneurship,  [y.hsieh@imperial.ac.uk](y.hsieh@imperial.ac.uk)
 
 
 ----------------------------
