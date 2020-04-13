@@ -4,7 +4,7 @@ excerpt: "Formatting"
 collection: project
 ---
 
-I write in Markdown, usually in [Ulysses](https://ulysses.app/) or [Bear](https://bear.app/). To share my writing with others, I convert the Markdown files into other formats, such as PDF or DOCX.
+I write in Markdown, usually with [Ulysses](https://ulysses.app/) or [Bear](https://bear.app/). To share my writing with others, I convert the Markdown files into other formats, such as PDF or DOCX.
 
 I use [Marked 2 app (sorry, Mac only)](https://marked2app.com/) to convert Markdown files and format the output files according to my needs. Long story short, Marked 2 converts a Markdown file into HTML document file, which in turn gets formatted according to a chosen CSS template.
 
