@@ -30,18 +30,18 @@ South Kensington Campus, London SW7 2AZ, UK
 
 # Professional and University Activities
 
-  * Academy of Management, 2019 - Present
-  	* Member
-  	* OMT and ENT Division, Ad-Hoc Reviewer
+* Academy of Management, 2019 - Present
+	* Member
+	* OMT and ENT Division, Ad-Hoc Reviewer
 
-  * Imperial College Business School, 2019 - Present
-  	* Doctoral Student Staff Committee, MRes Social Chair
+* Imperial College Business School, 2019 - Present
+	* Doctoral Student Staff Committee, MRes Social Chair
 
-  * University of Chicago, Booth School of Business, 2018 - 2019
-  	* Research Assistant
+* University of Chicago, Booth School of Business, 2018 - 2019
+	* Research Assistant
 
-  * University of Notre Dame, Mendoza College of Business, 2015 - 2016
-  	* Graduate Teaching Assistant
+* University of Notre Dame, Mendoza College of Business, 2015 - 2016
+	* Graduate Teaching Assistant
 
 # Publication
 
