@@ -11,11 +11,11 @@ redirect_from:
 
 ---
 Imperial College Business School, Imperial College London
-### South Kensington Campus, London SW7 2AZ, UK 			
-### +44 (0) 7422 973233 | linxule@imperial.ac.uk |  [linxule.com](https://linxule.com/)
+South Kensington Campus, London SW7 2AZ, UK 			
+linxule@imperial.ac.uk |  [linxule.com](https://linxule.com/)
 
-Education
-====
+# Education
+
 * Imperial College Business School, 2019 - 2024 (Expected)
   * PhD Student, Management and Entrepreneurship
 
@@ -28,8 +28,8 @@ Education
 * University of Notre Dame, 2011 - 2015
   * BBA in Accounting
 
-Experience
-====
+# Experience
+
 * University of Chicago, Booth School of Business, 2018 - 2019
   * Research Assistant
 
@@ -50,8 +50,8 @@ Experience
   * University of Notre Dame, Mendoza College of Business, 2015 - 2016
   	* Graduate Teaching Assistant
 
-Publication
-====
+# Publication
+
 <ul>{% for post in site.publications %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
@@ -62,16 +62,16 @@ Projects/Work in Progress
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-Grants, Fellowship, Awards
-====
+# Grants, Fellowship, Awards
+
 * Radical Exchange Foundation, 2019
   * Student Scholarship, Ideas and Research Track
 
 * Indiana Collegiate Press Association, 2015
   * News Magazines, First Place for Best Sports Photo
 
-Skills
-====
+# Skills
+
 * Programming Languages
   * Markdown, LaTeX
   * Stata, SAS, RStudio
@@ -81,12 +81,20 @@ Skills
   * English (Fluent)
   * Un-contracted Braille (Read & Write)
 
-Industry Experience
-====
+# Industry Experience
+
 * Ernst & Young, Chicago, 2016 - 2018
   * Staff
 
 * Café Tatum Break, Xiamen, 2013 - 2014
   * Co-founder, Manager
+
+
+# Supervisor
+
+**Erkko Autio**,  Professor, Chair in Technology Venturing, Imperial College Business School, [erkko.autio@imperial.ac.uk](erkko.autio@imperial.ac.uk), +44 (0)20 7594 1991
+
+**Ying-Ying Hsieh**,  Assistant Professor of Innovation and Entrepreneurship,  [y.hsieh@imperial.ac.uk](y.hsieh@imperial.ac.uk)
+
 
 ----------------------------
