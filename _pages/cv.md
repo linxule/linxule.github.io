@@ -10,6 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ---
+Imperial College Business School, Imperial College London
+### South Kensington Campus, London SW7 2AZ, UK 			
+### +44 (0) 7422 973233 | linxule@imperial.ac.uk |  [linxule.com](https://linxule.com/)
 
 Education
 ====
@@ -32,6 +35,20 @@ Experience
 
 * University of Notre Dame, Mendoza College of Business, 2015 - 2016
   * Graduate Teaching Assistant
+
+# Professional and University Activities
+
+  * Academy of Management, 2019 - Present
+  	* Ad-Hoc Reviewer
+
+  * Imperial College Business School, 2019 - Present
+  	* Doctoral Student Staff Committee, MRes Social Chair
+
+  * University of Chicago, Booth School of Business, 2018 - 2019
+  	* Research Assistant
+
+  * University of Notre Dame, Mendoza College of Business, 2015 - 2016
+  	* Graduate Teaching Assistant
 
 Publication
 ====
@@ -63,15 +80,6 @@ Skills
   * Mandarin (Native)
   * English (Fluent)
   * Un-contracted Braille (Read & Write)
-
-Professional and University Activities
-====
-* Academy of Management 
-  * Reviewer
-
-* Imperial College Business School, Doctoral Student Staff
-Committee
-  * MRes Social Chair
 
 Industry Experience
 ====
