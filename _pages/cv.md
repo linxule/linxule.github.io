@@ -28,18 +28,11 @@ linxule@imperial.ac.uk |  [linxule.com](https://linxule.com/)
 * University of Notre Dame, 2011 - 2015
   * BBA in Accounting
 
-# Experience
-
-* University of Chicago, Booth School of Business, 2018 - 2019
-  * Research Assistant
-
-* University of Notre Dame, Mendoza College of Business, 2015 - 2016
-  * Graduate Teaching Assistant
-
 # Professional and University Activities
 
   * Academy of Management, 2019 - Present
-  	* Ad-Hoc Reviewer
+  	* Member
+  	* OMT and ENT Division, Ad-Hoc Reviewer
 
   * Imperial College Business School, 2019 - Present
   	* Doctoral Student Staff Committee, MRes Social Chair
