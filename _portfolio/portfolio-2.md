@@ -14,6 +14,6 @@ I use [Marked 2 app (Mac)](https://marked2app.com/) to convert Markdown files an
 Marked 2 has a [Style Gallery](https://marked2app.com/styles/#). I have contributed a template ([Chicago Academic](https://marked2app.com/styles/preview#Chicago%20Academic)) based on the Chicago Manual of Style to this gallery. Also, I have created a template for Academic CV.  
 
 You can download these CSS templates here:
-
 * [Chicago Academic](https://linxule.github.io/files/chicago-academic.css)
 * [Academic CV](https://linxule.github.io/files/academic-cv.css)
+{: .notice--primary}
