@@ -6,7 +6,7 @@ collection: project
 
 I write in Markdown, usually with [Ulysses](https://ulysses.app/) or [Bear](https://bear.app/). To share my writing with others, I convert the Markdown files into other formats, such as PDF or DOCX.
 
-I use [Marked 2 app (sorry, Mac only)](https://marked2app.com/) to convert Markdown files and format the output files according to my needs. Long story short, Marked 2 converts a Markdown file into HTML document file, which in turn gets formatted according to a chosen CSS template.
+I use [Marked 2 app](https://marked2app.com/) (sorry, Mac only) to convert Markdown files and format the output files according to my needs. Long story short, Marked 2 converts a Markdown file into HTML document file, which in turn gets formatted according to a chosen CSS template.
 
 [CSS](https://www.w3schools.com/css/default.asp) is a language that describes the style of an HTML document. CSS describes how HTML elements should be displayed.
 {: .notice--info}
