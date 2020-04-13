@@ -83,7 +83,7 @@ Projects/Work in Progress
   * Co-founder, Manager
 
 
-# Supervisor
+# Supervisors
 
 **[Erkko Autio](https://www.imperial.ac.uk/people/erkko.autio)**,  Professor, Chair in Technology Venturing,
 Imperial College Business School,
