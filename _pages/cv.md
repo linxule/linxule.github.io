@@ -12,7 +12,7 @@ redirect_from:
 ---
 Imperial College Business School, Imperial College London
 South Kensington Campus, London SW7 2AZ, UK 			
-linxule@imperial.ac.uk |  [linxule.com](https://linxule.com/)
+[linxule@imperial.ac.uk](mailto:linxule@imperial.ac.uk) |  [linxule.com](https://linxule.com/)
 
 # Education
 
@@ -85,13 +85,15 @@ Projects/Work in Progress
 
 # Supervisors
 
-**[Erkko Autio](https://www.imperial.ac.uk/people/erkko.autio)**,  Professor, Chair in Technology Venturing,
-Imperial College Business School,
-[erkko.autio@imperial.ac.uk](erkko.autio@imperial.ac.uk), +44 (0)20 7594 1991
+* **[Erkko Autio](https://www.imperial.ac.uk/people/erkko.autio)**
+	* Professor, Chair in Technology Venturing
+	* Imperial College Business School
+	* [erkko.autio@imperial.ac.uk](mailto:erkko.autio@imperial.ac.uk), [+44 (0)20 7594 1991](tel:44(0)2075941991)
 
-**[Ying-Ying Hsieh](https://www.imperial.ac.uk/people/y.hsieh)**,  Assistant Professor of Innovation and Entrepreneurship,  
-Imperial College Business School,
-[y.hsieh@imperial.ac.uk](y.hsieh@imperial.ac.uk)
+* **[Ying-Ying Hsieh](https://www.imperial.ac.uk/people/y.hsieh)**
+	* Assistant Professor of Innovation and Entrepreneurship
+	* Imperial College Business School
+	* [y.hsieh@imperial.ac.uk](mailto:y.hsieh@imperial.ac.uk)
 
 
 ----------------------------
