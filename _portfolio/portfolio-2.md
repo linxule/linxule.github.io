@@ -16,4 +16,7 @@ Marked 2 has a [Style Gallery](https://marked2app.com/styles/#). I have contribu
 You can download these CSS templates here:
 * [Chicago Academic](https://linxule.github.io/files/chicago-academic.css)
 * [Academic CV](https://linxule.github.io/files/academic-cv.css)
+
+
+Cite-while-you-write (CWYW) is another important step in academic writing. I use Zotero, Better BibTex, and Pandoc for CWYW. I hope to cover my methods in the future posts.
 {: .notice--primary}
