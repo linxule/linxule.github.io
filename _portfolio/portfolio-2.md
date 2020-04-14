@@ -1,8 +1,9 @@
 ---
-title: "Academic Writing in Markdown: Formatting with Marked 2 app"
+title: "Academic Writing in Markdown"
 excerpt: "Formatting"
 collection: project
 ---
+## Format and Print with Marked 2 app
 
 I write in Markdown, usually with [Ulysses](https://ulysses.app/) or [Bear](https://bear.app/). To share my writing with others, I convert the Markdown files into other formats, such as PDF or DOCX.
 
@@ -37,5 +38,5 @@ Similarly, you can open the HTML files with Microsoft Word or other word process
 
 However, **the page margins will likely be changed** to the default setting for new documents. For example, I set the default margins of 1 inch for all new documents created in Microsoft Word.
 
-Cite-while-you-write (CWYW) is another important step in academic writing. I use Zotero, Better BibTex, and Pandoc for CWYW. I hope to cover my methods in the future posts.
+Cite-while-you-write (CWYW) is another important step in academic writing. I use Zotero, Better BibTex, and Pandoc for CWYW. I hope to cover my methods in the future.
 {: .notice--primary}

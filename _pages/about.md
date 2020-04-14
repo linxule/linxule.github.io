@@ -15,9 +15,9 @@ My research interests
 -----
 - Blockchain technology, business model innovation, ecosystems, complexity theory
 
-- Communities, open source, decentralization, collective action, social movements 
+- Communities, open source, decentralization, collective action, social movements
 
-- Innovation and creativity in culinary arts, categories 
+- Innovation and creativity in culinary arts, categories
 
 - Organizational stigma, nexus of commercial logic and political logic
 
@@ -26,11 +26,15 @@ Read about my research interests and theoretical approaches in [here](/posts/201
 
 \#MgmtTwitter
 -----
-I draw inspirations from the wisdom and knowledge of these Twitter accounts, categorized based on topics.  
+I draw inspirations from the wisdom and knowledge of these Twitter accounts, which are categorized based on topics.  
 
 * [Management Research](http://linxule.com/twitter1/)
 * [DAOs & Crypto Research](http://linxule.com/twitter2/)
 {: .notice--info}
+
+Academic Writing in Markdown
+-----
+I created a project to document [how I write in Markdown for academic purposes](https://linxule.com/portfolio/portfolio-2/). Writing in Markdown helps me focus on the writing rather than organizing and formatting. Take a look at how I set up my workflows so you don't have to gone through learning Pandoc and CSS. 
 
 Resources and tools
 -----
