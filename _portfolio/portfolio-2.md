@@ -84,14 +84,21 @@ To setup Marked 2 for processing the citations in your writing, you then navigat
 3. Paste the folder location in "Path"
 4. Find the path of Zotero library export (BibTex format)
 5. Find the path of the referencing style file (CSL format)  
-6. Put the following in the "Args": -f markdown+smart -t html5 --filter=/usr/local/bin/pandoc-citeproc --bibliography **[Zotero Library location from Step 4]** --csl **[CSL file location from step 5]**
-7. On my machine, it looks like this "-f markdown+smart -t html5 --filter=/usr/local/bin/pandoc-citeproc --bibliography /Users/xulelin/Documents/Zotero/Library.bib --csl /Users/xulelin/Documents/Zotero/Pandoc/CSL/amj.csl"
+6. Put the following in the "Args":
+
+```-f markdown+smart -t html5 --filter=/usr/local/bin/pandoc-citeproc --bibliography [Zotero Library location from Step 4] --csl [CSL file location from step 5]```
+
+7. On my machine, it looks like this:
+
+```-f markdown+smart -t html5 --filter=/usr/local/bin/pandoc-citeproc --bibliography /Users/xulelin/Documents/Zotero/Library.bib --csl /Users/xulelin/Documents/Zotero/Pandoc/CSL/amj.cs```
 
 
 TL;DR:
 Marked 2 App -> Preferences -> Advanced
-Path: /usr/local/bin/pandoc
-Args: -f markdown+smart -t html5 --filter=/usr/local/bin/pandoc-citeproc --bibliography **~/Zotero/Library.bib** --csl **~/Documents/Zotero/Pandoc/CSL/amj.csl**
+Set Path to:
+```/usr/local/bin/pandoc```
+Set Args to:
+```-f markdown+smart -t html5 --filter=/usr/local/bin/pandoc-citeproc --bibliography ~/Zotero/Library.bib --csl ~/Documents/Zotero/Pandoc/CSL/amj.csl```
 {: .notice--danger}
 
 # Issues and Limitations
