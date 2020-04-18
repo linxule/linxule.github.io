@@ -48,9 +48,11 @@ Cite-while-you-write (CWYW) is the important step in academic writing. A good se
 
 The following posts have been essential for me to set up my CWYW workflow.  
 
-https://davepwsmith.github.io/academic-scrivener-howto/
-https://www.literatureandlatte.com/forum/viewtopic.php?t=26078
-https://raphaelkabo.com/blog/posts/markdown-to-word/
+1. [davepwsmith - Academic writing with Scrivener, Zotero, Pandoc and Marked 2](https://davepwsmith.github.io/academic-scrivener-howto/)
+2. [davepwsmith - Academic writing: Scrivener, Zotero, Pandoc, Marked 2](https://www.literatureandlatte.com/forum/viewtopic.php?t=26078)
+3. [Ralph Kabo - My workflow for transforming academic Markdown into beautiful Word documents](https://raphaelkabo.com/blog/posts/markdown-to-word/)
+
+Ralph Kabo has developed [DocDown](https://raphaelkabo.com/blog/posts/introducing-docdown/), a native macOS app, to convert markdown files into Word documents. DocDown can use an existing Word document as the output template. It is a great solution for anyone looking to convert Markdown into Word documents on a regular basis.
 {: .notice--info}
 
 ## Add citations as you write
@@ -91,3 +93,11 @@ Marked 2 App -> Preferences -> Advanced
 Path: /usr/local/bin/pandoc
 Args: -f markdown+smart -t html5 --filter=/usr/local/bin/pandoc-citeproc --bibliography **~/Zotero/Library.bib** --csl **~/Documents/Zotero/Pandoc/CSL/amj.csl**
 {: .notice--danger}
+
+# Issues and Limitations
+## Export to Word documents with Marked 2
+Marked 2 app seems to have issues with exporting files into Word documents. The formats defined by CSL files can be lost.
+
+Solution 1: Export to HTML files and then open HTML file with Word. Then you can save to Word documents.
+
+Solution 2: Use [DocDown](https://raphaelkabo.com/blog/posts/introducing-docdown/) developed by Ralph Kabo. DocDown automates the conversion from Markdown to Word documents.
