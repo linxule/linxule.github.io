@@ -54,8 +54,16 @@ https://raphaelkabo.com/blog/posts/markdown-to-word/
 {: .notice--info}
 
 ## Add citations as you write
-
 More on this in the future.
+
+### CWYW Solution 1: ZotHero via Alfred
+
+1. [Discussion on Zotero Forum](https://forums.zotero.org/discussion/72773/new-alfred-workflow-zothero-makes-searching-and-pasting-from-zotero-easy-mac)
+2. [ZotHero Alfred Forum page](https://www.alfredforum.com/topic/11658-zothero-%E2%80%94-generate-zotero-citations-in-alfred/)
+3. [Workflow on github](https://github.com/deanishe/zothero)
+4. [Zotero plugins page](https://www.zotero.org/support/plugins)
+
+
 
 ## Generate "References/Bibliography" with Marked 2 app
 
