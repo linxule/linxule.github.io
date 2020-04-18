@@ -12,7 +12,7 @@ I use [Marked 2 app](https://marked2app.com/) (sorry, Mac only) to convert Markd
 [CSS](https://www.w3schools.com/css/default.asp) is a language that describes the style of an HTML document. CSS describes how HTML elements should be displayed.
 {: .notice--info}
 
-## Choose Your Style and Format
+## Choose the Right Style
 
 Marked 2 has a [Style Gallery](https://marked2app.com/styles/#). I have contributed a template ([Chicago Academic](https://marked2app.com/styles/preview#Chicago%20Academic)) based on the Chicago Manual of Style to this gallery.
 
@@ -20,8 +20,12 @@ Also, I have created additional templates for academic writing.
 
 You can download these CSS templates here:
 * [Chicago Academic](https://linxule.github.io/files/chicago-academic.css): based on [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)
+* [AMJ Academic](https://linxule.github.io/files/amj-academic.css): based on the [Academy of Management Journal Style Guide for Authors] (http://aom.org/publications/amj/styleguide/). The library at the University of Queensland also provides a useful [guide to AMJ referencing style](https://guides.library.uq.edu.au/amj-version-for-printing).
 * [Academic CV](https://linxule.github.io/files/academic-cv.css)
-* [Academic Peer Review](https://linxule.github.io/files/academic-review.css): based on [Academy of Management's Reviewer Guidelines](http://aom.org/annualmeeting/reviewerguidelines/), particularly the [Sample Review by Macro Editor](https://aom.org/uploadedFiles/Publications/AMJ/ReviewsbyMacroEditors.pdf).
+* [Academic Peer Review](https://linxule.github.io/files/academic-review.css): based on [Academy of Management's Reviewer Guidelines](http://aom.org/annualmeeting/reviewerguidelines/), particularly the [Sample Review by Macro Editor](https://aom.org/uploadedFiles/Publications/AMJ/ReviewsbyMacroEditors.pdf). I also use this for reading summary/notes.
+
+TL;DR: Different readers demand different styles for papers and manuscripts. Marked 2 allows you to change styles on the fly!
+{: .notice--danger}
 
 
 ## Print and Share
@@ -38,5 +42,44 @@ Similarly, you can open the HTML files with Microsoft Word or other word process
 
 However, **the page margins will likely be changed** to the default setting for new documents. For example, I set the default margins of 1 inch for all new documents created in Microsoft Word.
 
-Cite-while-you-write (CWYW) is another important step in academic writing. I use Zotero, Better BibTex, and Pandoc for CWYW. I hope to cover my methods in the future.
-{: .notice--primary}
+# Cite-while-you-write (CWYW)
+
+Cite-while-you-write (CWYW) is the important step in academic writing. A good setup can make writing with Markdown and formatting with Marked 2 app much more rewarding.
+
+The following posts have been essential for me to set up my CWYW workflow.  
+
+https://davepwsmith.github.io/academic-scrivener-howto/
+https://www.literatureandlatte.com/forum/viewtopic.php?t=26078
+https://raphaelkabo.com/blog/posts/markdown-to-word/
+{: .notice--info}
+
+## Add citations as you write
+
+More on this in the future.
+
+## Generate "References/Bibliography" with Marked 2 app
+
+You need:
+1. Zotero with BetterBibTex
+2. Pandoc and pandoc-citeproc
+3. [Citation Style Language (CSL)](https://citationstyles.org/) file for the reference style of your choice. Preview and download at the [Zotero Style Repository](https://www.zotero.org/styles).   
+
+Marked 2 needs to be configured so that the "BibTex citekey" in the texts can be recognized. Also, this will create the corresponding references/bibliography section for your paper/manuscript.
+
+To setup Marked 2 for processing the citations in your writing, you then navigate to the "Advanced" tab in "Preferences" and fill out the following:
+
+
+1. Check "Enable Custom Processor"
+2. Find the folder location of Pandoc on your machine (usually something like **/usr/local/bin/pandoc**) and make sure you have also installed **pandoc-citeproc**
+3. Paste the folder location in "Path"
+4. Find the path of Zotero library export (BibTex format)
+5. Find the path of the referencing style file (CSL format)  
+6. Put the following in the "Args": -f markdown+smart -t html5 --filter=/usr/local/bin/pandoc-citeproc --bibliography **[Zotero Library location from Step 4]** --csl **[CSL file location from step 5]**
+7. On my machine, it looks like this "-f markdown+smart -t html5 --filter=/usr/local/bin/pandoc-citeproc --bibliography /Users/xulelin/Documents/Zotero/Library.bib --csl /Users/xulelin/Documents/Zotero/Pandoc/CSL/amj.csl"
+
+
+TL;DR:
+Marked 2 App -> Preferences -> Advanced
+Path: /usr/local/bin/pandoc
+Args: -f markdown+smart -t html5 --filter=/usr/local/bin/pandoc-citeproc --bibliography **~/Zotero/Library.bib** --csl **~/Documents/Zotero/Pandoc/CSL/amj.csl**
+{: .notice--danger}
