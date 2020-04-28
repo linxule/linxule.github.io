@@ -19,10 +19,10 @@ Marked 2 has a [Style Gallery](https://marked2app.com/styles/#). I have contribu
 Also, I have created additional templates for academic writing.
 
 You can download these CSS templates here:
-* [Chicago Academic](https://linxule.github.io/files/chicago-academic.css): based on [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)
-* [AMJ Academic](https://linxule.github.io/files/amj-academic.css): based on the [Academy of Management Journal Style Guide for Authors] (http://aom.org/publications/amj/styleguide/). The library at the University of Queensland also provides a useful [guide to AMJ referencing style](https://guides.library.uq.edu.au/amj-version-for-printing).
-* [Academic CV](https://linxule.github.io/files/academic-cv.css)
-* [Academic Peer Review](https://linxule.github.io/files/academic-review.css): based on [Academy of Management's Reviewer Guidelines](http://aom.org/annualmeeting/reviewerguidelines/), particularly the [Sample Review by Macro Editor](https://aom.org/uploadedFiles/Publications/AMJ/ReviewsbyMacroEditors.pdf). I also use this for reading summary/notes.
+* [Chicago Academic.css](https://linxule.github.io/files/css/chicago-academic.css): based on [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)
+* [AMJ Academic.css](https://linxule.github.io/files/css/amj-academic.css): based on the [Academy of Management Journal Style Guide for Authors] (http://aom.org/publications/amj/styleguide/). The library at the University of Queensland also provides a useful [guide to AMJ referencing style](https://guides.library.uq.edu.au/amj-version-for-printing).
+* [Academic CV.css](https://linxule.github.io/files/css.academic-cv.css)
+* [Academic Peer Review.css](https://linxule.github.io/files/academic-review.css): based on [Academy of Management's Reviewer Guidelines](http://aom.org/annualmeeting/reviewerguidelines/), particularly the [Sample Review by Macro Editor](https://aom.org/uploadedFiles/Publications/AMJ/ReviewsbyMacroEditors.pdf). I also use this for reading summary/notes.
 
 TL;DR: Different readers demand different styles for papers and manuscripts. Marked 2 allows you to change styles on the fly!
 {: .notice--danger}
