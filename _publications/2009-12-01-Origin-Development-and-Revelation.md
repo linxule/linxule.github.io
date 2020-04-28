@@ -10,7 +10,7 @@ venue: 'Management Observer'
 paperurl: '10.3969/j.issn.1674-2877.2009.35.167'
 citation: 'Xule, Lin. (2009). &quot;Origin, Development, and Revelation – The Comparison of Charity Cultures between China and the West.&quot; <i>Management Observer</i>.(35):235-236.'
 ---
-[点此下载文献 Download paper here](https://linxule.github.io/files/2009-12-01-Origin-Development-and-Revelation.pdf)
+[点此下载文献 Download paper here](https://linxule.github.io/files/pub/2009-12-01-Origin-Development-and-Revelation.pdf)
 
 关键词：慈善, 中外, 慈善文化, 差异性, 比较研究
 
