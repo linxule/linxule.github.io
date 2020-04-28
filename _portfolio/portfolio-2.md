@@ -90,7 +90,7 @@ To setup Marked 2 for processing the citations in your writing, you then navigat
 
 7. On my machine, it looks like this:
 
-```-f markdown+smart -t html5 --filter=/usr/local/bin/pandoc-citeproc --bibliography /Users/xulelin/Documents/Zotero/Library.bib --csl /Users/xulelin/Documents/Zotero/Pandoc/CSL/amj.cs```
+```-f markdown+smart -t html5 --filter=/usr/local/bin/pandoc-citeproc --bibliography /Users/xulelin/Documents/Zotero/Library.bib --csl /Users/xulelin/Documents/Zotero/Pandoc/CSL/amj.csl```
 
 
 TL;DR:
