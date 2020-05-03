@@ -44,6 +44,7 @@ html > body {
 	text-indent: 0.5in;
 	page-break-inside: auto;
 	}
+
 #wrapper ul, #wrapper ol {
 	list-style-position: inside;
 	padding: 0;
@@ -148,9 +149,57 @@ strong em, em strong {
 	font-style: italic; }
 
 .footnote {
-	color: #3c779c;
-	font-size: 1em;
-	vertical-align: super; }
+	font-size: 12pt;
+	vertical-align: super;
+	line-height: 1;
+	margin: 0;
+	padding: 0;
+}
+
+/* add a line above footnotes*/
+.footnotes:before {
+		content: "———————————————";
+		letter-spacing: -4px;
+		line-height: 1;
+		margin-bottom: 0;
+		margin-top: 0;
+}
+.footnotes ol {
+    font-size: 12pt;
+		padding: 0;
+		margin-bottom: 1;
+		margin-top: 1;
+}
+
+.footnotes ol li {
+    font-size: 12pt;
+		list-style-position: inside;
+		padding-left: 0;
+		text-indent: 0;
+		line-height: 1;
+		margin-bottom: 0;
+		margin-top: 0;
+}
+
+.footnotes ol li p {
+    text-indent: 0;
+    line-height: 100%;
+    font-size: 12pt;
+		line-height: 1;
+		margin-bottom: 0;
+		margin-top: 0;
+		display: inline; /* make text-indent consistent with the document*/
+}
+
+sup,sub,a.footnote {
+    height: 0;
+    line-height: 1;
+    position: relative;
+    vertical-align: super;
+		text-indent: 0;
+}
+
+
 
 dd {
 	margin-bottom: 0; }
@@ -256,13 +305,6 @@ blockquote {
 	text-indent: 0;
 }
 
-sup, sub, a.footnote {
-	font-size: 12pt;
-	height: 0;
-	line-height: 1;
-	position: relative;
-	vertical-align: super; }
-
 sub {
 	vertical-align: sub;
 	top: -1px; }
@@ -295,7 +337,6 @@ table tr:nth-child(even), table td:nth-child(even) {
     size: letter;   /* auto is the initial value */
     margin: 1in 1in 1in 1in; /* this affects the margin in the printer settings top right bottom left*/
 }
-
 
 @media print {
 	body {
