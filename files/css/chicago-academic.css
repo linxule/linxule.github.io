@@ -10,11 +10,14 @@ Paper size: US letter,
 Font: 12pt/16px, Times New Roman, Double-spaced, text-align: justify, indent: 0.5in
 Headers:
 	Heading level formats:
-		 Level 1: Centered, "Bold" and UPPERCASE Capitalization
-		 Level 2: Flush with Left margin, Bold, and Headline-style Capitalization
-		 Level 3: Inline Header, Italic, Bold, Sentence-Style Capitalization, Terminal Period
-		 Level 4: Used for styling hypotheses, padding-left: 0.5in, italic, single-spaced
-		 Level 5 & 6: Not used
+		 Level 1: Centered, Bold, and Headline-style Capitalization
+		 Level 2: Flush Left, Regular, and Headline-style Capitalization
+		 Level 3: Flush left, Bold, and Headline-style Capitalization
+		 Level 4: Flush left, Regular/Roman, and Sentence-style Capitalization
+		Inline Header, Italic, Bold, Sentence-Style Capitalization, Terminal Period
+		 Level 5: Inline Header, Italic, Bold, Sentence-Style Capitalization, Terminal Period
+							 Used for styling hypotheses, padding-left: 0.5in, italic, single-spaced
+		 Level 6: Not used
 Blokcquotes: 2 single-spaced lines after blockquotes,
 References:
 	See at (classes: .references.hanging-indent)
@@ -78,34 +81,45 @@ h1, h2, h3, h4 {
 h1 {
 	text-align: center;
 	font-weight: bold;
-	text-transform: uppercase;
+	text-transform: capitalize;
 }
 
 /*Level 2*/
 h2 {
-	text-transform: none;
-	text-align: left;
-	font-weight: bold;
+	text-align: center;
+	font-weight: normal;
+	text-transform: capitalize;
 }
 
-/*Level 3
-inline header, italic, bold, sentence-style capitalization, terminal period
-not set up due to CSS limitation
-*/
+/*Level 3*/
 h3 {
-	font-style: italic;
+	text-align: left;
 	font-weight: bold;
 	text-transform: capitalize;
 }
 
-h1, h2, h3 {
+/*Level 4
+Need manual adjustment due to CSS limitation.
+*/
+h4 {
+	text-align: left;
+	font-weight: normal;
+	text-transform: none;
+}
+
+h1, h2, h3, h4 {
 	color: #111111;
 	line-height: 2;
 	margin: 0em
 }
 
-/*Level 4 is used for styling hypotheses, 0.*/
-h4 {
+/*Level 5 !important
+inline header, italic, bold, sentence-style capitalization, terminal period
+not set up due to CSS limitation.
+
+Instead, this is used to style hypothese
+*/
+h5 {
 	text-align: left;
 	font-weight: normal;
 	font-style: italic;
@@ -113,6 +127,7 @@ h4 {
 	line-height: 1;
 	margin-top: 1em
 }
+
 
 hr {
 	border: none;
