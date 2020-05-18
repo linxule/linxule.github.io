@@ -3,7 +3,15 @@ title: "Academic Writing in Markdown"
 excerpt: "Formatting"
 collection: project
 ---
-## Format and Print with Marked 2 app
+# Format and Print (with Marked 2 app)
+
+TL;DR: 
+1. Write in Markdown and use Marked 2 to style output files (pdf, docx, or html).
+2. Choose your citation style file (csl) 
+3. Use a css template to style the texts (special attention to references)
+{: .notice--danger}
+
+***
 
 I write in Markdown, usually with [Ulysses](https://ulysses.app/) or [Bear](https://bear.app/). To share my writing with others, I convert the Markdown files into other formats, such as PDF or DOCX.
 
@@ -24,9 +32,9 @@ You can download these CSS templates here:
 * [Academic CV.css](https://linxule.github.io/files/css/academic-cv.css)
 * [Academic Peer Review.css](https://linxule.github.io/files/css/academic-review.css): based on [Academy of Management's Reviewer Guidelines](http://aom.org/annualmeeting/reviewerguidelines/), particularly the [Sample Review by Macro Editor](https://aom.org/uploadedFiles/Publications/AMJ/ReviewsbyMacroEditors.pdf). I also use this for reading summary/notes.
 
-TL;DR: Different readers demand different styles for papers and manuscripts. Marked 2 allows you to change styles on the fly!
-{: .notice--danger}
+## Formatting References 
 
+Check out the codes of [Chicago Academic.css](https://linxule.github.io/files/css/chicago-academic.css), which is based on [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html). There is a section for formatting output of pandoc-citeproc. In my case, I use hanging indent, which is also used by APA style. Feel free to adjust the style according to your needs. 
 
 ## Print and Share
 
@@ -42,7 +50,22 @@ Similarly, you can open the HTML files with Microsoft Word or other word process
 
 However, **the page margins will likely be changed** to the default setting for new documents. For example, I set the default margins of 1 inch for all new documents created in Microsoft Word.
 
-# Cite-while-you-write (CWYW)
+***
+***
+
+# Citation and References 
+
+
+TL;DR:
+Marked 2 App -> Preferences -> Advanced
+Set Path to:
+```/usr/local/bin/pandoc```
+Set Args to:
+```-f markdown+smart -t html5 --filter=/usr/local/bin/pandoc-citeproc --bibliography ~/Zotero/Library.bib --csl ~/Documents/Zotero/Pandoc/CSL/amj.csl```
+{: .notice--danger}
+
+
+## Cite-while-you-write (CWYW)
 
 Cite-while-you-write (CWYW) is the important step in academic writing. A good setup can make writing with Markdown and formatting with Marked 2 app much more rewarding.
 
@@ -55,16 +78,13 @@ The following posts have been essential for me to set up my CWYW workflow.
 Ralph Kabo has developed [DocDown](https://raphaelkabo.com/blog/posts/introducing-docdown/), a native macOS app, to convert markdown files into Word documents. DocDown can use an existing Word document as the output template. It is a great solution for anyone looking to convert Markdown into Word documents on a regular basis.
 {: .notice--info}
 
-## Add citations as you write
-More on this in the future.
 
-### CWYW Solution 1: ZotHero via Alfred
+### Cite-while-you-write (CWYW) Solution 1: ZotHero via Alfred
 
 1. [Discussion on Zotero Forum](https://forums.zotero.org/discussion/72773/new-alfred-workflow-zothero-makes-searching-and-pasting-from-zotero-easy-mac)
 2. [ZotHero Alfred Forum page](https://www.alfredforum.com/topic/11658-zothero-%E2%80%94-generate-zotero-citations-in-alfred/)
 3. [Workflow on github](https://github.com/deanishe/zothero)
 4. [Zotero plugins page](https://www.zotero.org/support/plugins)
-
 
 
 ## Generate "References/Bibliography" with Marked 2 app
@@ -92,14 +112,6 @@ To setup Marked 2 for processing the citations in your writing, you then navigat
 
 ```-f markdown+smart -t html5 --filter=/usr/local/bin/pandoc-citeproc --bibliography /Users/xulelin/Documents/Zotero/Library.bib --csl /Users/xulelin/Documents/Zotero/Pandoc/CSL/amj.csl```
 
-
-TL;DR:
-Marked 2 App -> Preferences -> Advanced
-Set Path to:
-```/usr/local/bin/pandoc```
-Set Args to:
-```-f markdown+smart -t html5 --filter=/usr/local/bin/pandoc-citeproc --bibliography ~/Zotero/Library.bib --csl ~/Documents/Zotero/Pandoc/CSL/amj.csl```
-{: .notice--danger}
 
 # Issues and Limitations
 ## Export to Word documents with Marked 2
