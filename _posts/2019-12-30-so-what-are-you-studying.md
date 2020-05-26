@@ -1,7 +1,7 @@
 ---
 title: '"So, what are you studying?"'
 date: 2020-05-26
-permalink: /posts/2019/12/so-what-are-you-studying/
+permalink: /posts/2020/05/so-what-are-you-studying/
 tags:
   - research
 ---
