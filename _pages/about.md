@@ -13,8 +13,11 @@ After eight years of studying and working in the US, I moved to London in the au
 
 # My research interests
 -----
+Read about my [research interests](/posts/2019/12/so-what-are-you-studying/) and check out my [current projects](/portfolio/).
+{: .notice--danger}
+
 <details>
-  <summary>Click for a quick overview</summary>
+  <summary>Quick overview</summary>
   
 * Ecosystems, governance, legitimacy, organizational design  
 
@@ -26,8 +29,6 @@ After eight years of studying and working in the US, I moved to London in the au
 
 </details>
 
-Read about my [research interests](/posts/2019/12/so-what-are-you-studying/) and check out my [current projects](/portfolio/).
-{: .notice--danger}
 
 # Curated contents
 -----
