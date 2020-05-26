@@ -8,23 +8,25 @@ redirect_from:
 ---
 {% include base_path %}
 ------
- [subscribe via RSS feed](https://www.inoreader.com/stream/user/1004906386/tag/DAO).
 
 # Curated collection of blogs, news, research, and tweets on DAOs/DACs/LAOs
+[Subscribe via RSS feed](https://www.inoreader.com/stream/user/1004906386/tag/DAO).
 <details>
-  <summary>Click to expand[the RSS feed](https://www.inoreader.com/stream/user/1004906386/tag/DAO)!</summary>
+  <summary>Click to expand!</summary>
   
 <iframe width="770" height="800" src="https://www.inoreader.com/stream/user/1004906386/tag/DAO/view/html?cs=m&t=Blogs%2C%20News%2C%20Research%2C%20and%20Tweets%20on%20DAOs&w=750&fs=12&sb=y" frameborder="0" tabindex="-1"></iframe>
   
 </details>
 
 
-# Just the Tweets on DAOs/DACs/LAOs
+# Just the Tweets 
+[Twitter list #DAO&Crypto](https://twitter.com/LinXule/lists/daos-crypto-research?ref_src=twsrc%5Etfw)
+
 <details>
-  <summary>Click to see [Twitter list](https://twitter.com/LinXule/lists/daos-crypto-research?ref_src=twsrc%5Etfw)!</summary>
+  <summary>Click to see recent tweets!</summary>
 
 <a class="twitter-timeline" href="https://twitter.com/LinXule/lists/daos-crypto-research?ref_src=twsrc%5Etfw">A Twitter List by LinXule</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> %/
 
-
+</details>
 ------
 
