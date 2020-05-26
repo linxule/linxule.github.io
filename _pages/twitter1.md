@@ -1,5 +1,5 @@
 ---
-permalink: /twitter1/
+permalink: /curation-mgmt/
 title: "MgmtResearch"
 excerpt: "Inspiration from Twitter"
 author_profile: true
