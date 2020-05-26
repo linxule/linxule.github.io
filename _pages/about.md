@@ -12,14 +12,13 @@ redirect_from:
 After eight years of studying and working in the US, I moved to London in the autumn of 2019. Currently, I am a PhD student in the Department of Management and Entrepreneurship at the Imperial College Business School.
 
 # My research interests
-Read about my [research interests](/posts/2019/12/so-what-are-you-studying/) and check out my [current projects](/portfolio/).
 
-## Quick overview
   * Ecosystems, governance, legitimacy, organizational design  
   * Decentralized autonomous organizations(DAOs), crypto, communities, crowds  
   * Collective action, social movements, categories, stigma  
   * Innovation and creativity in culinary arts  
-{: .notice--info}
+
+Read about my [research interests](/posts/2019/12/so-what-are-you-studying/) and check out my [current projects](/portfolio/).
 
 
 # Curated contents
