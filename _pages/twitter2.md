@@ -1,6 +1,6 @@
 ---
 permalink: /twitter2/
-title: "My Twitter List - DAOs and Crypto Research"
+title: "DAOs and Crypto Research"
 excerpt: "Inspiration from Twitter"
 author_profile: true
 redirect_from:
@@ -19,8 +19,8 @@ redirect_from:
 </details>
 
 
-# Just the Tweets 
-[Twitter list #DAO&Crypto](https://twitter.com/LinXule/lists/daos-crypto-research?ref_src=twsrc%5Etfw)
+# Twitter List - DAOs & Crypto Research
+[Link to the Twitter list](https://twitter.com/LinXule/lists/daos-crypto-research?ref_src=twsrc%5Etfw)
 
 <details>
   <summary>Click to see recent tweets!</summary>
