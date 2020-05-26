@@ -12,7 +12,7 @@ My research builds on the existing research in governance, legitimacy, organizat
 I am interested in the trend of decentralization in various aspects of society and the associated implications for individuals, groups, communities, organizations, and alike. In addition, I am interested in the innovation and creativity in the culinary industry.
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>See details</summary>
   
 ### Decentralization
 This stream of research aims to explore how more decentralized forms of organizing are/ will be different from existing forms of organizing when it comes to venture creation, organizational learning, and innovation.
