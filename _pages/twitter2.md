@@ -19,6 +19,9 @@ redirect_from:
 </details>
 
 
+
+
+
 # Twitter List - DAOs & Crypto Research
 [Link to the Twitter list](https://twitter.com/LinXule/lists/daos-crypto-research?ref_src=twsrc%5Etfw)
 
