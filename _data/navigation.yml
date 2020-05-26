@@ -4,6 +4,12 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
+  - title: "#MgmtResearch"
+    url: /curation-mgmt/
+
+  - title: "#DAOs"
+    url: /curation-dao/
+
   - title: "Projects"
     url: /portfolio/
 
@@ -16,11 +22,5 @@ main:
   - title: "中文"
     url: http://fanyi.baidu.com/transpage?query=linxule.com&source=url&ie=utf8&from=en&to=zh&render=1
 
-  - title: "Other Languages"
+  - title: "Languages"
     url: https://translate.google.com/translate?sl=en&tl=zh-CN&u=linxule.com
-
-  - title: "#MgmtResearch"
-    url: /curation-mgmt/
-
-  - title: "#DAOs"
-    url: /curation-dao/
