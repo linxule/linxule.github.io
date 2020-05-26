@@ -19,8 +19,8 @@ main:
   - title: "Other Languages"
     url: https://translate.google.com/translate?sl=en&tl=zh-CN&u=linxule.com
 
-  - title: "#Management"
-    url: /twitter1/
+  - title: "#MgmtResearch"
+    url: /curation-mgmt/
 
   - title: "#DAOs&Crypto"
-    url: /twitter2/
+    url: /curation-dao/
