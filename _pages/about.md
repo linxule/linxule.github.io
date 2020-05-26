@@ -21,8 +21,8 @@ After eight years of studying and working in the US, I moved to London in the au
 Read about my [research interests](/posts/2019/12/so-what-are-you-studying/) and check out my [current projects](/portfolio/).
 
 
-## Curated contents
-Wisdom of the communities and crowds, via blogs, Twitter, and other parts of the Web.
+## Wisdom and Knowledge of communities and crowds
+Via blogs, Twitter, and other parts of the Web.
 
   * [Management Research](http://linxule.com/curation-mgmt/)
   * [DAOs & Crypto Research](http://linxule.com/curation-dao/)
