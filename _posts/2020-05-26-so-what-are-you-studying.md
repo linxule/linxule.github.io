@@ -11,6 +11,9 @@ My research builds on the existing research in governance, legitimacy, organizat
 ## Current research interests
 I am interested in the trend of decentralization in various aspects of society and the associated implications for individuals, groups, communities, organizations, and alike. In addition, I am interested in the innovation and creativity in the culinary industry.
 
+<details>
+  <summary>Click to expand!</summary>
+  
 ### Decentralization
 This stream of research aims to explore how more decentralized forms of organizing are/ will be different from existing forms of organizing when it comes to venture creation, organizational learning, and innovation.
 
@@ -24,6 +27,7 @@ Some questions that I am investigating are:
 
 ### Innovation and creativity in culinary arts
 This stream of research aims to explore how the new styles/categories of cuisine emerge and evolve through the networks of elite restaurants and chefs. These elite restaurants and chefs are consistently producing innovative and creative dishes and beverages to stay in the competition and earn prestige (i.e., Michelin stars).
+</details>
 
 ## Ideas and theories from other disciplines
 Knowledge from outside of management research field also shapes how I develop and approach research questions.
