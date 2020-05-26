@@ -26,15 +26,15 @@ After eight years of studying and working in the US, I moved to London in the au
 
 </details>
 
-Read about my [research interests](/posts/2019/12/so-what-are-you-studying/) and check out my [current project(s)](/portfolio/).
+Read about my [research interests](/posts/2019/12/so-what-are-you-studying/) and check out my [current projects](/portfolio/).
 {: .notice--danger}
 
 # Curated contents
 -----
-Wisdom and knowledge of via Blogs and Twitter and other parts of the Web.
+Wisdom of the communities and crowds, via blogs, Twitter, and other parts of the Web.
 
-* [Curation for Management Research](http://linxule.com/curation-mgmt/)
-* [Curation for DAOs & Crypto Research](http://linxule.com/curation-dao/)
+* [Management Research](http://linxule.com/curation-mgmt/)
+* [DAOs & Crypto Research](http://linxule.com/curation-dao/)
 {: .notice--info}
 
 # Academic Writing in Markdown
