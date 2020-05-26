@@ -14,19 +14,19 @@ I am interested in the trend of decentralization in various aspects of society a
 <details>
   <summary>See details</summary>
   
-### Decentralization
-This stream of research aims to explore how more decentralized forms of organizing are/ will be different from existing forms of organizing when it comes to venture creation, organizational learning, and innovation.
+  ### Decentralization
+  This stream of research aims to explore how more decentralized forms of organizing are/ will be different from existing forms of organizing when it comes to venture creation, organizational learning, and innovation.
 
-As there's no consensus about the definitions of decentralized organizations, my research covers a range of decentralized organizations: Decentralized organizations, Decentralized Autonomous Organizations (DAOs), Decentralized Autonomous Corporations/Companies (DACs).
+  As there's no consensus about the definitions of decentralized organizations, my research covers a range of decentralized organizations: Decentralized organizations, Decentralized Autonomous Organizations (DAOs), Decentralized Autonomous Corporations/Companies (DACs).
 {: .notice--warning}
 
-Some questions that I am investigating are:
-- How blockchain technology enables new forms of organizing that are decentralized(e.g., DAOs) ?  
-- What drives the emergence and development of blockchain ecosystems?
-- What are the implications for management research (e.g., boundaries of organizations, unmediated actors, crowdsourcing)?
+  Some questions that I am investigating are:
+  - How blockchain technology enables new forms of organizing that are decentralized(e.g., DAOs) ?  
+  - What drives the emergence and development of blockchain ecosystems?
+  - What are the implications for management research (e.g., boundaries of organizations, unmediated actors, crowdsourcing)?
 
-### Innovation and creativity in culinary arts
-This stream of research aims to explore how the new styles/categories of cuisine emerge and evolve through the networks of elite restaurants and chefs. These elite restaurants and chefs are consistently producing innovative and creative dishes and beverages to stay in the competition and earn prestige (i.e., Michelin stars).
+  ### Innovation and creativity in culinary arts
+  This stream of research aims to explore how the new styles/categories of cuisine emerge and evolve through the networks of elite restaurants and chefs. These elite restaurants and chefs are consistently producing innovative and creative dishes and beverages to stay in the competition and earn prestige (i.e., Michelin stars).
 </details>
 
 ## Ideas and theories from other disciplines
