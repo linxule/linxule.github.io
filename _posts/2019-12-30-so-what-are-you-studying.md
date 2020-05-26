@@ -5,11 +5,11 @@ permalink: /posts/2019/12/so-what-are-you-studying/
 tags:
   - research
 ---
-My theoretical approaches
+Theoretical approaches
 ======
 My theoretical approaches stem from organizational theory & learning, entrepreneurial & platform ecosystems, and social networks.
 
-My current research interests
+Current research interests
 ======
 I am interested in the trend of decentralization in various aspects of society and the associated implications for individuals, groups, communities, organizations, and alike. In addition, I am interested in the innovation and creativity in the culinary industry.
 
