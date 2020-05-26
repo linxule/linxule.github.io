@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 -----
-After eight years of studying and working in the US, I moved to London in the autumn of 2019. Currently, I am a PhD student in the Department of Management and Entrepreneurship at the Imperial College Business School.
+I am a PhD student in the Department of Management and Entrepreneurship at the Imperial College Business School. I joined Imperial in 2019. Previously, I spent eight years studying and working in South Bend and Chicago. 
 
 ## Research interests
 
