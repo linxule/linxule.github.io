@@ -17,9 +17,13 @@ After eight years of studying and working in the US, I moved to London in the au
   <summary>Click for a quick overview</summary>
   
 * Ecosystems, governance, legitimacy, organizational design  
+
 * Decentralized autonomous organizations(DAOs), crypto, communities, crowds  
+
 * Collective action, social movements, categories, stigma  
+
 * Innovation and creativity in culinary arts  
+
 </details>
 
 Read about my [research interests](/posts/2019/12/so-what-are-you-studying/) and check out my [current project(s)](/portfolio/).
