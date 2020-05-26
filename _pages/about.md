@@ -17,7 +17,7 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
   * DAOs (decentralized autonomous organizations), crypto, public goods, commons
   * Communities, collective action, social movements  
 
-More on my [research interests](/posts/2019/12/so-what-are-you-studying/) and [current projects](/portfolio/).
+More on my [research interests](/posts/2020/05/so-what-are-you-studying/) and [current projects](/portfolio/).
 
 
 ## Wisdom and Knowledge of communities and crowds
