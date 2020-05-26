@@ -10,7 +10,6 @@ My research builds on the existing research in governance, legitimacy, organizat
 
 ## Current research interests
 I am interested in the trend of decentralization in various aspects of society and the associated implications for individuals, groups, communities, organizations, and alike. In addition, I am interested in the innovation and creativity in the culinary industry.
-
 <details>
   <summary>See details</summary>
   
