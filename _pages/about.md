@@ -11,13 +11,13 @@ redirect_from:
 -----
 I am a PhD student in the Department of Management and Entrepreneurship at the Imperial College Business School. I joined Imperial in 2019. Previously, I spent eight years studying and working in South Bend and Chicago. 
 
-## RCurrent research focus
+## Current research focus
 
   * Ecosystems, governance, organizational design  
   * DAOs (decentralized autonomous organizations), crypto, public goods, commons
   * Communities, collective action, social movements  
 
-Check out my [research interests](/posts/2019/12/so-what-are-you-studying/) and [current projects](/portfolio/).
+More on my [research interests](/posts/2019/12/so-what-are-you-studying/) and [current projects](/portfolio/).
 
 
 ## Wisdom and Knowledge of communities and crowds
