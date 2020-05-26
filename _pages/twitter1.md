@@ -1,6 +1,6 @@
 ---
 permalink: /twitter1/
-title: "My Twitter List - Management Research"
+title: "Twitter List - Management Research"
 excerpt: "Inspiration from Twitter"
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 
 ------
 
-# [Twitter list #MgmtResearch](https://twitter.com/LinXule/lists/mgmtresearch?ref_src=twsrc%5Etfw) into RSS readers like [Inoreader](inoreader.com/)
+# [Link to Twitter list #MgmtResearch](https://twitter.com/LinXule/lists/mgmtresearch?ref_src=twsrc%5Etfw).
 Individuals, blogs, and journals in various fields, such as management, sociology, and psychology
 <details>
   <summary>Click to check out the recent tweets!</summary>
