@@ -1,5 +1,5 @@
 ---
-permalink: /twitter2/
+permalink: /curation-dao/
 title: "DAOs and Crypto Research"
 excerpt: "Inspiration from Twitter"
 author_profile: true
