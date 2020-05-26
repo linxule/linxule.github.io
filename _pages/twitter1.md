@@ -1,6 +1,6 @@
 ---
 permalink: /twitter1/
-title: "Twitter List - Management Research"
+title: "MgmtResearch"
 excerpt: "Inspiration from Twitter"
 author_profile: true
 redirect_from:
@@ -10,8 +10,8 @@ redirect_from:
 
 ------
 
-# Practitioners and academics - individuals and organizations in fields of management, sociology, and psychology, and more
-[Link to Twitter list #MgmtResearch](https://twitter.com/LinXule/lists/mgmtresearch?ref_src=twsrc%5Etfw).
+# Practitioners and academics. Management, sociology, and psychology, and more
+[Link to the Twitter list](https://twitter.com/LinXule/lists/mgmtresearch?ref_src=twsrc%5Etfw).
 
 <details>
   <summary>Click to check out the recent tweets!</summary>
