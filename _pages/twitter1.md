@@ -10,8 +10,9 @@ redirect_from:
 
 ------
 
-# [Link to Twitter list #MgmtResearch](https://twitter.com/LinXule/lists/mgmtresearch?ref_src=twsrc%5Etfw).
-Individuals, blogs, and journals in various fields, such as management, sociology, and psychology
+# Practitioners and academics - individuals and organizations in fields of management, sociology, and psychology, and more
+[Link to Twitter list #MgmtResearch](https://twitter.com/LinXule/lists/mgmtresearch?ref_src=twsrc%5Etfw).
+
 <details>
   <summary>Click to check out the recent tweets!</summary>
   
