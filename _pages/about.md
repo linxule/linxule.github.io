@@ -14,15 +14,15 @@ After eight years of studying and working in the US, I moved to London in the au
 My research interests
 -----
 <details>
-  <summary>Click to see a list of topics and contexts</summary>
+  <summary>Click for a quick overview</summary>
   
-- Blockchain technology, business model innovation, ecosystems, complexity theory
-- Communities, open source, decentralization, collective action, social movements
-- Innovation and creativity in culinary arts, categories
-- Organizational stigma, nexus of commercial logic and political logic
+* Ecosystems, governance, legitimacy, organizational design
+* Decentralized autonomous organizations(DAOs), crypto, communities, crowds 
+* Collective action, social movements, categories, stigma
+* Innovation and creativity in culinary arts
 </details>
 
-Read more about my [research interests](/posts/2019/12/so-what-are-you-studying/) and check out my [current project(s)](/portfolio/).
+Read about my [research interests](/posts/2019/12/so-what-are-you-studying/) and check out my [current project(s)](/portfolio/).
 {: .notice--danger}
 
 # Curated contents
