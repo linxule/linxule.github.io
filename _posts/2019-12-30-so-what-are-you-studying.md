@@ -1,6 +1,6 @@
 ---
 title: '"So, what are you studying?"'
-date: 2019-12-30
+date: 2020-05-26
 permalink: /posts/2019/12/so-what-are-you-studying/
 tags:
   - research
