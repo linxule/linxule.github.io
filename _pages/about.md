@@ -13,38 +13,33 @@ After eight years of studying and working in the US, I moved to London in the au
 
 My research interests
 -----
+<details>
+  <summary>Click to see a list of topics and contexts</summary>
+  
 - Blockchain technology, business model innovation, ecosystems, complexity theory
-
 - Communities, open source, decentralization, collective action, social movements
-
 - Innovation and creativity in culinary arts, categories
-
 - Organizational stigma, nexus of commercial logic and political logic
+</details>
 
-Read about my research interests and theoretical approaches in [here](/posts/2019/12/so-what-are-you-studying/). Or, take a look at my [current project(s)](/portfolio/).
+Read more about my [research interests](/posts/2019/12/so-what-are-you-studying/) and check out my [current project(s)](/portfolio/).
 {: .notice--danger}
 
-\#MgmtTwitter
+# Curated contents
 -----
-I draw inspirations from the wisdom and knowledge of these Twitter accounts, which are categorized based on topics.  
+Wisdom and knowledge of via Blogs and Twitter and other parts of the Web.
 
-* [Management Research](http://linxule.com/twitter1/)
-* [DAOs & Crypto Research](http://linxule.com/twitter2/)
+* [Curation for Management Research](http://linxule.com/curation-mgmt/)
+* [Curation for DAOs & Crypto Research](http://linxule.com/curation-dao/)
 {: .notice--info}
 
 Academic Writing in Markdown
 -----
-I created a project to document [how I write in Markdown for academic purposes](https://linxule.com/portfolio/portfolio-2/). Writing in Markdown helps me focus on the writing rather than organizing and formatting. Take a look at how I set up my workflows so you don't have to gone through learning Pandoc and CSS. 
+I created a project to document [how I write in Markdown for academic purposes](https://linxule.com/portfolio/portfolio-2/). Writing in Markdown helps me focus on the writing rather than organizing and formatting. Take a look at how I set up my workflows (w/ Pandoc, CSS,and Zotero).
 
 Resources and tools
 -----
-During my study and research, I collect various types of learning resources and tools. I cover various topics, such as:
-
-* Programming languages(LaTex, R, Stata)
-* Research methods(CARMA)
-* Workshops and training camps
-* Online courses
-{: .notice--primary}
+During my study and research, I collect various types of learning resources and tools. I cover various topics, such as: research tools(DEVONthink, Notion, Stata), research methods(qualitative), workshops, and online courses (CARMA).
 
 <a href="https://www.notion.so/linxule/Learning-Resources-and-tools-7ada6088f41745a8989ff86259884c7c" class="btn btn--primary" target="_blank">Check it out via Notion.so</a>
 
