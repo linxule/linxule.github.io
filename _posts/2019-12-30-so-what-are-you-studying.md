@@ -5,9 +5,9 @@ permalink: /posts/2019/12/so-what-are-you-studying/
 tags:
   - research
 ---
-Theoretical approaches
+Theoretical lens
 ======
-My theoretical approaches stem from organizational theory & learning, entrepreneurial & platform ecosystems, and social networks.
+My research builds on the existing research in governance, legitimacy, organizational design, and ecosystems. Novel and emerging phenomenon drive my inquiries.
 
 Current research interests
 ======
