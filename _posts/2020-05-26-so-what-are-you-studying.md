@@ -5,15 +5,15 @@ permalink: /posts/2020/05/so-what-are-you-studying/
 tags:
   - research
 ---
-## Theoretical lens
+# Theoretical lens
 My research builds on the existing research in governance, legitimacy, organizational design, and ecosystems. Novel and emerging phenomenon drive my inquiries.
 
 
-## Current research interests
+# Current research interests
 I am interested in the trend of decentralization in various aspects of society and the associated implications for individuals, groups, communities, organizations, and alike. In addition, I am interested in the innovation and creativity in the culinary industry.
 
   
-### Decentralization
+## Decentralization
 This stream of research aims to explore how more decentralized forms of organizing are/ will be different from existing forms of organizing when it comes to venture creation, organizational learning, and innovation.
 
 
@@ -26,7 +26,7 @@ Some questions that I am investigating are:
 - What drives the emergence and development of blockchain ecosystems?
 - What are the implications for management research (e.g., boundaries of organizations, unmediated actors, crowdsourcing)?
 
-### Innovation and creativity in culinary arts
+## Innovation and creativity in culinary arts
 This stream of research aims to explore how the new styles/categories of cuisine emerge and evolve through the networks of elite restaurants and chefs. These elite restaurants and chefs are consistently producing innovative and creative dishes and beverages to stay in the competition and earn prestige (i.e., Michelin stars).
 
 
