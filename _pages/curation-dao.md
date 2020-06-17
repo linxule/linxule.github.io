@@ -12,7 +12,7 @@ redirect_from:
 # Curated collection of blogs, news, research, and tweets on DAOs/DACs/LAOs
 [Subscribe via RSS feed](https://www.inoreader.com/stream/user/1004906386/tag/DAO).
 <details>
-  <summary>Click to see recent articles!</summary>
+  <summary>Click to see</summary>
   
 <iframe width="770" height="800" src="https://www.inoreader.com/stream/user/1004906386/tag/DAO/view/html?cs=m&t=Blogs%2C%20News%2C%20Research%2C%20and%20Tweets%20on%20DAOs&w=750&fs=12&sb=y" frameborder="0" tabindex="-1"></iframe>
   
@@ -20,6 +20,19 @@ redirect_from:
 
 
 ***
+
+
+# Academic Research related to blockchain and DAOs
+<details>
+  <summary>Click to see</summary>
+  
+<iframe width="670" height="800" src="https://www.inoreader.com/stream/user/1004906386/tag/Academic%20Research%20on%20Blockchain%20and%20DAOs/view/html?cs=m" frameborder="0" tabindex="-1"></iframe>
+
+</details>
+
+
+***
+
 
 
 # Twitter List - DAOs & Crypto Research
