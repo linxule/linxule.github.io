@@ -27,7 +27,7 @@ redirect_from:
 <details>
   <summary>Click to see</summary>
   
-<iframe width="670" height="800" src="https://www.inoreader.com/stream/user/1004906386/tag/Academic%20Research%20on%20Blockchain%20and%20DAOs/view/html?cs=m" frameborder="0" tabindex="-1"></iframe>
+<iframe width="770" height="800" src="https://www.inoreader.com/stream/user/1004906386/tag/Academic%20Research%20on%20Blockchain%20and%20DAOs/view/html?cs=m" frameborder="0" tabindex="-1"></iframe>
 
 </details>
 
