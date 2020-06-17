@@ -23,6 +23,7 @@ redirect_from:
 
 
 # Academic Research related to blockchain and DAOs
+[Subscribe via RSS feed](https://www.inoreader.com/stream/user/1004906386/tag/Academic%20Research%20on%20Blockchain%20and%20DAOs)
 <details>
   <summary>Click to see</summary>
   
