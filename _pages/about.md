@@ -28,7 +28,12 @@ Via blogs, Twitter, and other parts of the Web.
 
 
 ## Academic Writing in Markdown
-Markdown helps me focus on the writing rather than organizing and formatting. See how to set up your workflow for [academic writing in Markdown](https://linxule.com/portfolio/portfolio-2/). 
+Markdown helps me focus on the writing rather than organizing and formatting. See how to set up your workflow for [academic writing in Markdown](https://linxule.com/portfolio/portfolio-2/).
+
+Software/tools that I am currently using:
+1. [Zettlr](https://www.zettlr.com/)(best integration with Zotero: in-app look up citation, one click to open PDF for each citation)
+2. [Obsidian](https://obsidian.md/)(similar to Roam Research but offline. Local network graphs!)
+3. [Roam-Highligher - Chrome Extension](https://github.com/GitMurf/roam-highlighter#how-to-use-the-highlighter) (great to taking notes on webpages and paste highlights in markdown)
 
 
 ## Resources and tools
