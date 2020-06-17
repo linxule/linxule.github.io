@@ -9,8 +9,8 @@ redirect_from:
 {% include base_path %}
 ------
 
-# Curated collection of blogs, news, research, and tweets on DAOs/DACs/LAOs
-<a href="www.inoreader.com?add_feed={https://www.inoreader.com/stream/user/1004906386/tag/DAO}"><img src="https://www.inoreader.com/brand/img/subscribe-btn-x2.png" width="130"></a>
+# Curated collection of blogs, news, research, and tweets on DAOs, Crypto, and Web 3.0 
+[RSS feed](https://www.inoreader.com/stream/user/1004906386/tag/DAO%2C%20Crypto%2C%20and%20Web%203.0/view/json)
 <details>
   <summary>Click to see</summary>
   
@@ -23,7 +23,7 @@ redirect_from:
 
 
 # Academic Research related to blockchain and DAOs
-<a href="www.inoreader.com?add_feed={https://www.inoreader.com/stream/user/1004906386/tag/Academic%20Research%20on%20Blockchain%20and%20DAOs}"><img src="https://www.inoreader.com/brand/img/subscribe-btn-x2.png" width="130"></a>
+[RSS feed](https://www.inoreader.com/stream/user/1004906386/tag/Academic%20Research%20on%20Blockchain%20and%20DAOs/view/json)
 <details>
   <summary>Click to see</summary>
   
