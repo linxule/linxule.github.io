@@ -5,6 +5,10 @@ permalink: /posts/2020/05/so-what-are-you-studying/
 tags:
   - research
 ---
+**Theories, contexts, and ideas**
+
+***
+
 # Theoretical lens
 My research builds on the existing research in governance, legitimacy, organizational design, and ecosystems. Novel and emerging phenomenon drive my inquiries.
 
