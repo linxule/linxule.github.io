@@ -5,7 +5,7 @@ permalink: /posts/2020/06/resources-for-dao-research/
 tags:
   - research
 ---
-[Comment on HackMD.io](https://hackmd.io/@jhWWVmuuRp2DwQqyB2DAxg/SJWZB1668) & [View on the Roam page](https://roamresearch.com/#/app/PublicContent_LinXule/page/vPEa3y5n6)
+[Read on Github page](https://linxule.com/posts/2020/06/resources-for-dao-research/)|[Comment on HackMD.io](https://hackmd.io/@jhWWVmuuRp2DwQqyB2DAxg/SJWZB1668)|[View on the Roam page](https://roamresearch.com/#/app/PublicContent_LinXule/page/vPEa3y5n6)
 
 # Industry Research
 ## Research Projects
