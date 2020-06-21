@@ -5,7 +5,7 @@ permalink: /posts/2020/06/resources-for-dao-research/
 tags:
   - research
 ---
-[Read on Github page](https://linxule.com/posts/2020/06/resources-for-dao-research/)|[Comment on HackMD.io](https://hackmd.io/@jhWWVmuuRp2DwQqyB2DAxg/SJWZB1668)|[View on the Roam page](https://roamresearch.com/#/app/PublicContent_LinXule/page/vPEa3y5n6)
+[Read on Github page](https://linxule.com/posts/2020/06/resources-for-dao-research/) | [Comment on HackMD.io](https://hackmd.io/@jhWWVmuuRp2DwQqyB2DAxg/SJWZB1668) | [View on the Roam page](https://roamresearch.com/#/app/PublicContent_LinXule/page/vPEa3y5n6)
 
 # Industry Research
 ## Research Projects
@@ -60,7 +60,7 @@ tags:
 	- journals, literature review, other bibliographies
 	- [Public Zotero Library](https://www.zotero.org/groups/2216205/blockchain_research_network/library?usenewlibrary=0) Old view so you can see RSS feed for each collection/folder
 	- [RSS for the group library](https://api.zotero.org/groups/2216205/items/top?start=0&limit=25&format=atom&v=1)
-	- [RSS feed for the "Social and Human" collection](https://api.zotero.org/groups/2216205/collections/Q76H4XH5/items/top?start=0&limit=25&format=atom&v=1)^^
+	- [RSS feed for the "Social and Human" collection](https://api.zotero.org/groups/2216205/collections/Q76H4XH5/items/top?start=0&limit=25&format=atom&v=1)
 - [The Wharton Cryptogovernance Workshop](https://cryptogov.net)
 	- [Raw data of survey responses](https://cryptogov.net/export-spreadsheet/)
 - [Cambridge Centre for Alternative Finance: Cambridge Judge Business School](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/)
