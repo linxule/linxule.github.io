@@ -32,7 +32,8 @@ tags:
 	- how to build and improve DAOs
 ## Wiki & Reading Lists
 - [dGov - Governance Toolkit](https://forum.dgov.foundation/t/governance-toolkit/137)
-
+- [DAOtalk - DAO Legal resource list](https://daotalk.org/t/resource-list-dao-legal/533/7)
+    - [see my compilation](https://hackmd.io/@LinXule/BywFKmp6L) (based on version Dec 19, 2019)
 ## White paper lists
 - [Digital Coin Data’s white paper list](https://www.digitalcoindata.com/bitcoin-cryptocurrency-whitepapers/)
 - [whitepaper.io](https://whitepaper.io/)
