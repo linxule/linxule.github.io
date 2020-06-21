@@ -82,6 +82,7 @@ tags:
 		- [Blockchain and Law](https://www.blockchainresearchnetwork.org/docs/blockchain-and-law/)
 		- more…
 - [Wharton - Blockchain governance reading list](https://docs.google.com/document/d/1Vf2-DGW5ppSOOp-yLXxm6wIAMGU9FKAg3L5GFHA9iiM/edit)
+  - quick overview of theoretical approaches towards blockchain governance
 - [Blockchain library](https://blockchainlibrary.org/2017/10/academic-blockchain-publications/) ( last updated 2017)
 	- [List by topics](https://blockchainlibrary.org/2018/06/a-curated-list-of-resources-for-cryptoeconomics-research/)
 	- [Github deposit](https://github.com/jpantunes/awesome-cryptoeconomics)
