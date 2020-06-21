@@ -73,7 +73,7 @@ tags:
 	- [List by topics](https://blockchainlibrary.org/2018/06/a-curated-list-of-resources-for-cryptoeconomics-research/)
 	- [Github deposit](https://github.com/jpantunes/awesome-cryptoeconomics)
 ## Classifications of Academic papers 
-- Based on __Blockchain - Research State of the Art (Collaborative Database)__ by [@risius2017](https://link.springer.com/article/10.1007%2Fs12599-017-0506-0)
+- Based on __Blockchain - Research State of the Art (Collaborative Database)__ by [@risius2017](https://rdcu.be/b45Rr)
 
 
 ### Activities
