@@ -1,12 +1,10 @@
 ---
-title: '"So, what are you studying?"'
+title: 'Resources for DAO & Crypto Governance Research'
 date: 2020-06-21
 permalink: /posts/2020/06/resources-for-dao-research/
 tags:
   - research
 ---
-
-# Resources for DAO & Crypto Governance Research
 
 # Industry Research 
 ## Research Projects
