@@ -5,6 +5,9 @@ permalink: /posts/2020/06/resources-for-dao-research/
 tags:
   - research
 ---
+Industry and Academic research 
+
+***
 
 # Industry Research 
 ## Research Projects
