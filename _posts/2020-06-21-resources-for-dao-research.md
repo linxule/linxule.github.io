@@ -5,8 +5,7 @@ permalink: /posts/2020/06/resources-for-dao-research/
 tags:
   - research
 ---
-Industry and Academic research 
-[Lionk to Roam page](https://roamresearch.com/#/app/PublicContent_LinXule/page/vPEa3y5n6)
+Industry and Academic research & [Comment on the Roam page](https://roamresearch.com/#/app/PublicContent_LinXule/page/vPEa3y5n6)
 ***
 
 # Industry Research 
