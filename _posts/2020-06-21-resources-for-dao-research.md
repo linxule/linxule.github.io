@@ -7,7 +7,7 @@ tags:
 ---
 # Resources for DAO & Crypto Governance Research
 
-[Read on Github page](https://linxule.com/posts/2020/06/resources-for-dao-research/) | [Comment on HackMD.io](https://hackmd.io/@jhWWVmuuRp2DwQqyB2DAxg/SJWZB1668) | [View on the Roam page](https://roamresearch.com/#/app/PublicContent_LinXule/page/vPEa3y5n6)
+[Read on Github page](https://linxule.com/posts/2020/06/resources-for-dao-research/)|[Comment on HackMD.io](https://hackmd.io/@LinXule/S1nlDsRT8)|[View on Roam page](https://roamresearch.com/#/app/PublicContent_LinXule/page/vPEa3y5n6)
 
 ***
 # Industry Research
@@ -51,7 +51,8 @@ tags:
 	- Keywords: DAOs, DACs, LAOs, governance, community  
 	- I use Inoreader to help me filter through all the subscriptions and alerts. [Inoreader](https://www.inoreader.com/) provides powerful automation tools to tag, highlight, keywords monitor
 	- **Create your own feeds and email digest!**
-- ### [My shared Zotero Library](https://www.zotero.org/groups/2515544/digital_primitives_research) (currently closed, private group library)
+- ### [My shared Zotero Library](https://www.zotero.org/groups/2515544/dao_research)
+    - Work-in-progress, currently private
 	- Collected through my own research
 	- Also borrowed from other scholars' collections
 
