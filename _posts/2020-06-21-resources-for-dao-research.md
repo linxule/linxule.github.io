@@ -5,6 +5,8 @@ permalink: /posts/2020/06/resources-for-dao-research/
 tags:
   - research
 ---
+# Resources for DAO & Crypto Governance Research
+
 [Read on Github page](https://linxule.com/posts/2020/06/resources-for-dao-research/) | [Comment on HackMD.io](https://hackmd.io/@jhWWVmuuRp2DwQqyB2DAxg/SJWZB1668) | [View on the Roam page](https://roamresearch.com/#/app/PublicContent_LinXule/page/vPEa3y5n6)
 
 # Industry Research
@@ -34,6 +36,7 @@ tags:
 - [dGov - Governance Toolkit](https://forum.dgov.foundation/t/governance-toolkit/137)
 - [DAOtalk - DAO Legal resource list](https://daotalk.org/t/resource-list-dao-legal/533/7)
     - [see my compilation](https://hackmd.io/@LinXule/BywFKmp6L) (based on version Dec 19, 2019)
+
 ## White paper lists
 - [Digital Coin Data’s white paper list](https://www.digitalcoindata.com/bitcoin-cryptocurrency-whitepapers/)
 - [whitepaper.io](https://whitepaper.io/)
@@ -71,9 +74,9 @@ tags:
 - [Zotero library](https://www.zotero.org/ntnsndr/items) by [Nathan Schineider ](https://nathanschneider.info/) - peer production, online communities, governance
 	- check out the notes in each collection
 	- [open work](https://nathanschneider.info/open-work/)
-	- [Governance](https://www.zotero.org/ntnsndr/items/collectionKey/F6732S44)
-	- [Platform economy](https://www.zotero.org/ntnsndr/items/collectionKey/F6732S44)
-	- [Social movements](https://www.zotero.org/ntnsndr/items/collectionKey/F6732S44)
+	- [Governance](https://www.zotero.org/ntnsndr/items/collectionKey/GVN3SBF5)
+	- [Platform economy](https://www.zotero.org/ntnsndr/items/collectionKey/HCGE29ZQ)
+	- [Cooperativism](https://www.zotero.org/ntnsndr/items/collectionKey/X8Q35GWD)
 - [Blockchain Research network – Research bibliography](https://www.blockchainresearchnetwork.org/research/bibliography/?tag_id=DAOs)
 	- [Zotero Library Link](https://www.zotero.org/groups/2216205/blockchain_research_network)
 	- [Lists by Topics](https://www.blockchainresearchnetwork.org/research/research-guides/)
@@ -83,7 +86,7 @@ tags:
 		- [Blockchain and Law](https://www.blockchainresearchnetwork.org/docs/blockchain-and-law/)
 		- more…
 - [Wharton - Blockchain governance reading list](https://docs.google.com/document/d/1Vf2-DGW5ppSOOp-yLXxm6wIAMGU9FKAg3L5GFHA9iiM/edit)
-  - quick overview of theoretical approaches towards blockchain governance
+    - quick overview of theoretical approaches towards blockchain governance
 - [Blockchain library](https://blockchainlibrary.org/2017/10/academic-blockchain-publications/) ( last updated 2017)
 	- [List by topics](https://blockchainlibrary.org/2018/06/a-curated-list-of-resources-for-cryptoeconomics-research/)
 	- [Github deposit](https://github.com/jpantunes/awesome-cryptoeconomics)
