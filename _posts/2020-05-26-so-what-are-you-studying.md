@@ -5,6 +5,9 @@ permalink: /posts/2020/05/so-what-are-you-studying/
 tags:
   - research
 ---
+[View original on GitHub Page](https://linxule.com/posts/2020/05/so-what-are-you-studying/)
+ & [Comment on HackMD](https://hackmd.io/@LinXule/BkbInjRaU)
+
 **Theories, contexts, and ideas**
 
 ***
