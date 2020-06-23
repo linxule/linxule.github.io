@@ -5,9 +5,9 @@ collection: project
 ---
 # Format and Print (with Marked 2 app)
 
-TL;DR: 
+TL;DR:
 1. Write in Markdown and use Marked 2 to style output files (pdf, docx, or html).
-2. Choose your citation style file (csl) 
+2. Choose your citation style file (csl)
 3. Use a css template to style the texts (special attention to references)
 {: .notice--danger}
 
@@ -30,11 +30,11 @@ You can download these CSS templates here:
 * [Chicago Academic.css](https://linxule.github.io/files/css/chicago-academic.css): based on [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)
 * [AMJ Academic.css](https://linxule.github.io/files/css/amj-academic.css): based on the [Academy of Management Journal Style Guide for Authors] (http://aom.org/publications/amj/styleguide/). The library at the University of Queensland also provides a useful [guide to AMJ referencing style](https://guides.library.uq.edu.au/amj-version-for-printing).
 * [Academic CV.css](https://linxule.github.io/files/css/academic-cv.css)
-* [Academic Peer Review.css](https://linxule.github.io/files/css/academic-review.css): based on [Academy of Management's Reviewer Guidelines](http://aom.org/annualmeeting/reviewerguidelines/), particularly the [Sample Review by Macro Editor](https://aom.org/uploadedFiles/Publications/AMJ/ReviewsbyMacroEditors.pdf). I also use this for reading summary/notes.
+* [Academic Review.css](https://linxule.github.io/files/css/academic-review.css): based on [Academy of Management's Reviewer Guidelines](http://aom.org/annualmeeting/reviewerguidelines/), particularly the [Sample Review by Macro Editor](https://aom.org/uploadedFiles/Publications/AMJ/ReviewsbyMacroEditors.pdf). I also use this for reading summary/notes.
 
-## Formatting References 
+## Formatting References
 
-Check out the codes of [Chicago Academic.css](https://linxule.github.io/files/css/chicago-academic.css), which is based on [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html). There is a section for formatting output of pandoc-citeproc. In my case, I use hanging indent, which is also used by APA style. Feel free to adjust the style according to your needs. 
+Check out the codes of [Chicago Academic.css](https://linxule.github.io/files/css/chicago-academic.css), which is based on [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html). There is a section for formatting output of pandoc-citeproc. In my case, I use hanging indent, which is also used by APA style. Feel free to adjust the style according to your needs.
 
 ## Print and Share
 
@@ -53,7 +53,7 @@ However, **the page margins will likely be changed** to the default setting for 
 ***
 ***
 
-# Citation and References 
+# Citation and References
 
 
 TL;DR:
