@@ -11,6 +11,10 @@ tags:
 # Industry Research
 ## Research Projects
 - [Network Governance Research by dGov Foundation](https://daoresearch.dgov.foundation/)
+- [dGov Score framework by Ledgerback](http://www.ledgerback.coop/)
+    - Useful insights in their [Medium posts](https://medium.com/@ledgerback)
+    - [current draft of the proposed framework](https://hackmd.io/s/BkmUJSgTI) (open to comments via HackMD)
+    - [discussion thread at dGov forum](https://forum.dgov.foundation/t/any-interest-in-a-dgov-score-framework-orgxp/112/69)
 - [DAObase](https://daobase.org/)
 - [Crypto Governance Research by Block Commons ](https://blockcommons.red/crypto-governance-research/overviews/)
 - [A list for DAO stuff-DAO research](https://github.com/DAOresearch/awesome-daos/blob/master/README.md)
