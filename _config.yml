@@ -59,7 +59,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -72,7 +72,7 @@ author:
   location         : "Decentralized"
   pubmed           :
   googlescholar    :
-  email            : "linxule@imperial.ac.uk"
+  email            : "x@linxule.com"
   researchgate     : "https://www.researchgate.net/profile/Xule_Lin"
   twitter          : "LinXule"
   linkedin         : "linxule"
