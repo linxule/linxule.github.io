@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 -----
-I am a PhD student in the Department of Management and Entrepreneurship at the Imperial College Business School. I joined Imperial in 2019. Previously, I spent eight years studying and working in South Bend and Chicago. 
+I am a PhD student in the Department of Management and Entrepreneurship at the Imperial College Business School. I joined Imperial in 2019. Previously, I spent eight years studying and working in South Bend and Chicago.
 
-:cn: :us: :gb: 
+:cn: :us: :gb:
 
 ## Current research focus
 
@@ -49,16 +49,21 @@ Via blogs, Twitter, and other parts of the Web.
         * Limited choices (e.g., no "colelctions as topics") of output due to Zotero's restrictions ([explained by melat0nin](https://github.com/melat0nin/zotero-roam-export/issues/17#issuecomment-660646353))
         * Sample output in MD
             ```
-            # Digital affordances, spatial affordances, and the genesis of entrepreneurial ecosystems
-            ### Metadata
-            Author(s):: [[Erkko Autio]], [[Satish Nambisan]], [[Llewellyn D. W. Thomas]], [[Mike Wright]]
-            Date:: 2018-03
-            Citekey:: autio2018
-            Zotero PDF(s):: [PDF 1](zotero://open-pdf/library/items/WKYH63Y6)
-            URL:: [http://doi.wiley.com/10.1002/sej.1266](http://doi.wiley.com/10.1002/sej.1266)
-            Tags:: #[[ecosystem]][[watch]]
+            # Autio et al._2018_Digital affordances, spatial affordances, and the genesis of entrepreneurial ecosystems
+            - ## Metadata
+              - Author(s):: [[Erkko Autio]], [[Satish Nambisan]], [[Llewellyn D. W. Thomas]], [[Mike Wright]]
+              - Title::Digital affordances, spatial affordances, and the genesis of entrepreneurial ecosystems
+              - Type:: [[Article]]
+              - Publication::Strategic Entrepreneurship Journal
+              - Date:: 2018-03
+              - Citekey:: autio2018
+              - Zotero PDF(s):: [Autio et al_2018_Digital affordances, spatial affordances, and the genesis of entrepreneurial](zotero://open-pdf/library/items/WKYH63Y6)
+              - URL:: [http://doi.wiley.com/10.1002/sej.1266](http://doi.wiley.com/10.1002/sej.1266)
+              - Tags:: #[[ecosystem]], #[[watch]]
+
+            - ## Notes::
+              - [[Autio et al_2018_Digital affordances, spatial affordances, and the genesis of entrepreneurial ecosystems]]
             ```
-        
 ## Research resources and tools
 * [Collection of themes, scripts, templates that I made or adapted](https://github.com/linxule/themes) for Zotero, Marked 2, Deckset, Obsidian, DEVONthink (DT), OmniOutliner, iThoughtsX, Zettlr, iA Writer and more...
 
