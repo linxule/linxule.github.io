@@ -57,13 +57,9 @@ Via blogs, Twitter, and other parts of the Web.
     URL:: [http://doi.wiley.com/10.1002/sej.1266](http://doi.wiley.com/10.1002/sej.1266)
     Tags:: #[[ecosystem]][[watch]]
 ## Research resources and tools
-A growing database of research softwares(DEVONthink, Notion, Stata), research methods([rtweet](https://rtweet.info/), workshops, and online courses (CARMA).
+* [Collection of themes, scripts, templates that I made or adapted](https://github.com/linxule/themes) for Zotero, Marked 2, Deckset, Obsidian, DEVONthink (DT), OmniOutliner, iThoughtsX, Zettlr, iA Writer and more...
 
-<a href="https://www.notion.so/linxule/Learning-Resources-and-tools-7ada6088f41745a8989ff86259884c7c" class="btn btn--primary" target="_blank">Check it out via Notion.so</a>
 
-Essential tools:
-* [Inoreader](https://www.inoreader.com/) (powerful automation tools to tag, highlight, and monitor keywords) 
-* Pandoc, Zotero & Better BibTex (citation & reference)
-* Alfred, Keyboard Maestro & Better Touch Tools (automation)
+* A growing database of research softwares(DEVONthink, Notion, Stata), research methods([rtweet](https://rtweet.info/), workshops, and online courses (CARMA).<a href="https://www.notion.so/linxule/Learning-Resources-and-tools-7ada6088f41745a8989ff86259884c7c" class="btn btn--primary" target="_blank">Check it out via Notion.so</a>
 
 ------
