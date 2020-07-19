@@ -43,8 +43,9 @@ Via blogs, Twitter, and other parts of the Web.
 * [Roam-Highligher - Chrome Extension](https://github.com/GitMurf/roam-highlighter#how-to-use-the-highlighter)
     * great for taking notes on webpages and copy highlights in MD
     * output formatted for Roam or Obsidian
-* [Zotero to Roam Export](https://github.com/melat0nin/zotero-roam-export)("Zotero exports single or multiple items, as well as collections to Roam's JSON format") 
-* :+1: [Adaption of the original code](Zotero/Roam-QuickCopy2MD.js) to allow me to "QuickCopy" single items to MD format
+* :+1: [Zotero to Roam Export](https://github.com/melat0nin/zotero-roam-export)
+    * Zotero exports single or multiple items, as well as collections to Roam's JSON format
+* [My adaption of the original code](Zotero/Roam-QuickCopy2MD.js) to allow me to "QuickCopy" single items to MD format
     * Limited choices (e.g., no "colelctions as topics") of output due to Zotero's restrictions ([explained by melat0nin](https://github.com/melat0nin/zotero-roam-export/issues/17#issuecomment-660646353))
     * Sample output in MD
         ```
