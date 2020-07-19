@@ -49,7 +49,7 @@ Via blogs, Twitter, and other parts of the Web.
         * Limited choices (e.g., no "colelctions as topics") of output due to Zotero's restrictions ([explained by melat0nin](https://github.com/melat0nin/zotero-roam-export/issues/17#issuecomment-660646353))
         * Sample output in MD
             ```
-            # Autio et al._2018_Digital affordances, spatial affordances, and the genesis of entrepreneurial ecosystems
+            # Autio et al_2018_Digital affordances, spatial affordances, and the genesis of entrepreneurial ecosystems
             - ## Metadata
               - Author(s):: [[Erkko Autio]], [[Satish Nambisan]], [[Llewellyn D. W. Thomas]], [[Mike Wright]]
               - Title::Digital affordances, spatial affordances, and the genesis of entrepreneurial ecosystems
