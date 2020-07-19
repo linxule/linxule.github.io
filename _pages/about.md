@@ -32,15 +32,30 @@ Via blogs, Twitter, and other parts of the Web.
 
 
 ## Academic Writing in Markdown
-:pencil: Markdown helps me focus on the writing rather than organizing and formatting. See how to set up your workflow for [academic writing in Markdown](https://linxule.com/portfolio/portfolio-2/).
+:pencil: Markdown (MD) helps me focus on the writing rather than organizing and formatting. See how to set up your workflow for [academic writing in Markdown](https://linxule.com/portfolio/portfolio-2/).
 
-Software/tools that I am currently using:
-* [Zettlr](https://www.zettlr.com/) (Zettelkasten, best integration with Zotero: in-app look up citation, one click to open associated PDF)
+### Editors
 * [Obsidian](https://obsidian.md/) (Zettelkasten, similar to Roam Research but offline. Local network graphs!)
-* [Roam-Highligher - Chrome Extension](https://github.com/GitMurf/roam-highlighter#how-to-use-the-highlighter) (great to taking notes on webpages and paste highlights in markdown)
+* [Zettlr](https://www.zettlr.com/) (Zettelkasten, best integration with Zotero: in-app look up citation, one click to open associated PDF)
 * [HackMD](hackmd.io) (Zettelkasten, GitHub integration, online collboration, publish, comments)
 
-
+### Add-ons and Extensions
+* [Roam-Highligher - Chrome Extension](https://github.com/GitMurf/roam-highlighter#how-to-use-the-highlighter)
+    * great for taking notes on webpages and copy highlights in MD
+    * output formatted for Roam or Obsidian
+* [Zotero to Roam Export](https://github.com/melat0nin/zotero-roam-export)("Zotero exports single or multiple items, as well as collections to Roam's JSON format")
+* [My adaption of the original code](Zotero/Roam-QuickCopy2MD.js) to allow me to "QuickCopy" single items to MD format
+    * Limited choices (e.g., no "colelctions as topics") of output due to Zotero's restrictions ([explained by melat0nin](https://github.com/melat0nin/zotero-roam-export/issues/17#issuecomment-660646353))
+    * Sample output in MD
+    ```
+    # Digital affordances, spatial affordances, and the genesis of entrepreneurial ecosystems
+    ### Metadata
+    Author(s):: [[Erkko Autio]], [[Satish Nambisan]], [[Llewellyn D. W. Thomas]], [[Mike Wright]]
+    Date:: 2018-03
+    Citekey:: autio2018
+    Zotero PDF(s):: [PDF 1](zotero://open-pdf/library/items/WKYH63Y6)
+    URL:: [http://doi.wiley.com/10.1002/sej.1266](http://doi.wiley.com/10.1002/sej.1266)
+    Tags:: #[[ecosystem]][[watch]]
 ## Research resources and tools
 A growing database of research softwares(DEVONthink, Notion, Stata), research methods([rtweet](https://rtweet.info/), workshops, and online courses (CARMA).
 
