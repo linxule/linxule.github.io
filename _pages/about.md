@@ -22,13 +22,13 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
 :arrow_right: **Check out my collection of [Resources for DAO & Crypto Governance Research
 ](https://linxule.com/posts/2020/06/resources-for-dao-research/)** :arrow_left:
 
-More on my [research interests](/posts/2020/05/so-what-are-you-studying/) and [current projects](/portfolio/).
+More on my [research interests](https://linxule.com/posts/2020/05/so-what-are-you-studying/) and [current projects](https://linxule.com/portfolio/).
 
 ## Wisdom and Knowledge of communities and crowds
 Via blogs, Twitter, and other parts of the Web.
 
-  * [Management Research](http://linxule.com/curation-mgmt/)
-  * [DAOs & Crypto Research](http://linxule.com/curation-dao/)
+  * [Management Research](https://linxule.com/curation-mgmt/)
+  * [DAOs & Crypto Research](https://linxule.com/curation-dao/)
 
 
 ## Academic Writing in Markdown
