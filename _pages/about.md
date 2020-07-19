@@ -19,10 +19,10 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
   * DAOs (decentralized autonomous organizations), crypto, public goods, commons
   * Communities, collective action, social movements  
 
-:arrow_right: **Check out my collection of [Resources for DAO & Crypto Governance Research
-](https://linxule.com/posts/2020/06/resources-for-dao-research/)** :arrow_left:
+:mag_right: [Resources for DAO & Crypto Governance Research
+](https://linxule.com/posts/2020/06/resources-for-dao-research/)
 
-More on my [research interests](https://linxule.com/posts/2020/05/so-what-are-you-studying/) and [current projects](https://linxule.com/portfolio/).
+:bookmark_tabs: [My research interests](https://linxule.com/posts/2020/05/so-what-are-you-studying/) and [current projects](https://linxule.com/portfolio/).
 
 ## Wisdom and Knowledge of communities and crowds
 Via blogs, Twitter, and other parts of the Web.
@@ -43,24 +43,22 @@ Via blogs, Twitter, and other parts of the Web.
 * [Roam-Highligher - Chrome Extension](https://github.com/GitMurf/roam-highlighter#how-to-use-the-highlighter)
     * great for taking notes on webpages and copy highlights in MD
     * output formatted for Roam or Obsidian
-* [Zotero to Roam Export](https://github.com/melat0nin/zotero-roam-export)("Zotero exports single or multiple items, as well as collections to Roam's JSON format")
-* [My adaption of the original code](Zotero/Roam-QuickCopy2MD.js) to allow me to "QuickCopy" single items to MD format
+* [Zotero to Roam Export](https://github.com/melat0nin/zotero-roam-export)("Zotero exports single or multiple items, as well as collections to Roam's JSON format") 
+* :+1: [Adaption of the original code](Zotero/Roam-QuickCopy2MD.js) to allow me to "QuickCopy" single items to MD format
     * Limited choices (e.g., no "colelctions as topics") of output due to Zotero's restrictions ([explained by melat0nin](https://github.com/melat0nin/zotero-roam-export/issues/17#issuecomment-660646353))
     * Sample output in MD
-```
-# Digital affordances, spatial affordances, and the genesis of entrepreneurial ecosystems
-### Metadata
-Author(s):: [[Erkko Autio]], [[Satish Nambisan]], [[Llewellyn D. W. Thomas]], [[Mike Wright]]
-Date:: 2018-03
-Citekey:: autio2018
-Zotero PDF(s):: [PDF 1](zotero://open-pdf/library/items/WKYH63Y6)
-URL:: [http://doi.wiley.com/10.1002/sej.1266](http://doi.wiley.com/10.1002/sej.1266)
-Tags:: #[[ecosystem]][[watch]]
-```
+        ```
+        # Digital affordances, spatial affordances, and the genesis of entrepreneurial ecosystems
+        ### Metadata
+        Author(s):: [[Erkko Autio]], [[Satish Nambisan]], [[Llewellyn D. W. Thomas]], [[Mike Wright]]
+        Date:: 2018-03
+        Citekey:: autio2018
+        Zotero PDF(s):: [PDF 1](zotero://open-pdf/library/items/WKYH63Y6)
+        URL:: [http://doi.wiley.com/10.1002/sej.1266](http://doi.wiley.com/10.1002/sej.1266)
+        Tags:: #[[ecosystem]][[watch]]
+        ```
+        
 ## Research resources and tools
 * [Collection of themes, scripts, templates that I made or adapted](https://github.com/linxule/themes) for Zotero, Marked 2, Deckset, Obsidian, DEVONthink (DT), OmniOutliner, iThoughtsX, Zettlr, iA Writer and more...
-
-
-* A growing database of research softwares(DEVONthink, Notion, Stata), research methods([rtweet](https://rtweet.info/), workshops, and online courses (CARMA).<a href="https://www.notion.so/linxule/Learning-Resources-and-tools-7ada6088f41745a8989ff86259884c7c" class="btn btn--primary" target="_blank">Check it out via Notion.so</a>
 
 ------
