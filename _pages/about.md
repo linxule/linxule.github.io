@@ -66,5 +66,6 @@ Via blogs, Twitter, and other parts of the Web.
             ```
 ## Research resources and tools
 * [Collection of themes, scripts, templates that I made or adapted](https://github.com/linxule/themes) for Zotero, Marked 2, Deckset, Obsidian, DEVONthink (DT), OmniOutliner, iThoughtsX, Zettlr, iA Writer and more...
+* Zapier - [New saved message to OneNote](https://zapier.com/shared/d018311030432919ae1568a91b955e05abd12c0a)
 
 ------
