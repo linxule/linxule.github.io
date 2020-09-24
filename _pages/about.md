@@ -38,7 +38,7 @@ Via blogs, Twitter, and other parts of the Web.
 * [Obsidian](https://obsidian.md/) (Zettelkasten, similar to Roam Research but offline. Local network graphs!)
 * [Zettlr](https://www.zettlr.com/) (Zettelkasten, best integration with Zotero: in-app look up citation, one click to open associated PDF)
 * [HackMD](hackmd.io) (Zettelkasten, GitHub integration, online collboration, publish, comments)
-* [Stack
+* [StackEdit](stackedit.io)(GitHub, Dropbox integration, 
 
 ### Add-ons and Extensions
 * [Roam-Highligher - Chrome Extension](https://github.com/GitMurf/roam-highlighter#how-to-use-the-highlighter)
@@ -71,5 +71,5 @@ Via blogs, Twitter, and other parts of the Web.
 
 ------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyMDMxODI1XX0=
+eyJoaXN0b3J5IjpbLTE4MjAxMjEyODBdfQ==
 -->
