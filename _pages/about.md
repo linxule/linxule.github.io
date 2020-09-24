@@ -38,6 +38,7 @@ Via blogs, Twitter, and other parts of the Web.
 * [Obsidian](https://obsidian.md/) (Zettelkasten, similar to Roam Research but offline. Local network graphs!)
 * [Zettlr](https://www.zettlr.com/) (Zettelkasten, best integration with Zotero: in-app look up citation, one click to open associated PDF)
 * [HackMD](hackmd.io) (Zettelkasten, GitHub integration, online collboration, publish, comments)
+* [Stack
 
 ### Add-ons and Extensions
 * [Roam-Highligher - Chrome Extension](https://github.com/GitMurf/roam-highlighter#how-to-use-the-highlighter)
@@ -69,3 +70,6 @@ Via blogs, Twitter, and other parts of the Web.
 * Zapier - [New saved message to OneNote](https://zapier.com/shared/d018311030432919ae1568a91b955e05abd12c0a)
 
 ------
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzAyMDMxODI1XX0=
+-->
