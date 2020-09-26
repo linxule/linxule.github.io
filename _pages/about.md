@@ -16,7 +16,7 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
 [![Generic badge](https://img.shields.io/badge/有问-必答-<COLOR>.svg)](mailto:x@linxule.com)  
 [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style="max-width:100%")](mailto:x@linxule.com) 
 
-##  Research Interests [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://linxule.com/posts/2020-05-26-so-what-are-you-studying.md)
+##  Research Interests [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://linxule.com/posts/2020-05-26-so-what-are-you-studying.md)
 
   * I am interested in the governance of DAOs (decentralized autonomous organizations). Broadly, my research examines the governance structures/patterns/design of DAOs and associated ecosystem/meta-organization level output.
 
@@ -50,7 +50,7 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
 
 
 
-## Themes, Scripts, Templates [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://github.com/linxule/themes)
+## Themes, Scripts, Templates [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://github.com/linxule/themes)
 
 * [Collection of themes, scripts, templates that I made or adapted](https://github.com/linxule/themes) for:
   * Zotero, DEVONthink Pro (DTPro)
