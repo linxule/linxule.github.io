@@ -19,6 +19,7 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
 [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style="max-width:100%")](mailto:x@linxule.com) 
 
   * I am interested in the governance of DAOs (decentralized autonomous organizations). Broadly, my research examines the governance structures/patterns/design of DAOs and associated ecosystem/meta-organization level output.
+  * [More from the past](https://linxule.com/posts/2020-05-26-so-what-are-you-studying.md)
 
 
 
