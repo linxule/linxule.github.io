@@ -15,10 +15,10 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
 
 ## Research Interests 
 
-  * I am interested in the governance of DAOs (decentralized autonomous organizations). Broadly, my research examines the governance structures/patterns/design of DAOs and associated ecosystem/meta-organization level output.
-
-[![Generic badge](https://img.shields.io/badge/有问-必答-<COLOR>.svg)](mailto:x@linxule.com) 
+[![Generic badge](https://img.shields.io/badge/有问-必答-<COLOR>.svg)](mailto:x@linxule.com)  
 [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style="max-width:100%")](mailto:x@linxule.com) 
+
+  * I am interested in the governance of DAOs (decentralized autonomous organizations). Broadly, my research examines the governance structures/patterns/design of DAOs and associated ecosystem/meta-organization level output.
 
 
 
