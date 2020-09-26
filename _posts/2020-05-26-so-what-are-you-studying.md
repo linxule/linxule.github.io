@@ -5,21 +5,11 @@ permalink: /posts/2020/05/so-what-are-you-studying/
 tags:
   - research
 ---
-[View original on GitHub Page](https://linxule.com/posts/2020/05/so-what-are-you-studying/)
- & [Comment on HackMD](https://hackmd.io/@LinXule/BkbInjRaU)
+# Ontologies, Phenomenon, and Ideas
 
-**Theories, contexts, and ideas**
-
-***
-
-# Theoretical lens
-My research builds on the existing research in governance, legitimacy, organizational design, and ecosystems. Novel and emerging phenomenon drive my inquiries.
+Last Edited: 2020-05-26
 
 
-# Current research interests
-I am interested in the trend of decentralization in various aspects of society and the associated implications for individuals, groups, communities, organizations, and alike. In addition, I am interested in the innovation and creativity in the culinary industry.
-
-  
 ## Decentralization
 This stream of research aims to explore how more decentralized forms of organizing are/ will be different from existing forms of organizing when it comes to venture creation, organizational learning, and innovation.
 

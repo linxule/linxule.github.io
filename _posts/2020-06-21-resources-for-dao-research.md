@@ -93,9 +93,8 @@ tags:
 	- Collections -- [Governance](https://www.zotero.org/ntnsndr/items/collectionKey/GVN3SBF5), [Platform economy](https://www.zotero.org/ntnsndr/items/collectionKey/HCGE29ZQ),
 [Cooperativism](https://www.zotero.org/ntnsndr/items/collectionKey/X8Q35GWD) 
 - **[Blockchain Research Network](https://www.blockchainresearchnetwork.org/research/research-landscape/) - Blockchain governance, Regulation, Blockchain and Law, more…**
-	- [Public Zotero Library](https://www.zotero.org/groups/2216205/blockchain_research_network/library?usenewlibrary=0) | [RSS feed](https://api.zotero.org/groups/2216205/items/top?start=0&limit=25&format=atom&v=1) 
-	- [Social and Human Collection](https://www.zotero.org/groups/2216205/blockchain_research_network/items/collectionKey/Q76H4XH5)
- | [RSS feed](https://api.zotero.org/groups/2216205/collections/Q76H4XH5/items/top?start=0&limit=25&format=atom&v=1)
+	- [Public Zotero Library](https://www.zotero.org/groups/2216205/blockchain_research_network/library?usenewlibrary=0)  &  [RSS feed](https://api.zotero.org/groups/2216205/items/top?start=0&limit=25&format=atom&v=1) 
+	- [Social and Human Collection](https://www.zotero.org/groups/2216205/blockchain_research_network/items/collectionKey/Q76H4XH5) & RSS feed](https://api.zotero.org/groups/2216205/collections/Q76H4XH5/items/top?start=0&limit=25&format=atom&v=1)
 - **[Wharton - Blockchain governance reading list](https://docs.google.com/document/d/1Vf2-DGW5ppSOOp-yLXxm6wIAMGU9FKAg3L5GFHA9iiM/edit) - quick overview of theoretical landscape**
 - **[Blockchain library](https://blockchainlibrary.org/2017/10/academic-blockchain-publications/) ( last updated 2017)**
 	- [List by topics](https://blockchainlibrary.org/2018/06/a-curated-list-of-resources-for-cryptoeconomics-research/)

@@ -26,7 +26,7 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://linxule.com/posts/2020/06/resources-for-dao-research/)
 
-- I built this [list of research resources]((https://linxule.com/posts/2020/06/resources-for-dao-research/). ) through various projects and communities. Please feel free to comment and propose edits.
+- I built this [list of research resources](https://linxule.com/posts/2020/06/resources-for-dao-research/) through various projects and communities. Please feel free to comment and propose edits.
 
   
 
