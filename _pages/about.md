@@ -44,7 +44,8 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
 
 ## (Academic) Writing [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](http://commonmark.org) 
 
-- This website (GitHub pages) is made with markdown (MD). I also use MD to write notes, posts, and papers. helps me focus on the writing rather than organizing and formatting.
+- This website (GitHub pages) is made with markdown. 
+- I also write notes, posts, and papers in markdown. It helps me focus on the writing rather than organizing and formatting.
 - Check out [tools for writing in markdown (e.g., editors, add-ons)](https://linxule.com/portfolio/portfolio-1/)
 - Set up your workflow for [academic writing in markdown](https://linxule.com/portfolio/portfolio-2/)
 
