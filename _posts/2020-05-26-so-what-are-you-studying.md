@@ -24,7 +24,7 @@ Last Edited: 2020-09-26
 ## Ideas and theories from other disciplines
 Other domains have also shaped how I develop and approach research questions:
 
-- data as labor in digitized economy](https://radicalxchange.org/blog/posts/2019-1-5-ydij2t/)
+- [data as labor in digitized economy](https://radicalxchange.org/blog/posts/2019-1-5-ydij2t/)
 
 - collective action, social movements, governance of commons
 
