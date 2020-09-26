@@ -46,7 +46,7 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
 
 - This website (GitHub pages) is made with markdown. 
 - I also write notes, posts, and papers in markdown. It helps me focus on the writing rather than organizing and formatting.
-- Check out [tools for writing in markdown (e.g., editors, add-ons)](https://linxule.com/portfolio/portfolio-1/)
+- Check out [tools for writing in markdown (e.g. editors, add-ons)](https://linxule.com/portfolio/portfolio-1/)
 - Set up your workflow for [academic writing in markdown](https://linxule.com/portfolio/portfolio-2/)
 
 

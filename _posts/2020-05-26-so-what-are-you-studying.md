@@ -12,7 +12,7 @@ Last Edited: 2020-09-26
 - This stream of research aims to explore how more decentralized forms of organizing are/ will be different from existing forms of organizing when it comes to venture creation, organizational learning, and innovation.
 - As there's a lack of consensus about the definitions of decentralized organizations, my research covers a range of decentralized organizations: Decentralized organizations, Decentralized Autonomous Organizations (DAOs), Decentralized Autonomous Corporations/Companies (DACs).
 - Some relevant questions:
-  - How blockchain technology enables new forms of organizing that are decentralized(e.g., DAOs) ?  
+  - How blockchain technology enables new forms of organizing that are decentralized(e.g. DAOs) ?  
   - What drives the emergence and development of blockchain ecosystems?
   - What are the implications for management research (e.g., boundaries of organizations, unmediated actors, crowdsourcing)?
 
