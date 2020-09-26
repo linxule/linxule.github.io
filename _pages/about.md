@@ -33,6 +33,8 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
 
 ## (RSS Feeds) Read and Stay Updated 
 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coders-sweat.svg)](https://forthebadge.com)
+
 - I collected wisdom and knowledge of communities and crowds via newsletters, blogs, Twitter, and other parts of the Web.
     - [Management Research](https://linxule.com/curation-mgmt/)
     - [DAOs & Crypto Research](https://linxule.com/curation-dao/)
@@ -54,6 +56,8 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
 
 
 ## Themes, Scripts, Templates
+
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/linxule/themes)
 
 * [Collection of themes, scripts, templates that I made or adapted](https://github.com/linxule/themes) for:
   * Zotero, DEVONthink Pro (DTPro)
