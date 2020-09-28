@@ -77,10 +77,10 @@ author:
   twitter          : "LinXule"
   linkedin         : "linxule"
   github           : "LinXule"
-  万方数据学术资源    : "http://social.wanfangdata.com.cn/scholar/toScholarInfo.do?id=11190120"
+# 万方数据学术资源    : "http://social.wanfangdata.com.cn/scholar/toScholarInfo.do?id=11190120"
   weibo            :
   wikipedia        :
-
+# orcid            : "0000-0001-7885-4194"
 
 # Reading Files
 include:
