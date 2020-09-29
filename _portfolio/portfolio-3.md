@@ -1,11 +1,8 @@
 ---
 title: 'Resources for DAO & Crypto Governance Research'
-date: 2020-06-21
-permalink: /posts/2020/06/resources-for-dao-research/
-tags:
-  - research
+excerpt: "editors, add-ons"
+collection: project
 ---
-
 
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) &nbsp; [![hackmd-github-sync-badge](https://hackmd.io/4kZ3V9WnTSCaLBPLMHJasQ/badge)](https://hackmd.io/4kZ3V9WnTSCaLBPLMHJasQ)
@@ -16,12 +13,12 @@ tags:
 - [Network Governance Research by dGov Foundation](https://daoresearch.dgov.foundation/)
     - [Interaction network graphs](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?show=info)
         - [Cluster analysis - governance of blockchain, legal,...](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?show=analysis-cluster)
-        - [Data table](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?show=datatable) | 
+        - [Data table](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?show=datatable) |
 [Export data](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?show=export)
 - [DGov Score framework by Ledgerback](http://www.ledgerback.coop/)
     - Useful insights in their [Medium posts](https://medium.com/@ledgerback)
     - [Discussion thread at dGov forum](https://forum.dgov.foundation/t/any-interest-in-a-dgov-score-framework-orgxp/112/69)
-    - Proposed framework 
+    - Proposed framework
         - Versions: [Essential](https://hackmd.io/s/BJdMFJaPI) vs. [full](https://hackmd.io/s/HkDimBtwI) (feedback via HackMD)
         - [Questionnaire format via Google forms](https://docs.google.com/forms/d/e/1FAIpQLSczzTwPd1mH03x6vq-kg__AqOj4yaQMAf-BNFmVzceg-2O6uA/viewform)
 - [DAObase](https://daobase.org/)
@@ -89,11 +86,11 @@ tags:
 
 - **[Nathan Schineider](https://nathanschneider.info/) - peer production, online communities, governance**
 	- [Open work](https://nathanschneider.info/open-work/)
-	- [Zotero library](https://www.zotero.org/ntnsndr/items) (check out the notes) 
+	- [Zotero library](https://www.zotero.org/ntnsndr/items) (check out the notes)
 	- Collections -- [Governance](https://www.zotero.org/ntnsndr/items/collectionKey/GVN3SBF5), [Platform economy](https://www.zotero.org/ntnsndr/items/collectionKey/HCGE29ZQ),
-[Cooperativism](https://www.zotero.org/ntnsndr/items/collectionKey/X8Q35GWD) 
+[Cooperativism](https://www.zotero.org/ntnsndr/items/collectionKey/X8Q35GWD)
 - **[Blockchain Research Network](https://www.blockchainresearchnetwork.org/research/research-landscape/) - Blockchain governance, Regulation, Blockchain and Law, more…**
-	- [Public Zotero Library](https://www.zotero.org/groups/2216205/blockchain_research_network/library?usenewlibrary=0)  &  [RSS feed](https://api.zotero.org/groups/2216205/items/top?start=0&limit=25&format=atom&v=1) 
+	- [Public Zotero Library](https://www.zotero.org/groups/2216205/blockchain_research_network/library?usenewlibrary=0)  &  [RSS feed](https://api.zotero.org/groups/2216205/items/top?start=0&limit=25&format=atom&v=1)
 	- [Social and Human Collection](https://www.zotero.org/groups/2216205/blockchain_research_network/items/collectionKey/Q76H4XH5) & RSS feed](https://api.zotero.org/groups/2216205/collections/Q76H4XH5/items/top?start=0&limit=25&format=atom&v=1)
 - **[Wharton - Blockchain governance reading list](https://docs.google.com/document/d/1Vf2-DGW5ppSOOp-yLXxm6wIAMGU9FKAg3L5GFHA9iiM/edit) - quick overview of theoretical landscape**
 - **[Blockchain library](https://blockchainlibrary.org/2017/10/academic-blockchain-publications/) ( last updated 2017)**
