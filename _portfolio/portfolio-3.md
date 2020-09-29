@@ -1,5 +1,5 @@
 ---
-title: 'Resources for DAO & Crypto Governance Research'
+title: 'DAOgov - Resources for DAO & Crypto Governance Research'
 excerpt: "editors, add-ons"
 collection: project
 ---

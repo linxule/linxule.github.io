@@ -26,7 +26,7 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
 
 ## Resources for DAO & Crypto Governance Research [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://linxule.com/portfolio/portfolio-3/)  
 
-- I built this [list of research resources](https://linxule.com/portfolio/portfolio-3/) through various projects and communities. Please feel free to comment and propose edits.
+- I built [DAOgov.info](https://daogov.info), a [list of research resources](https://linxule.com/portfolio/portfolio-3/), through various projects and communities. Please feel free to comment and propose edits.
 
 
 
