@@ -5,6 +5,7 @@ author_profile: false
 redirect_from:
   - /about/
   - /about.html
+canonical_url: "https://daogov.info"
 ---
 
 {% include base_path %}
