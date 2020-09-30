@@ -14,7 +14,7 @@ Cite-while-you-write (CWYW) is the important step in academic writing. A good se
 ## CWYW Solutions
 
 - Write with [Zettlr](https://www.zettlr.com/)
-- Write with other editors 
+- Write with other editors
   - [Zotpick.applescript by davepwsmith](https://davepwsmith.github.io/academic-scrivener-howto/)
   - [ZotHero via Alfred](https://github.com/deanishe/zothero)
 
@@ -93,7 +93,7 @@ To setup Marked 2 for processing the citations in your writing, you then navigat
 - [CSS](https://www.w3schools.com/css/default.asp) is a language that describes the style of an HTML document. CSS describes how HTML elements should be displayed.
   {: .notice--info}
 
-  
+
 
 ###  Choose the Right Style
 
@@ -112,9 +112,9 @@ To setup Marked 2 for processing the citations in your writing, you then navigat
 
 - In my case, I use hanging indent, which is also used by APA style. Check out the codes of [Chicago Academic.css](https://linxule.github.io/files/css/chicago-academic.css), which is based on [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html). There is a section for formatting output of pandoc-citeproc. Feel free to change the code to meet your styling needs.
 
-  
 
-  
+
+
 
 ## Print and Share
 
@@ -122,12 +122,12 @@ To setup Marked 2 for processing the citations in your writing, you then navigat
 
 - **To PDF**: Marked 2 supports direct export to PDF format; alternatively, export to **HTML format** and print the HTML from your browser app.
 
-- **To DOCX**: export to **HTML format** and open and save to DOCX format in **Microsoft Word or other word processors**. 
+- **To DOCX**: export to **HTML format** and open and save to DOCX format in **Microsoft Word or other word processors**.
 
   - Marked 2 app seems to have issues with exporting files into Word documents. The formats defined by CSL files can be lost.
   - The **page margins will likely be changed** to the default setting for new documents. For example, I set the default margins of 1 inch for all new documents created in Microsoft Word. {: .notice--danger}
 
-  
+
 
 ***
 
@@ -136,7 +136,7 @@ To setup Marked 2 for processing the citations in your writing, you then navigat
 
 - [Ralph Kabo - My workflow for transforming academic Markdown into beautiful Word documents](https://raphaelkabo.com/blog/posts/markdown-to-word/)
 
-Ralph Kabo has developed [DocDown](https://raphaelkabo.com/blog/posts/introducing-docdown/), a native macOS app, to convert markdown files into Word documents. DocDown can use an existing Word document as the output template. It is a great solution for anyone looking to convert Markdown into Word documents on a regular basis. 
+Ralph Kabo has developed [DocDown](https://raphaelkabo.com/blog/posts/introducing-docdown/), a native macOS app, to convert markdown files into Word documents. DocDown can use an existing Word document as the output template. It is a great solution for anyone looking to convert Markdown into Word documents on a regular basis.
 {: .notice--info}
 
 
