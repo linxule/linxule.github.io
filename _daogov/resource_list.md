@@ -2,6 +2,7 @@
 title: 'DAOgov - Resources for DAO & Crypto Governance Research'
 excerpt: "Resources for DAO & Crypto Governance Research"
 collection: daogov
+canonical_url: "https://daogov.info/resource_list"
 ---
 
 
