@@ -369,64 +369,72 @@
    Table of contents navigation
    ========================================================================== */
 
-.toc {
-  font-family: $sans-serif-narrow;
-  color: $gray;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  background-color: #fff;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  box-shadow: $box-shadow;
 
-  .nav__title {
-    color: #fff;
-    font-size: $type-size-6;
-    background: $primary-color;
-    border-top-left-radius: $border-radius;
-    border-top-right-radius: $border-radius;
-  }
+.toc {
+ font-family: $sans-serif-narrow;
+ color: $gray;
+ background-color: $background-color;
+ border: 1px solid $border-color;
+ border-radius: $border-radius;
+ -webkit-box-shadow: $box-shadow;
+ box-shadow: $box-shadow;
+
+ .nav__title {
+   color: #fff;
+   font-size: $type-size-6;
+   background: $primary-color;
+   border-top-left-radius: $border-radius;
+   border-top-right-radius: $border-radius;
+ }
+
+ // Scrollspy marks toc items as .active when they are in focus
+ //.active a {
+ //  @include yiq-contrasted($active-color);
+ //}
 }
 
 .toc__menu {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  list-style: none;
-  font-size: 0.8rem;
+ margin: 0;
+ padding: 0;
+ width: 100%;
+ list-style: none;
+ font-size: $type-size-6;
 
-  a {
-    display: block;
-    padding: 0.5rem 1rem;
-    color: $gray;
-    font-size: $type-size-7;
-    font-weight: bold;
-    line-height: 1.5;
-    border-bottom: 1px solid $border-color;
+ @include breakpoint($large) {
+   font-size: $type-size-7;
+ }
 
-    &:hover {
-      color: #000;
-      background: $lighter-gray;
-    }
-  }
+ a {
+   display: block;
+   padding: 0.25rem 0.75rem;
+   color: $gray;
+   font-weight: bold;
+   line-height: 1.5;
+   border-bottom: 1px solid $border-color;
 
-  > li:last-child {
-    a {
-      border-bottom: none;
-    }
-  }
+   &:hover {
+     color: $text-color;
+   }
+ }
 
-  li ul > li a {
-    padding-left: 2rem;
-    font-weight: normal;
-  }
+ li ul > li a {
+   padding-left: 1.25rem;
+   font-weight: normal;
+ }
 
-  /* hide sub sub links on small screens*/
-  li > ul li {
-    display: none;
+ li ul li ul > li a {
+   padding-left: 1.75rem;
+ }
 
-    @include breakpoint($medium) {
-      display: block;
-    }
-  }
+ li ul li ul li ul > li a {
+   padding-left: 2.25rem;
+ }
+
+ li ul li ul li ul li ul > li a {
+   padding-left: 2.75rem;
+ }
+
+ li ul li ul li ul li ul li ul > li a {
+   padding-left: 3.25rem
+ }
 }

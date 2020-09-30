@@ -24,7 +24,7 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
 
 
 
-## Resources for DAO & Crypto Governance Research [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://linxule.com/portfolio/portfolio-3/)  
+## Resources for DAO & Crypto Governance Research [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://linxule.com/daogov/resource_list)  
 
 - I built [DAOgov.info](www.daogov.info), a [collection of research resources](https://linxule.com/daogov/resource_list), through various projects and communities. Please feel free to comment and propose edits.
 
@@ -46,8 +46,8 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
 
 - This website (GitHub pages) is made with markdown.
 - I also write notes, posts, and papers in markdown. It helps me focus on the writing rather than organizing and formatting.
-- Check out [tools for writing in markdown (e.g. editors, add-ons)](https://linxule.com/portfolio/portfolio-1/)
-- Set up your workflow for [academic writing in markdown](https://linxule.com/portfolio/portfolio-2/)
+- Check out [tools for writing in markdown (e.g. editors, add-ons)](https://linxule.com/projects/md_tools/)
+- Set up your workflow for [academic writing in markdown](https://linxule.com/projects/md_academic/)
 
 
 

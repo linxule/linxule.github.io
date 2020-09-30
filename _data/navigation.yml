@@ -1,17 +1,14 @@
 # main links links
 main:
 
-  - title: "Blog Posts"
+  - title: "Posts"
     url: /year-archive/
 
-  - title: "#MgmtResearch"
-    url: /curation-mgmt/
-
-  - title: "#DAOs"
-    url: /curation-dao/
+  - title: "DAOgov"
+    url: /daogov/
 
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
 
   - title: "Publications"
     url: /publications/
