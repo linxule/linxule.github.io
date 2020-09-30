@@ -2,8 +2,6 @@
 title: 'DAOgov - Resources for DAO & Crypto Governance Research'
 excerpt: "Resources for DAO & Crypto Governance Research"
 collection: daogov
-toc: true
-toc_sticky: true
 ---
 
 
