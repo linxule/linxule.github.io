@@ -1,7 +1,7 @@
 ---
 title: "(Academic) Writing in Markdown"
 excerpt: "Cite, Bibliography, Document Layouts"
-collection: project
+collection: projects
 ---
 
 

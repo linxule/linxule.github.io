@@ -1,7 +1,7 @@
 ---
 title: "Tools for Writing in Markdown"
 excerpt: "Editors, Add-ons for Capture and Reference"
-collection: project
+collection: projects
 ---
 
 
