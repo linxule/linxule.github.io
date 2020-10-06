@@ -24,7 +24,7 @@ collection: projects
 
 
 # Add-ons and Extensions
-
+### Capture Information
 ## [Roam-Highligher - Chrome Extension](https://github.com/GitMurf/roam-highlighter#how-to-use-the-highlighter)
 
 * great for taking notes on webpages and copy highlights in MD
@@ -81,3 +81,8 @@ collection: projects
   URL:: [http://doi.wiley.com/10.1002/sej.1266](http://doi.wiley.com/10.1002/sej.1266)
   Tags:: #[[ecosystem]][[watch]]
   ```
+
+### (macOs) Keyboard Shortcuts and System Services
+
+- [The Markdown Service Tools](https://brettterpstra.com/projects/markdown-service-tools/) by [brettterpstra](https://brettterpstra.com/topic/markdown/) are a collection of OS X Services designed to make writing Markdown text that much easier. 
+- [https://brettterpstra.com/projects/bretts-popclip-extensions/ ](https://brettterpstra.com/projects/bretts-popclip-extensions/) by [brettterpstra](https://brettterpstra.com/topic/popclip/)

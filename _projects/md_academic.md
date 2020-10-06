@@ -11,11 +11,58 @@ Cite-while-you-write (CWYW) is the important step in academic writing. A good se
 
 
 
-## CWYW Solutions
+## CWYW Solutions 
 
 - Write with [Zettlr](https://www.zettlr.com/)
-- Write with other editors
+- Write with other editors (macOS)
   - [Zotpick.applescript by davepwsmith](https://davepwsmith.github.io/academic-scrivener-howto/)
+
+    - Add the [script file](https://github.com/davepwsmith/zotpick-applescript/blob/master/zotpick-pandoc.applescript) to ~/Library/Scripts folder, then find it via System Preferences/Keyboard/Services and create a hotkey combination
+
+    - Or copy and paste the codes below into Alfred/Keyboard Maestro & run the script upon hotkey
+
+    - ```applescript
+      tell application "System Events"
+      	try
+      		set appName to (the name of every process whose frontmost is true) as string
+      	on error errMsg
+      		display alert "Problem" message "Could not get the name of the frontmost application."
+      		error number -128
+      	end try
+      end tell
+      set zotRunning to do shell script "/usr/bin/curl 'http://localhost:23119/better-bibtex/cayw?probe=probe' 2>/dev/null; exit 0"
+      if zotRunning is "" then
+      	display alert "Zotero not running" message "This script will not work unless Zotero is running. Please launch Zotero and try again"
+      	tell application appName
+      		activate
+      	end tell
+      	error number -128
+      else if zotRunning is "No endpoint found" then
+      	display alert "Better BibTeX not installed" message "This script will not work unless Better BibTeX is installed. Please make sure that Better BibTeX is installed in the running instance of Zotero"
+      	tell application appName
+      		activate
+      	end tell
+      	error number -128
+      else if zotRunning is "ready" then
+      	set theReference to do shell script "/usr/bin/curl 'http://localhost:23119/better-bibtex/cayw?format=pandoc' 2>/dev/null; exit 0"
+      	try
+      		repeat until application appName is frontmost
+      			tell application appName to activate
+      		end repeat
+      	on error errMsg
+      		display alert errMsg
+      	end try
+      	tell application "System Events"
+      		try
+      			keystroke theReference
+      		on error errMsg
+      			display alert errMsg
+      		end try
+      	end tell
+      end if
+      
+      ```
+
   - [ZotHero via Alfred](https://github.com/deanishe/zothero)
 
 
@@ -46,7 +93,7 @@ TL;DR:
 3. Choose the styles for the document (.css)
 
 4. Export to PDF, DOCX, or HTML(special attention to references)
-  {: .notice--danger}
+    {: .notice--danger}
 
 
 
