@@ -11,7 +11,7 @@ redirect_from:
 -----
 :cn: :us: :gb:
 
-I am a PhD student in the Department of Management and Entrepreneurship at the Imperial College Business School. I joined Imperial in 2019. Previously, I spent eight years studying and working in South Bend and Chicago.
+I am a PhD student in the Department of Management and Entrepreneurship at the Imperial College Business School ([personal College web page](https://www.imperial.ac.uk/people/x.lin19)). I joined Imperial in 2019. Previously, I spent eight years studying and working in South Bend and Chicago.
 
 [![Generic badge](https://img.shields.io/badge/有问-必答-<COLOR>.svg)](mailto:x@linxule.com)  
 [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style="max-width:100%")](mailto:x@linxule.com)
