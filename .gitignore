@@ -1,2 +1,3 @@
 _site/
-
+.trash/
+.DS_Store
