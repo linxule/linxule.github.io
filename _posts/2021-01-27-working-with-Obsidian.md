@@ -5,6 +5,7 @@ permalink: /posts/2021/01/working-with-Obsidian/
 tags:
   - research
   - markdown
+  - github
 ---
 
 ## Sync via GitHub
