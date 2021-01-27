@@ -1,5 +1,5 @@
 ---
-title: '"So, what are you studying?"'
+title: 'Working with Obsidian'
 date: 2021-01-27
 permalink: /posts/2021/01/working-with-Obsidian/
 tags:
