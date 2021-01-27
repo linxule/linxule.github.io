@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "0272019c07f7555b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7281af4a0b8396e9",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": ".gitignore.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7f71185d2e637d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "73950dd8e6fcac33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1a8407c67108cf7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f877d41c6639cb8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f34333dd0e4225b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d894590ffb75153d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "688d12971dba69a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": ".gitignore.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d525513dfd8b2f12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": ".gitignore.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    ".gitignore.md",
+    "_posts/2021-01-27-working-with-Obsidian.md",
+    "_posts/2020-05-26-so-what-are-you-studying.md",
+    "Untitled.md"
+  ]
+}
