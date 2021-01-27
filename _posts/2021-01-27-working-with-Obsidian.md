@@ -14,9 +14,9 @@ tags:
 - First, if you haven't already, [set up 2FA (two factor authentication)](https://docs.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication) for your GitHub account
 - Then, configure [connecting to GitHub using SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 	- GitHub Repositories Folders were previously configured via the GitHub Desktop app (hence *remote URLs* is used), 
-	- So the next step is [Switching remote URLs from HTTPS to SSH](https://docs.github.com/en/github/using-git/changing-a-remotes-url#switching-remote-urls-from-https-to-ssh)
+	- So the next step is [Switching remote URLs from HTTPS to SSH](https://docs.github.com/en/github/using-git/changing-a-remotes-url#switching-remote-urls-from-https-to-ssh) **via Shell**
 
-```shell
+```
 $ git remote set-url origin git@github.com:USERNAME/REPOSITORY.git
 ```
 - Add GitHub to the list of known hosts 
