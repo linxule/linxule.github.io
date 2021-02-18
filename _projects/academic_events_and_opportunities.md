@@ -4,7 +4,6 @@ layout: single
 excerpt: "Keep track of academic conferences, workshops, and calls for papers"
 collection: projects
 ---
-# Academic Events and Opportunities
 
 I keep track of academic conferences, workshops, and calls for papers in the field of management. I regularly update this list. If you would like to "subscribe" (**sync these events to an calendar**), please [email to request a link](mailto:xule.lin@imperial.ac.uk).   
 
