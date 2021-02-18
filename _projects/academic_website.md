@@ -1,11 +1,13 @@
 ---
-title: "Make Your Own (Academic) Website"
+title: "Build Your Own (Academic) Website"
 layout: single
 excerpt: "How to set up your own website (for free): with GitHub page and Minimal Mistakes (Jekyll)"
 collection: projects
 ---
 
-- This page is still underdevelopment. It contains references to various guides on constructing a GitHub page site based on [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) and [jekyll](Jekyll Showcase! - Share your sites built with Jekyll)
+**This page is still under development.**
+
+Guides on constructing a **GitHub page** site based on [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) and [jekyll](Jekyll Showcase! - Share your sites built with Jekyll)
   - [Main guide](https://github.com/mmistakes/mm-github-pages-starter)
   - Added codes below to the templates provided by [academic pages](https://github.com/academicpages/academicpages.github.io)
 
