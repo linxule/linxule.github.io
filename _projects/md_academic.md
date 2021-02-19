@@ -11,7 +11,7 @@ Cite-while-you-write (CWYW) is the important step in academic writing. A good se
 
 
 
-## CWYW Solutions 
+## CWYW Solutions
 
 - Write with [Zettlr](https://www.zettlr.com/)
 - Write with other editors (macOS)
@@ -60,11 +60,14 @@ Cite-while-you-write (CWYW) is the important step in academic writing. A good se
       		end try
       	end tell
       end if
-      
+
       ```
 
   - [ZotHero via Alfred](https://github.com/deanishe/zothero)
 
+## Export Markdown Citation to "Live" Citation in Word Documents
+
+- [A How-to Guide is available on the Forum of Obsidian.md](https://forum.obsidian.md/t/new-plugin-citations-with-zotero/9793/80?u=linxule)
 
 
 ------
@@ -73,7 +76,7 @@ Cite-while-you-write (CWYW) is the important step in academic writing. A good se
 
 
 
-# Export with Style (with Marked 2 app)
+# Export to Desired Style (with Marked 2 app)
 
 - To share my writing with others, I use [Marked 2 app](https://marked2app.com/) (macOS) to convert the Markdown files into other formats, such as PDF or DOCX.
 
