@@ -27,6 +27,7 @@ canonical_url: "https://daogov.info/resource_list"
 - [DAO Research](https://daoresear.ch/)
     - [A list for DAO stuff](https://github.com/DAOresearch/awesome-daos/blob/master/README.md)
     - [Collection of DAOs - DAOs in the Wild](https://www.notion.so/b78fb07170364f5b8d489e64ddac0128?v=b6b687f83e6d43c291b7863bce1bef8c)
+- [Square I - Crypto Encyclopedia](https://square1-hello.gitbook.io/square-1/token-economics/decentralized-organizations/dao-concepts/sufficient-decentralization-1)
 
 ### Metrics
 - [The Soldarity Project — dGov Score Framework](https://medium.com/alternative-governance-network/evaluating-for-distributed-governance-in-internet-native-digital-organizations-23423b261238)
