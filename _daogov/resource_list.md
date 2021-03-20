@@ -44,6 +44,7 @@ canonical_url: "https://daogov.info/resource_list"
 - [DAO Summoner](https://t.me/joinchat/HcTaOxNqKK8HJS2abqYk9A)
 	- [Telegram group](https://t.me/joinchat/HcTaOxNqKK8HJS2abqYk9A)
 	- how to build and improve DAOs
+
 ## Wiki & Reading Lists
 - [Distributed Governance - Joel Dietz (fractastical) at Swarm](https://github.com/fractastical/distributed-governance)
     - [Most important works on crypto law](https://github.com/fractastical/distributed-governance/blob/master/biblios/cryptolaw_biblio.md)
@@ -77,7 +78,8 @@ canonical_url: "https://daogov.info/resource_list"
 	- [governance structures - terminology and explanation](metagov.org/govlist)
 	- [modular politics](metagove.org/modpol)
 - **[Wharton Cryptogovernance Workshop](https://cryptogov.net)**
-	- [Raw data of survey responses](https://cryptogov.net/export-spreadsheet/)
+	- [List of participating projects](https://cryptogov.net/participating-projects/)
+  - [Raw data of survey responses](https://cryptogov.net/export-spreadsheet/)
 - **[Cambridge Centre for Alternative Finance](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/) - Fin & Reg**
 - **[UCL Centre for Blockchain Technologies](http://blockchain.cs.ucl.ac.uk/) - Econ&Fin, Reg&Law**
     - [Projects and Papers](http://blockchain.cs.ucl.ac.uk/ucl-projects-papers/)
