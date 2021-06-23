@@ -34,7 +34,7 @@ South Kensington Campus, London SW7 2AZ, UK
 	* Member
 	* OMT and ENT Division, Ad-Hoc Reviewer
 
-* Imperial College Business School, 2019 - Present
+* Imperial College Business School, 2019 - 2020
 	* Doctoral Student Staff Committee, MRes Social Chair
 
 * University of Chicago, Booth School of Business, 2018 - 2019
