@@ -11,7 +11,9 @@ redirect_from:
 
 ---
 Imperial College Business School, Imperial College London
-South Kensington Campus, London SW7 2AZ, UK 			
+South Kensington Campus, London SW7 2AZ, UK
+
+
 [linxule@imperial.ac.uk](mailto:linxule@imperial.ac.uk) | [linxule.com](https://linxule.com/) | [领英主页](https://www.linkedin.com/in/linxule/?locale=zh_CN)
 
 # 教育经历
