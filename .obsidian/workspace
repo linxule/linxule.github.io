@@ -6,11 +6,10 @@
       {
         "id": "7281af4a0b8396e9",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-01-27-working-with-Obsidian.md",
+            "file": "_publications/2021-06-26-ASQ-Interview.md",
             "mode": "source"
           }
         }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-01-27-working-with-Obsidian.md",
+                "file": "_publications/2021-06-26-ASQ-Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -84,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-01-27-working-with-Obsidian.md"
+                "file": "_publications/2021-06-26-ASQ-Interview.md"
               }
             }
           }
@@ -95,7 +96,10 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "7281af4a0b8396e9",
   "lastOpenFiles": [
+    "_publications/2009-12-01-Origin-Development-and-Revelation 1.md",
+    "_publications/2009-12-01-Origin-Development-and-Revelation.md",
     "_posts/2021-01-27-working-with-Obsidian.md",
     ".gitignore.md",
     "_posts/2020-05-26-so-what-are-you-studying.md",
