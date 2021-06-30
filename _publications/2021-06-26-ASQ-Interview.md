@@ -1,8 +1,8 @@
 ---
-title: "ASQ Interview - TER WAL, CRISCUOLO, MCEVILY AND SALTER (2020). DUAL NETWORKING: HOW COLLABORATORS NETWORK IN THEIR QUEST FOR INNOVATION"
+title: 'ASQ Interview - TER WAL, CRISCUOLO, MCEVILY AND SALTER (2020). DUAL NETWORKING: HOW COLLABORATORS NETWORK IN THEIR QUEST FOR INNOVATION'
 collection: publications
 permalink: /publication/2021-06-26-ASQ-Interview
-excerpt: '[Nadine Scholz](https://www.kcl.ac.uk/people/nadine-scholz) from King’s College London, King’s Business School and I interviewed Anne ter Wal, Associate Professor of Technology and Innovation Management at Imperial College Business School, about his recent co-authored paper on 'Dual Networking'.'
+excerpt: '[Nadine Scholz](https://www.kcl.ac.uk/people/nadine-scholz) from King’s College London, King’s Business School and I interviewed Anne ter Wal, Associate Professor of Technology and Innovation Management at Imperial College Business School, about his recent co-authored paper on "Dual Networking".'
 date: 2021-06-26
 venue: 'The ASQ Blog'
 paperurl: 'https://asqblog.com/2021/06/26/ter-wal-criscuolo-mcevily-and-salter-2020-dual-networking-how-collaborators-network-in-their-quest-for-innovation/'
