@@ -1,5 +1,5 @@
 ---
-title: 'Commons and Tokens—How Governance Modes in Decentralized Autonomous Organizations (DAOs)'
+title: 'Commons and Tokens — Governance Modes in Decentralized Autonomous Organizations (DAOs)'
 collection: publications
 permalink: /publication/2021-08-23-Commons-and-Tokens-DAO-Governance
 excerpt: 'This study discovers the new, poorly understood phenomena of "Decentralized autonomous organizations" or DAOs. Posited by blockchain technology, DAOs provide an alternative solution to the collection action problem, enabling non-hierarchical communities of stakeholders to coordinate without a central authority and to achieve common goals. Examining DAOs built on Ethereum blockchain with abductive reasoning, this exploratory study investigates how governance modes emerge to address the paradox of centralized adoption of decentralized blockchain technology. A conceptual framework is proposed to provide a plausible explanation of the focal phenomena. Building on extant studies on blockchain governance, the proposed framework specifies the "layers" in the blockchain technology stack and explains how governance challenges manifest in the tensions between "commons logic" and "token logic" along with several domains.'
