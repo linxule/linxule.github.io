@@ -20,3 +20,4 @@ _site/
 .obsidian/plugins/obsidian-git/main.js
 .obsidian/plugins/obsidian-git/data.json
 .obsidian/community-plugins.json
+.obsidian/workspace
