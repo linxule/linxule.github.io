@@ -6,7 +6,7 @@ excerpt: 'This study discovers the new, poorly understood phenomena of "Decentra
 date: 2021-06-26
 venue: 'Academy of Management Proceedings'
 paperurl: 'https://doi.org/10/gmj6dx'
-citation: 'Lin, Xule. 2021. “Commons and Tokens — Governance Modes in Decentralized Autonomous Organizations (DAOs).” <i>Academy of Management Proceedings<i> 2021 (1): 16429.'
+citation: 'Lin, Xule. 2021. “Commons and Tokens — Governance Modes in Decentralized Autonomous Organizations (DAOs).” <i>Academy of Management Proceedings</i> 2021 (1): 16429.'
 ---
 
 This study discovers the new, poorly understood phenomena of "Decentralized autonomous organizations" or DAOs. Posited by blockchain technology, DAOs provide an alternative solution to the collection action problem, enabling non-hierarchical communities of stakeholders to coordinate without a central authority and to achieve common goals. Examining DAOs built on Ethereum blockchain with abductive reasoning, this exploratory study investigates how governance modes emerge to address the paradox of centralized adoption of decentralized blockchain technology. A conceptual framework is proposed to provide a plausible explanation of the focal phenomena. Building on extant studies on blockchain governance, the proposed framework specifies the "layers" in the blockchain technology stack and explains how governance challenges manifest in the tensions between "commons logic" and "token logic" along with several domains.
