@@ -33,15 +33,14 @@ South Kensington Campus, London SW7 2AZ, UK
 * Academy of Management, 2019 - Present
 	* Member
 	* OMT and ENT Division, Ad-Hoc Reviewer
-
+* Consortium for the Advancement of Research Methods and Analysis (CARMA) , 2021 - Present
+  * CARMA PhD Representative at Imperial College Business School
 * Imperial College Business School, 2019 - 2020
-	* Doctoral Student Staff Committee, MRes Social Chair
-
+  * Doctoral Student Staff Committee, MRes Social Chair
 * University of Chicago, Booth School of Business, 2018 - 2019
-	* Research Assistant
-
+  * Research Assistant
 * University of Notre Dame, Mendoza College of Business, 2015 - 2016
-	* Graduate Teaching Assistant
+  * Graduate Teaching Assistant
 
 # Publication
 

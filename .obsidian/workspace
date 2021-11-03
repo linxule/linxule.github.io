@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b1d5c57bd7cf1d70",
+        "id": "49271bb1e034da29",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -90,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b1d5c57bd7cf1d70",
+  "active": "49271bb1e034da29",
   "lastOpenFiles": [
-    "_publications/2021-08-23.md",
     "_publications/2009-12-01-Origin-Development-and-Revelation.md",
-    "_publications/2021-06-26-ASQ-Interview 1.md",
+    "_publications/2021-08-23-Commons-and-Tokens-DAO-Governance.md",
     "_publications/2021-06-26-ASQ-Interview.md",
+    "_publications/2021-08-23.md",
+    "_publications/2021-06-26-ASQ-Interview 1.md",
     "_pages/publications.md",
     "_publications/2009-12-01-Origin-Development-and-Revelation 1.md",
     "_posts/2021-01-27-working-with-Obsidian.md",
     ".gitignore.md",
-    "_posts/2020-05-26-so-what-are-you-studying.md",
-    "Untitled.md"
+    "_posts/2020-05-26-so-what-are-you-studying.md"
   ]
 }
