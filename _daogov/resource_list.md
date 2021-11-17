@@ -85,8 +85,10 @@ canonical_url: "https://daogov.info/resource_list"
     - [Projects and Papers](http://blockchain.cs.ucl.ac.uk/ucl-projects-papers/)
     - [Research and Engagement](http://blockchain.cs.ucl.ac.uk/research/)
     - [Online Seminar](http://blockchain.cs.ucl.ac.uk/online-open-seminars/)
-- Stanford Blockchain Club
+- **[Stanford - Center For Blockchain Research](https://cbr.stanford.edu/)**
+- **[Stanford Blockchain Club](https://blockchain.stanford.edu/)**
     - [DAO Guide by Stanford Blockchain Club](https://docs.google.com/spreadsheets/d/16IDgIyPcfwJGG-zmXeMAenYbePQVHkc2P6WCwKEZgpk/edit#gid=0)
+        - Lists of DAOs, FAQ, Articles, Market Maps, etc.
 
 
 ## Reading lists & Databases
