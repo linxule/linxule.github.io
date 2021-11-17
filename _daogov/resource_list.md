@@ -15,7 +15,7 @@ canonical_url: "https://daogov.info/resource_list"
     - [Interaction network graphs](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?show=info)
         - [Cluster analysis - governance of blockchain, legal,...](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?show=analysis-cluster)
         - [Data table](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?show=datatable) |
-[Export data](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?show=export)
+        [Export data](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?show=export)
 - [DGov Score framework by Ledgerback](http://www.ledgerback.coop/)
     - Useful insights in their [Medium posts](https://medium.com/@ledgerback)
     - [Discussion thread at dGov forum](https://forum.dgov.foundation/t/any-interest-in-a-dgov-score-framework-orgxp/112/69)
@@ -74,17 +74,20 @@ canonical_url: "https://daogov.info/resource_list"
 ## Research Projects
 - **[Metagovernance Project](metagov.org) - The Governance Layer of the Internet**
     - [Exploring DAOs as a New Kind of Institution](https://medium.com/commonsstack/exploring-daos-as-a-new-kind-of-institution-8103e6b156d4)
-	- [Public deck 2020-04](http://metagov.org/wp-content/uploads/2020/04/Metagov-Full-Deck-public-2020-04-18.pdf)
-	- [governance structures - terminology and explanation](metagov.org/govlist)
-	- [modular politics](metagove.org/modpol)
+    - [Public deck 2020-04](http://metagov.org/wp-content/uploads/2020/04/Metagov-Full-Deck-public-2020-04-18.pdf)
+    - [governance structures - terminology and explanation](metagov.org/govlist)
+    - [modular politics](metagove.org/modpol)
 - **[Wharton Cryptogovernance Workshop](https://cryptogov.net)**
-	- [List of participating projects](https://cryptogov.net/participating-projects/)
+  - [List of participating projects](https://cryptogov.net/participating-projects/)
   - [Raw data of survey responses](https://cryptogov.net/export-spreadsheet/)
 - **[Cambridge Centre for Alternative Finance](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/) - Fin & Reg**
 - **[UCL Centre for Blockchain Technologies](http://blockchain.cs.ucl.ac.uk/) - Econ&Fin, Reg&Law**
     - [Projects and Papers](http://blockchain.cs.ucl.ac.uk/ucl-projects-papers/)
     - [Research and Engagement](http://blockchain.cs.ucl.ac.uk/research/)
     - [Online Seminar](http://blockchain.cs.ucl.ac.uk/online-open-seminars/)
+- Stanford Blockchain Club
+    - [DAO Guide by Stanford Blockchain Club](https://docs.google.com/spreadsheets/d/16IDgIyPcfwJGG-zmXeMAenYbePQVHkc2P6WCwKEZgpk/edit#gid=0)
+
 
 ## Reading lists & Databases
 
@@ -92,7 +95,7 @@ canonical_url: "https://daogov.info/resource_list"
 	- [Open work](https://nathanschneider.info/open-work/)
 	- [Zotero library](https://www.zotero.org/ntnsndr/items) (check out the notes)
 	- Collections -- [Governance](https://www.zotero.org/ntnsndr/items/collectionKey/GVN3SBF5), [Platform economy](https://www.zotero.org/ntnsndr/items/collectionKey/HCGE29ZQ),
-[Cooperativism](https://www.zotero.org/ntnsndr/items/collectionKey/X8Q35GWD)
+	[Cooperativism](https://www.zotero.org/ntnsndr/items/collectionKey/X8Q35GWD)
 - **[Blockchain Research Network](https://www.blockchainresearchnetwork.org/research/research-landscape/) - Blockchain governance, Regulation, Blockchain and Law, more…**
 	- [Public Zotero Library](https://www.zotero.org/groups/2216205/blockchain_research_network/library?usenewlibrary=0)  &  [RSS feed](https://api.zotero.org/groups/2216205/items/top?start=0&limit=25&format=atom&v=1)
 	- [Social and Human Collection](https://www.zotero.org/groups/2216205/blockchain_research_network/items/collectionKey/Q76H4XH5) & RSS feed](https://api.zotero.org/groups/2216205/collections/Q76H4XH5/items/top?start=0&limit=25&format=atom&v=1)
