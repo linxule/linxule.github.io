@@ -32,8 +32,12 @@ canonical_url: "https://daogov.info/resource_list"
 ### Metrics
 - [The Soldarity Project — dGov Score Framework](https://medium.com/alternative-governance-network/evaluating-for-distributed-governance-in-internet-native-digital-organizations-23423b261238)
 - [Deep DAO - Metrics of DAOs](http://deepdao.world/#/deepdao/dashboard)
+- [Alchemy by DAOstack](https://alchemy.daostack.io/)
+- [DAO-Analyzer by daohaus](https://dao-analyzer.science/daohaus)
+- [DAOHQ](https://www.daohq.co/)
 
 ## Community Forums
+
 - [dGov](https://forum.dgov.foundation/)
 
 ## Working groups
