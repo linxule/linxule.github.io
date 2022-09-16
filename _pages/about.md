@@ -18,13 +18,15 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
 
 ##  Research Interests [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://linxule.com/posts/2020-05-26-so-what-are-you-studying.md)
 
-  * I am interested in the governance of DAOs (decentralized autonomous organizations). Broadly, my research examines the governance structures/patterns/design of DAOs and associated ecosystem/meta-organization level output.
+  * I am interested in the decentralized governance. 
+
+  * My current research examines the context of *blockchain-based decentralized communities* to understand the governance structures/patterns/design in decentralized governance and associated organizational outcomes.
 
   * [More from the past](https://linxule.com/posts/2020/05/so-what-are-you-studying/)
 
 
 
-## Resources for DAO & Crypto Governance Research [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://linxule.com/daogov/resource_list)  
+## Resources for DAO & Crypto Governance Research [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://linxule.com/daogov/resource_list)
 
 - I built [DAOgov.info](https://www.daogov.info), a [collection of research resources](https://daogov.info/resource_list), through various projects and communities. Please feel free to comment and propose edits.
 
