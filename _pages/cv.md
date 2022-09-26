@@ -94,7 +94,7 @@ Projects/Work in Progress
 	* Professor, Chair in Technology Venturing, Imperial College Business School
 	* Co-founder, [Global Entrepreneurship and Development Institute](http://www.thegedi.org/) 
 	* Co-author, [Global Entrepreneurship Index](http://www.thegedi.org/research/gedi-index) and the [EU Regional Entrepreneurship Index](http://bookshop.europa.eu/en/redi-the-regional-entrepreneurship-and-development-index-pbKN0214462/?CatalogCategoryID=cKYKABsttvUAAAEjrpAY4e5L)
-	* [erkko.autio@imperial.ac.uk](mailto:erkko.autio@imperial.ac.uk), [+44 (0)20 7594 1991](tel:44(0)2075941991)
+	* [erkko.autio@imperial.ac.uk](mailto:erkko.autio@imperial.ac.uk)
 * **[Ying-Ying Hsieh](https://www.imperial.ac.uk/people/y.hsieh)**
 	* Assistant Professor of Innovation and Entrepreneurship, Imperial College Business School
 	* Associate Centre Director of the [Center for Cryptocurrency Research and Engineering ](https://www.imperial.ac.uk/cryptocurrency), Imperial College London
