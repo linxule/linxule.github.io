@@ -61,11 +61,12 @@ Projects/Work in Progress
 
 # Grants, Fellowship, Awards
 
-* Radical Exchange Foundation, 2019
-  * Student Scholarship, Ideas and Research Track
-
-* Indiana Collegiate Press Association, 2015
-  * News Magazines, First Place for Best Sports Photo
+* Radical Exchange Foundation
+  * Scholarship, UnConference, “Exploring Digital Identity for Decentralized Societies”, 2022
+  * Student Scholarship, Ideas and Research Track, 2019
+  
+* Indiana Collegiate Press Association
+  * News Magazines, First Place for Best Sports Photo, 2015
 
 # Skills
 
@@ -80,11 +81,11 @@ Projects/Work in Progress
 
 # Industry Experience
 
-* Ernst & Young, Chicago, 2016 - 2018
-  * Staff
+* Ernst & Young, Chicago
+  * Staff, 2016 - 2018
 
-* Café Tatum Break, Xiamen, 2013 - 2014
-  * Co-founder, Manager
+* Café Tatum Break, Xiamen
+  * Co-founder, Manager, 2013 - 2014
 
 
 # Supervisors
