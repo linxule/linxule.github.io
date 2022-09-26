@@ -30,11 +30,16 @@ South Kensington Campus, London SW7 2AZ, UK
 
 # Professional and University Activities
 
-* Academy of Management, 2019 - Present
-	* Member
-	* OMT and ENT Division, Ad-Hoc Reviewer
-* Consortium for the Advancement of Research Methods and Analysis (CARMA) , 2021 - Present
-  * CARMA PhD Representative at Imperial College Business School
+* Strategic Management Society 
+  * Member, 2022 - Present
+  * SMS 42nd Annual Conference London, Volunteer
+
+* Academy of Management
+  * Reviewer, Special Research Forum (SRF) on “The Human Side of the Future of Work: Understanding the Role People Play in Shaping a Changing World”, 2022
+  * Member, 2019 - Present
+  * OMT and ENT Division, Ad-Hoc Reviewer, 2019 - Present
+* Consortium for the Advancement of Research Methods and Analysis (CARMA) 
+  * CARMA PhD Representative at Imperial College Business School, 2021 - Present
 * Imperial College Business School, 2019 - 2020
   * Doctoral Student Staff Committee, MRes Social Chair
 * University of Chicago, Booth School of Business, 2018 - 2019
