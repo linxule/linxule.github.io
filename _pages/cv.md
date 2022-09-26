@@ -32,7 +32,7 @@ South Kensington Campus, London SW7 2AZ, UK
 
 * Strategic Management Society 
   * Member, 2022 - Present
-  * SMS 42nd Annual Conference London, Volunteer
+  * Volunteer, SMS 42nd Annual Conference London, 2022
 
 * Academy of Management
   * Reviewer, Special Research Forum (SRF) on “The Human Side of the Future of Work: Understanding the Role People Play in Shaping a Changing World”, 2022
@@ -40,12 +40,12 @@ South Kensington Campus, London SW7 2AZ, UK
   * OMT and ENT Division, Ad-Hoc Reviewer, 2019 - Present
 * Consortium for the Advancement of Research Methods and Analysis (CARMA) 
   * CARMA PhD Representative at Imperial College Business School, 2021 - Present
-* Imperial College Business School, 2019 - 2020
-  * Doctoral Student Staff Committee, MRes Social Chair
-* University of Chicago, Booth School of Business, 2018 - 2019
-  * Research Assistant
-* University of Notre Dame, Mendoza College of Business, 2015 - 2016
-  * Graduate Teaching Assistant
+* Imperial College Business School
+  * Doctoral Student Staff Committee, MRes Social Chair, 2019 - 2020
+* University of Chicago, Booth School of Business
+  * Research Assistant, 2018 - 2019
+* University of Notre Dame, Mendoza College of Business
+  * Graduate Teaching Assistant, 2015 - 2016
 
 # Publication
 
