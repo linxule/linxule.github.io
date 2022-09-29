@@ -92,6 +92,7 @@ Projects/Work in Progress
 
 * **[Erkko Autio](https://www.imperial.ac.uk/people/erkko.autio)**, FBA
 	* Professor, Chair in Technology Venturing, Imperial College Business School
+	* Co-founder, [wicked acceleration labs](https://www.wickedacceleration.org/)
 	* Co-founder, [Global Entrepreneurship and Development Institute](http://www.thegedi.org/) 
 	* Co-author, [Global Entrepreneurship Index](http://www.thegedi.org/research/gedi-index) and [EU Regional Entrepreneurship Index](http://bookshop.europa.eu/en/redi-the-regional-entrepreneurship-and-development-index-pbKN0214462/?CatalogCategoryID=cKYKABsttvUAAAEjrpAY4e5L)
 	* [erkko.autio@imperial.ac.uk](mailto:erkko.autio@imperial.ac.uk)
