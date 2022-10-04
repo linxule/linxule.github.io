@@ -81,6 +81,17 @@ canonical_url: "https://daogov.info/resource_list"
 - [Legal Resources for DAOs & Crypto](/IyXolWvpQguvHRd8PkLHbA)
 
 ## Research Projects
+
+### Management and Organizational Studies
+
+- [Mike Lee at Insead](https://www.michaelylee.co/research)
+    - The Role of Hierarchies in Managing Communities: Examining Tensions in the Governance of Decentralized Autonomous Organizations
+
+
+
+
+### Other Academic Disciplines
+
 - **[Metagovernance Project](metagov.org) - The Governance Layer of the Internet**
     - [Exploring DAOs as a New Kind of Institution](https://medium.com/commonsstack/exploring-daos-as-a-new-kind-of-institution-8103e6b156d4)
     - [Public deck 2020-04](http://metagov.org/wp-content/uploads/2020/04/Metagov-Full-Deck-public-2020-04-18.pdf)
