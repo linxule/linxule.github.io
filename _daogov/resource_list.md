@@ -86,8 +86,8 @@ canonical_url: "https://daogov.info/resource_list"
 
 - [Mike Lee at Insead](https://www.michaelylee.co/research)
     - The Role of Hierarchies in Managing Communities: Examining Tensions in the Governance of Decentralized Autonomous Organizations
-
-
+- Vivianna He at ETH Zurich with Phanish Puranam at Insead
+    - [Have you participated or tried starting and growing a decentralised autonomous organisation (DAO)?](https://insead.eu.qualtrics.com/jfe/form/SV_5dQqcxHSZZU9AEe) 
 
 
 ### Other Academic Disciplines
