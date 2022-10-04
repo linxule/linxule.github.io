@@ -41,13 +41,18 @@ canonical_url: "https://daogov.info/resource_list"
 - [dGov](https://forum.dgov.foundation/)
 
 ## Working groups
+
+- [LeXpunK Army](https://www.lexpunk.army/)
+  - "a community that brings BUIDLers, HODLers & DEgens together with lawyERRGHs to innovate the culture, practice and substance of law for the new age of autonomous technologies"
+  - [Working Groups](https://lex-punk.gitbook.io/lexpunk-internal-wiki/army-overview/army-current-working-groups)
+
 - [DAO Alliance](https://twitter.com/alliancedao?lang=en)
-	- [notes from community calls](https://hackmd.io/@burrrata/SkfSrSrh8)
-	- [Telegram group](t.me/AllianceDAO)
-	- DAO frameworks/mechanisms/tooling
+  - [notes from community calls](https://hackmd.io/@burrrata/SkfSrSrh8)
+  - [Telegram group](t.me/AllianceDAO)
+  - DAO frameworks/mechanisms/tooling
 - [DAO Summoner](https://t.me/joinchat/HcTaOxNqKK8HJS2abqYk9A)
-	- [Telegram group](https://t.me/joinchat/HcTaOxNqKK8HJS2abqYk9A)
-	- how to build and improve DAOs
+  - [Telegram group](https://t.me/joinchat/HcTaOxNqKK8HJS2abqYk9A)
+  - how to build and improve DAOs
 
 ## Wiki & Reading Lists
 - [Distributed Governance - Joel Dietz (fractastical) at Swarm](https://github.com/fractastical/distributed-governance)
