@@ -25,7 +25,7 @@ collection: projects
 
 # Sources
 
-- [The ASQ Blog | Behind the scenes of the Administrative Science Quarterly: A blog organized by students, for students.](https://asqblog.com/)
+- [The ASQ Blog - Behind the scenes of the Administrative Science Quarterly: A blog organized by students, for students.](https://asqblog.com/)
 	- The ASQ Blog is a student-run community of scholars who enjoy reading articles from the Administrative Science Quarterly. The blog is approved and supported by ASQ’s editorial board.
 	- Most posts on the blog are interviews with authors of recent and forthcoming ASQ articles. Two Ph.D. students ask five questions, and article authors answer. We will also be curating special content such as interviews with managing editors, paper prize winners, and other behind-the-scenes topics. If you have ideas for other interesting content, please reach out!
 - [New Scholars](https://www.youtube.com/c/NewScholars/videos)
