@@ -32,3 +32,10 @@ _site/
 .obsidian/plugins/obsidian-git/main.js
 .obsidian/plugins/obsidian-git/manifest.json
 .obsidian/workspace
+.obsidian/community-plugins.json
+.obsidian/plugins/obsidian-auto-link-title/main.js
+*.json
+.obsidian/plugins/obsidian-auto-link-title/styles.css
+.obsidian/community-plugins.json
+*.js
+.obsidian/community-plugins.json
