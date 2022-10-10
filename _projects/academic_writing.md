@@ -18,7 +18,7 @@ collection: projects
 
 ## Qualitative Papers
 
-- [Publishing in AMJ—Part 7: What's Different about Qualitative Research? | Academy of Management Journal](https://journals.aom.org/doi/10.5465/amj.2012.4003)
+- [Publishing in AMJ—Part 7: What's Different about Qualitative Research?](https://journals.aom.org/doi/10.5465/amj.2012.4003)
 - [Achieving Rigor in Qualitative Analysis](https://www.youtube.com/watch?v=yYDv8WHcuOY)
 - [The Craft of Writing Qualitative Papers](https://www.youtube.com/watch?v=NOyvX0jY3Q4)
 
