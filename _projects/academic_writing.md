@@ -22,9 +22,13 @@ collection: projects
 
 # Sources
 
+- [The ASQ Blog | Behind the scenes of the Administrative Science Quarterly: A blog organized by students, for students.](https://asqblog.com/)
+	- The ASQ Blog is a student-run community of scholars who enjoy reading articles from the Administrative Science Quarterly. The blog is approved and supported by ASQ’s editorial board.
+	- Most posts on the blog are interviews with authors of recent and forthcoming ASQ articles. Two Ph.D. students ask five questions, and article authors answer. We will also be curating special content such as interviews with managing editors, paper prize winners, and other behind-the-scenes topics. If you have ideas for other interesting content, please reach out!
 - [New Scholars](https://www.youtube.com/c/NewScholars/videos)
-	- New Scholars aims to nurture management scholarship which moves the world. We seek to help emerging and aspiring scholars to conduct credible and relevant research to advance management theory and practice which can benefit our societies and organizations. We organize discussions between established and emerging scholars to explore ideas and discuss insights that stimulate a richer and meaningful management scholarship. More details on www.newscholars.network
+	- New Scholars aims to nurture management scholarship which moves the world. We seek to help emerging and aspiring scholars to conduct credible and relevant research to advance management theory and practice which can benefit our societies and organizations. We organize discussions between established and emerging scholars to explore ideas and discuss insights that stimulate a richer and meaningful management scholarship. More details on [www.newscholars.network](www.newscholars.network)
+	- [Collections – New Scholars](https://newscholars.network/collections/): Mats Alvesson and Davide Ravasi
 - [Strategic Management Society](https://www.youtube.com/c/StrategicManagementSociety)
-	- This is the YouTube channel of the Strategic Management Society. See http://strategicmanagement.net/ for details
+	-  YouTube channel of the Strategic Management Society. 
 - [Academy of Management](https://www.youtube.com/user/AcademyOfManagement/playlists)
 	- The Academy of Management (AOM) is the preeminent professional association for management and organization scholars. Our worldwide members are professors and Ph.D. students in business schools at universities, academics in related social science and other fields, and practitioners who value knowledge creation and application. Founded in 1936, our global community today is nearly 20,000 strong, spanning more than 120 countries.
