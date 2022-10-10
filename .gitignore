@@ -42,3 +42,4 @@ _site/
 *.json
 *.json
 .obsidian/community-plugins.json
+.DS_Store
