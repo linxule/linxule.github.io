@@ -9,13 +9,16 @@ collection: projects
 ## General Tips
 
 - [Storytelling in Academic Writing: Structure, Tools and Techniques](https://youtu.be/rGdTPkPMeDU)
+	- Based on [Timothy G. Pollock - How to Use Storytelling in Your Academic Writing](https://www.e-elgar.com/shop/gbp/how-to-use-storytelling-in-your-academic-writing-9781839102813.html)
 - [Construct Clarity ](https://www.youtube.com/watch?v=6oe3L95JTes)
+- [The Problematizing Review: A Counterpoint to Elsbach and Van Knippenberg’s Argument for Integrative Reviews - Alvesson](https://onlinelibrary.wiley.com/doi/abs/10.1111/joms.12582)
 - [What’s the underlying theory?  An interview with Kathleen Eisenhardt](https://projectscrib.org/2022/07/29/whats-the-underlying-theory-an-interview-with-kathleen-eisenhardt/)
 - [@juliencayla _10 academic writing skills I wish I had learned as a PhD student](https://twitter.com/juliencayla/status/1574628448680566784)
 - [@juliencayla_Here are 5 articles you need to read if you want to improve your academic writing](https://twitter.com/juliencayla/status/1572757833623273472)
 
 ## Qualitative Papers
 
+- [Publishing in AMJ—Part 7: What's Different about Qualitative Research? | Academy of Management Journal](https://journals.aom.org/doi/10.5465/amj.2012.4003)
 - [Achieving Rigor in Qualitative Analysis](https://www.youtube.com/watch?v=yYDv8WHcuOY)
 - [The Craft of Writing Qualitative Papers](https://www.youtube.com/watch?v=NOyvX0jY3Q4)
 
