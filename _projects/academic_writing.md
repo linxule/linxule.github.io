@@ -10,6 +10,9 @@ collection: projects
 
 - [Storytelling in Academic Writing: Structure, Tools and Techniques](https://youtu.be/rGdTPkPMeDU)
 - [Construct Clarity ](https://www.youtube.com/watch?v=6oe3L95JTes)
+- [What’s the underlying theory?  An interview with Kathleen Eisenhardt | ProjectScrib](https://projectscrib.org/2022/07/29/whats-the-underlying-theory-an-interview-with-kathleen-eisenhardt/)
+- [@juliencayla _10 academic writing skills I wish I had learned as a PhD student](https://twitter.com/juliencayla/status/1574628448680566784)
+- [@juliencayla_Here are 5 articles you need to read if you want to improve your academic writing](https://twitter.com/juliencayla/status/1572757833623273472)
 
 ## Qualitative Papers
 

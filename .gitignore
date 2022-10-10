@@ -39,3 +39,6 @@ _site/
 .obsidian/community-plugins.json
 *.js
 .obsidian/community-plugins.json
+*.json
+*.json
+.obsidian/community-plugins.json
