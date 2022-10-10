@@ -35,6 +35,7 @@ canonical_url: "https://daogov.info/resource_list"
 - [Alchemy by DAOstack](https://alchemy.daostack.io/)
 - [DAO-Analyzer by daohaus](https://dao-analyzer.science/daohaus)
 - [DAOHQ](https://www.daohq.co/)
+- [Token Terminal - Protocols and DAOs' Earnings](https://tokenterminal.com/leaderboards/earnings)
 
 ## Community Forums
 
