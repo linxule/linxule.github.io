@@ -5,11 +5,11 @@ collection: daogov
 canonical_url: "https://daogov.info/resource_list"
 ---
 
-
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) &nbsp; [![hackmd-github-sync-badge](https://hackmd.io/4kZ3V9WnTSCaLBPLMHJasQ/badge)](https://hackmd.io/4kZ3V9WnTSCaLBPLMHJasQ)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 ***
 # Industry Research
+
 ## Research Projects
 
 - [Smart Contract Research Forum](https://www.smartcontractresearch.org/)
@@ -81,7 +81,7 @@ canonical_url: "https://daogov.info/resource_list"
 	- It contains most of the live lists & databases below
 	- Keywords: DAOs, DACs, LAOs, governance, community  
 	- **Filter RSS subscriptions, newsletter and Google Scholar alerts with [Inoreader](https://www.inoreader.com/) & create your own RSS feeds and email digests!**
-- [My shared Zotero Library](https://www.zotero.org/groups/2515544/dao_research) (request for invitation)
+- [Zotero Group for Research on DAOs](https://www.zotero.org/groups/2515544/dao_research) (request for invitation)
     - Work-in-progress
 	- Collected through my own research
 
