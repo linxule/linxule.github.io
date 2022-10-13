@@ -40,6 +40,10 @@ canonical_url: "https://daogov.info/resource_list"
 ## Community Forums
 
 - [dGov](https://forum.dgov.foundation/)
+- [Smart Contract Research Forum](https://www.smartcontractresearch.org/)
+  - [Mechanism Design Track](https://www.smartcontractresearch.org/c/mechanism-design-and-game-theory/10) 
+  - [Governance and Coordination Track](https://www.smartcontractresearch.org/c/governance-and-coordination/11)
+
 
 ## Working groups
 
