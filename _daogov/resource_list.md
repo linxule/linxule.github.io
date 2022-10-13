@@ -25,7 +25,7 @@ canonical_url: "https://daogov.info/resource_list"
     - Useful insights in their [Medium posts](https://medium.com/@ledgerback)
     - [Discussion thread at dGov forum](https://forum.dgov.foundation/t/any-interest-in-a-dgov-score-framework-orgxp/112/69)
     - Proposed framework
-        - Versions: [Essential](https://hackmd.io/s/BJdMFJaPI) vs. [full](https://hackmd.io/s/HkDimBtwI) (feedback via HackMD)
+        - Versions: [Essential](https://hackmd.io/s/BJdMFJaPI) vs. [full](https://hackmd.io/s/HkDimBtwI)
         - [Questionnaire format via Google forms](https://docs.google.com/forms/d/e/1FAIpQLSczzTwPd1mH03x6vq-kg__AqOj4yaQMAf-BNFmVzceg-2O6uA/viewform)
 - [DAObase](https://daobase.org/)
 - [Crypto Governance Research by Block Commons](https://blockcommons.red/crypto-governance-research/overviews/)
