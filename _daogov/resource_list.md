@@ -13,9 +13,9 @@ canonical_url: "https://daogov.info/resource_list"
 ## Research Projects
 
 - [Smart Contract Research Forum](https://www.smartcontractresearch.org/)
-    - [Mechanism Design Track](https://www.smartcontractresearch.org/c/mechanism-design-and-game-theory/10) 
     - [Governance and Coordination Track](https://www.smartcontractresearch.org/c/governance-and-coordination/11)
-    - [Research Pulse Newsletter](https://scrf.substack.com/)
+    - [Mechanism Design Track](https://www.smartcontractresearch.org/c/mechanism-design-and-game-theory/10) 
+    - [Research Pulse Newsletter](https://scrf.substack.com/) (weekly summary)
 - [Network Governance Research by dGov Foundation](https://daoresearch.dgov.foundation/)
     - [Interaction network graphs](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?show=info)
         - [Cluster analysis - governance of blockchain](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?show=analysis-cluster)
