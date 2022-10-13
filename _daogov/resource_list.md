@@ -18,7 +18,7 @@ canonical_url: "https://daogov.info/resource_list"
     - [Research Pulse Newsletter](https://scrf.substack.com/)
 - [Network Governance Research by dGov Foundation](https://daoresearch.dgov.foundation/)
     - [Interaction network graphs](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?show=info)
-        - [Cluster analysis - governance of blockchain, legal,...](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?show=analysis-cluster)
+        - [Cluster analysis - governance of blockchain](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?show=analysis-cluster)
         - [Data table](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?show=datatable) |
         [Export data](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?show=export)
 - [DGov Score framework by Ledgerback](http://www.ledgerback.coop/)
