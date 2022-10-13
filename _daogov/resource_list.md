@@ -81,10 +81,9 @@ canonical_url: "https://daogov.info/resource_list"
 	- It contains most of the live lists & databases below
 	- Keywords: DAOs, DACs, LAOs, governance, community  
 	- **Filter RSS subscriptions, newsletter and Google Scholar alerts with [Inoreader](https://www.inoreader.com/) & create your own RSS feeds and email digests!**
-- [My shared Zotero Library](https://www.zotero.org/groups/2515544/dao_research)
-    - Work-in-progress, currently private
+- [My shared Zotero Library](https://www.zotero.org/groups/2515544/dao_research) (request for invitation)
+    - Work-in-progress
 	- Collected through my own research
-- [Legal Resources for DAOs & Crypto](/IyXolWvpQguvHRd8PkLHbA)
 
 ## Research Projects
 
