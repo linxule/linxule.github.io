@@ -22,38 +22,22 @@ South Kensington Campus, London SW7 2AZ, UK
 * University of Chicago, 2018 - 2019
   * Graduate Student At-Large
 
-* University of Notre Dame, 2015 - 2016
+* University of Notre Dame, 2011 - 2016
   * MSc in Accountancy
 
-* University of Notre Dame, 2011 - 2015
   * BBA in Accounting
 
-# Professional and University Activities
+# Research Interests
 
-* Strategic Management Society 
-  * Member, 2022 - Present
-  * Volunteer, SMS 42nd Annual Conference London, 2022
+Organizational Design; Decentralized Governance; Collective Governance; Shared Resources; Blockchain-Based Organizations; Decentralized Autonomous Organizations
 
-* Academy of Management
-  * Reviewer, Special Research Forum (SRF) on “The Human Side of the Future of Work: Understanding the Role People Play in Shaping a Changing World”, 2022
-  * Member, 2019 - Present
-  * OMT and ENT Division, Ad-Hoc Reviewer, 2019 - Present
-* Consortium for the Advancement of Research Methods and Analysis (CARMA) 
-  * CARMA PhD Representative at Imperial College Business School, 2021 - Present
-* Imperial College Business School
-  * Doctoral Student Staff Committee, MRes Social Chair, 2019 - 2020
-* University of Chicago, Booth School of Business
-  * Research Assistant, 2018 - 2019
-* University of Notre Dame, Mendoza College of Business
-  * Graduate Teaching Assistant, 2015 - 2016
-
-# Publication
+# Published and Accepted Works
 
 <ul>{% for post in site.publications %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-Projects/Work in Progress
+Works in Progress
 ====
 <ul>{% for post in site.portfolio %}
   {% include archive-single-cv.html %}
@@ -68,16 +52,38 @@ Projects/Work in Progress
 * Indiana Collegiate Press Association
   * News Magazines, First Place for Best Sports Photo, 2015
 
-# Skills
+# Professional Activities
 
-* Programming Languages
-  * Markdown, LaTeX
-  * Stata, SAS, RStudio
+- Memberships
+  - Academy of Management, OMT, ENT, and TIM Divisions
+  - Strategic Management Society
+  - Organizational Design Community
+  - Consortium for the Advancement of Research Methods and Analysis (CARMA)
+  - DAO Research Lab at Imperial College Business School
+- Reviewing
+  - Academy of Management Annual Meeting. OMT, ENT, and TIM Divisions
+  - Academy of Management Discoveries, Special Research Forum (SRF) on “The Human Side of the Future of Work: Understanding the Role People Play in Shaping a Changing World”, 2022
+- Volunteer
+  - Consortium for the Advancement of Research Methods and Analysis (CARMA) PhD Representative, 2021 – Present
+  - SMS 42nd Annual Conference London, 2022
+  - MRes Social Chair, Doctoral Student Staff Committee, Imperial College Business School, 2019 – 2020
+- Research Assistant
+  - Booth School of Business, University of Chicago, 2018 – 2019
 
-* Languages
-  * Mandarin (Native)
-  * English (Fluent)
-  * Un-contracted Braille (Read & Write)
+# Select Presentations
+
+- SEI Research Day, Bayes Business School, London, 2022
+- AOM Annual Meeting, 2021
+
+# Teaching Experience
+
+- Graduate Teaching Assistant
+	- Imperial College Business School, Imperial College London
+		- Strategic Management, 2022
+		- Innovation and Strategy in FinTech, 2022
+	- Mendoza College of Business, University of Notre Dame
+		- Partnerships and Passive Activities, 2015 
+		- International Taxation, 2016
 
 # Industry Experience
 
@@ -87,8 +93,7 @@ Projects/Work in Progress
 * Café Tatum Break, Xiamen
   * Co-founder, Manager, 2013 - 2014
 
-
-# Supervisors
+# References
 
 * **[Erkko Autio](https://www.imperial.ac.uk/people/erkko.autio)**, FBA
 	* Professor, Chair in Technology Venturing, Imperial College Business School
