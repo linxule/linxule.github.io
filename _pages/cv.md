@@ -36,12 +36,12 @@ Organizational Design; Decentralized Governance; Collective Governance; Shared R
 <ul>{% for post in site.publications %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
-Works in Progress
-====
+
+
+# Works in Progress
 
 - How Do Governance Adaptations Occur in Decentralized Organizations? Explaining the Duality of Shared Resources.
 	- Inductive process study, data analysis; with Ying-Ying Hsieh and Erkko Autio, Imperial College Business School
-
 
 # Grants, Fellowship, Awards
 
