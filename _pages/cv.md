@@ -87,7 +87,7 @@ Works in Progress
 
 # Industry Experience
 
-* Ernst & Young, Chicago
+* Ernst & Young, Chicago, IL
   * Staff, 2016 - 2018
 
 * Café Tatum Break, Xiamen
