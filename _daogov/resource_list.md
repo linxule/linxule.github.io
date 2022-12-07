@@ -35,8 +35,19 @@ canonical_url: "https://daogov.info/resource_list"
 - [Square I - Crypto Encyclopedia](https://square1-hello.gitbook.io/square-1/token-economics/decentralized-organizations/dao-concepts/sufficient-decentralization-1)
 
 ### Metrics
-- [The Soldarity Project — dGov Score Framework](https://medium.com/alternative-governance-network/evaluating-for-distributed-governance-in-internet-native-digital-organizations-23423b261238)
+- [Dune Analytics](https://dune.com/home) – User Generated/Assembled Analytics into Blockchain Projects
+  - [MakerDAO Dashboard by @SebVentures](https://dune.com/SebVentures/maker---accounting_1)
+  - [DeFi Governance Voter Turnout Status (Uniswap, Compound, Aave) by @0xoxox0](https://dune.com/0xoxox0/Unvoted-Voting-Power)
+
 - [Deep DAO - Metrics of DAOs](http://deepdao.world/#/deepdao/dashboard)
+  - [DeepDAO API Endpoints](https://api.deepdao.io/) - Subscription Only
+- [breadcrumbs - blockchain analytics platform](https://www.breadcrumbs.app/home)
+  - Dive into the trails of transactions
+
+- [Etherscan](https://etherscan.io/) 
+  - [Etherscan APIs](https://docs.etherscan.io/) - short term free access available for scholars
+
+- [The Soldarity Project — dGov Score Framework](https://medium.com/alternative-governance-network/evaluating-for-distributed-governance-in-internet-native-digital-organizations-23423b261238)
 - [Alchemy by DAOstack](https://alchemy.daostack.io/)
 - [DAO-Analyzer by daohaus](https://dao-analyzer.science/daohaus)
 - [DAOHQ](https://www.daohq.co/)
