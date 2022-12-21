@@ -60,8 +60,11 @@ tags:
 	- De Filippi, Primavera, and Benjamin Loveluck. “The Invisible Politics of Bitcoin: Governance Crisis of a Decentralized Infrastructure.” SSRN Scholarly Paper. Rochester, NY: Social Science Research Network, September 29, 2016. https://papers.ssrn.com/abstract=2852691.
 - **Carlos Santana.**
 	- Voshmgir, Shermin. Token Economy: How the Web3 Reinvents the Internet. Vol. 2. Token Kitchen, 2020.
+- **Wei Xiong.**
+	- Sockin, Michael, and Wei Xiong. “Decentralization Through Tokenization.” Working Paper. Working Paper Series. National Bureau of Economic Research, February 2022. https://doi.org/10.3386/w29720.
+	
 - **‌David Yermack.**
-	- Yermack, David. “Corporate Governance and Blockchains.” Review of Finance, January 10, 2017. https://doi.org/10/gdj8rz.
+  - Yermack, David. “Corporate Governance and Blockchains.” Review of Finance, January 10, 2017. https://doi.org/10/gdj8rz.
 - **Xi Zhao.**
   - Zhao, Xi, Peilin Ai, Fujun Lai, Xin (Robert) Luo, and Jose Benitez. “Task Management in Decentralized Autonomous Organization.” *Journal of Operations Management* 68, no. 6–7 (2022): 649–74. https://doi.org/10.1002/joom.1179.
 
