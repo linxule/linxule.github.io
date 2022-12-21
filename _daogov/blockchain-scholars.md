@@ -1,7 +1,9 @@
 ---
 title: 'Blockchain Scholars'
+excerpt: "(Growing) List of scholars working on blockchain-related studies in the field of management and adjacent fields (e.g., finance, law, information system). "
 date: 2022-12-20
-permalink: /posts/2022/12/blockchain-scholars/
+canonical_url: "https://daogov.info/blockchain-scholars"
+collection: daogov
 tags:
   - research
   - blockchain

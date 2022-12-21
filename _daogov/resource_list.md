@@ -88,7 +88,7 @@ canonical_url: "https://daogov.info/resource_list"
 
 # Academic Research
 ## My Collection of Papers on Blockchain and DAOs
-- [List of scholars](https://linxule.com/posts/2022/12/blockchain-scholars/) working on blockchain-related topics
+- [List of scholars](https://daogov.info/blockchain-scholars) working on blockchain-related topics.
 - [Take a look at my curation](https://linxule.com/curation-dao/) - Subscribe via the RSS feed links posted there
 	- It contains most of the live lists & databases below
 	- Keywords: DAOs, DACs, LAOs, governance, community  

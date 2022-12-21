@@ -29,7 +29,7 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
 ## Resources for DAO & Crypto Governance Research [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://linxule.com/daogov/resource_list)
 
 - I built [DAOgov.info](https://www.daogov.info), a [collection of research resources](https://daogov.info/resource_list), through various projects and communities. Please feel free to comment and propose edits.
-- [List of scholars](https://linxule.com/posts/2022/12/blockchain-scholars/) working on blockchain-related topics.
+- [List of scholars](https://daogov.info/blockchain-scholars) working on blockchain-related topics.
 
 
 
