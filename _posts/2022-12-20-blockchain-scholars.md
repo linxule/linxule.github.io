@@ -58,11 +58,14 @@ tags:
 	- De Filippi, Primavera, and Samer Hassan. “Decentralized Autonomous Organizations. Glossary of Distributed Technologies,” 2020. [https://eprints.ucm.es/62306/](https://eprints.ucm.es/62306/).
 	- De Filippi, Primavera, and Xavier Lavayssière. Blockchain Technology: Toward a Decentralized Governance of Digital Platforms? Punctum Book, 2020. [https://hal.archives-ouvertes.fr/hal-03098502](https://hal.archives-ouvertes.fr/hal-03098502).
 	- De Filippi, Primavera, and Benjamin Loveluck. “The Invisible Politics of Bitcoin: Governance Crisis of a Decentralized Infrastructure.” SSRN Scholarly Paper. Rochester, NY: Social Science Research Network, September 29, 2016. [https://papers.ssrn.com/abstract=2852691](https://papers.ssrn.com/abstract=2852691).
-- **Carlos Santana.**
-	- Voshmgir, Shermin. Token Economy: How the Web3 Reinvents the Internet. Vol. 2. Token Kitchen, 2020.
-- **Wei Xiong.**
-	- Sockin, Michael, and Wei Xiong. “Decentralization Through Tokenization.” Working Paper. Working Paper Series. National Bureau of Economic Research, February 2022. [https://doi.org/10.3386/w29720](https://doi.org/10.3386/w29720).
+- **Richard Red.**
+	- [Crypto Governance Research](https://www.blockcommons.red/crypto-governance-research/overviews/)
 	
+- **Carlos Santana.**
+  - Voshmgir, Shermin. Token Economy: How the Web3 Reinvents the Internet. Vol. 2. Token Kitchen, 2020.
+- **Wei Xiong.**
+  - Sockin, Michael, and Wei Xiong. “Decentralization Through Tokenization.” Working Paper. Working Paper Series. National Bureau of Economic Research, February 2022. [https://doi.org/10.3386/w29720](https://doi.org/10.3386/w29720).
+
 - **‌David Yermack.**
   - Yermack, David. “Corporate Governance and Blockchains.” Review of Finance, January 10, 2017. [https://doi.org/10/gdj8rz](https://doi.org/10/gdj8rz).
 - **Xi Zhao.**
