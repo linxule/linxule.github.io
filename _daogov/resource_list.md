@@ -63,6 +63,10 @@ canonical_url: "https://daogov.info/resource_list"
   - "a community that brings BUIDLers, HODLers & DEgens together with lawyERRGHs to innovate the culture, practice and substance of law for the new age of autonomous technologies"
   - [Working Groups](https://lex-punk.gitbook.io/lexpunk-internal-wiki/army-overview/army-current-working-groups)
 
+- [DAO Governance Collective](https://twitter.com/DAOgovernance) 
+  - [Governance Education Sessions](https://www.notion.so/beepto/Governance-Education-Sessions-a4b56a0f0e2747f1a880d77f9575bd10)
+  - [2023 Governance Thinkers to watch](https://docs.google.com/spreadsheets/d/159XZsWNQMdCT5vWuDyAGo0p_UxMpMTPSKeve3hSEQKw/edit#gid=0)
+
 - [DAO Alliance](https://twitter.com/alliancedao?lang=en)
   - [notes from community calls](https://hackmd.io/@burrrata/SkfSrSrh8)
   - [Telegram group](t.me/AllianceDAO)
@@ -123,6 +127,10 @@ canonical_url: "https://daogov.info/resource_list"
     - [Research and Engagement](http://blockchain.cs.ucl.ac.uk/research/)
     - [Online Seminar](http://blockchain.cs.ucl.ac.uk/online-open-seminars/)
 - **[Stanford - Center For Blockchain Research](https://cbr.stanford.edu/)**
+- [Standord Law - DAO Symposium](https://conferences.law.stanford.edu/dao-symposium/)
+    - [2022 Symposium Recordings - YouTube](https://www.youtube.com/watch?v=1ZduLlSMz2Y&list=PLAx1YswjkDmOGh54W_OED-FctBvfcZbXc)
+      - [Transcripts](https://drive.google.com/drive/folders/15E9lDxEmBk1mJ-2cFUvd8RXzafTJI-zO)
+    
 - **[Stanford Blockchain Club](https://blockchain.stanford.edu/)**
     - [DAO Guide by Stanford Blockchain Club](https://docs.google.com/spreadsheets/d/16IDgIyPcfwJGG-zmXeMAenYbePQVHkc2P6WCwKEZgpk/edit#gid=0)
         - Lists of DAOs, FAQ, Articles, Market Maps, etc.
