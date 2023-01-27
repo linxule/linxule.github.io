@@ -74,6 +74,9 @@ canonical_url: "https://daogov.info/resource_list"
 - [DAO Summoner](https://t.me/joinchat/HcTaOxNqKK8HJS2abqYk9A)
   - [Telegram group](https://t.me/joinchat/HcTaOxNqKK8HJS2abqYk9A)
   - how to build and improve DAOs
+- [Talent DAO](https://talentdao.notion.site/Talent-DAO-52d9b15a3b56483ab53d899048ede1eb)
+  - [DAO Structure & Design Project](https://talentdao.notion.site/DAO-Structure-Design-65c492f4f547401692a4de7ae58d3f80) - literature review on organization design for DAOs
+
 
 ## Wiki & Reading Lists
 - [Distributed Governance - Joel Dietz (fractastical) at Swarm](https://github.com/fractastical/distributed-governance)
