@@ -54,15 +54,19 @@ tags:
 
 # Adjacent Fields
 
-- **Christian Catalini.**
-	- Catalini, Christian, and Joshua S. Gans. “Initial Coin Offerings and the Value of Crypto Tokens.” National Bureau of Economic Research, 2018.
-- **Primavera De Filippi.**
-	- De Filippi, Primavera, and Samer Hassan. “Decentralized Autonomous Organizations. Glossary of Distributed Technologies,” 2020. [https://eprints.ucm.es/62306/](https://eprints.ucm.es/62306/).
-	- De Filippi, Primavera, and Xavier Lavayssière. Blockchain Technology: Toward a Decentralized Governance of Digital Platforms? Punctum Book, 2020. [https://hal.archives-ouvertes.fr/hal-03098502](https://hal.archives-ouvertes.fr/hal-03098502).
-	- De Filippi, Primavera, and Benjamin Loveluck. “The Invisible Politics of Bitcoin: Governance Crisis of a Decentralized Infrastructure.” SSRN Scholarly Paper. Rochester, NY: Social Science Research Network, September 29, 2016. [https://papers.ssrn.com/abstract=2852691](https://papers.ssrn.com/abstract=2852691).
-- **Richard Red.**
-	- [Crypto Governance Research](https://www.blockcommons.red/crypto-governance-research/overviews/)
+- [**Eric Alston.**](https://www.colorado.edu/business/leeds-directory/faculty/eric-c-alston)
+	- Alston, Eric, Wilson Law, Ilia Murtazashvili, and Martin Weiss. “Blockchain Networks as Constitutional and Competitive Polycentric Orders.” *Journal of Institutional Economics* 18, no. 5 (2022): 707–23.
+	- Alston, Eric. “Constitutions and Blockchains: Competitive Governance of Fundamental Rule Sets.” *Case W. Res. JL Tech. & Internet* 11 (2020): 131.
 	
+- **Christian Catalini.**
+  - Catalini, Christian, and Joshua S. Gans. “Initial Coin Offerings and the Value of Crypto Tokens.” National Bureau of Economic Research, 2018.
+- **Primavera De Filippi.**
+  - De Filippi, Primavera, and Samer Hassan. “Decentralized Autonomous Organizations. Glossary of Distributed Technologies,” 2020. [https://eprints.ucm.es/62306/](https://eprints.ucm.es/62306/).
+  - De Filippi, Primavera, and Xavier Lavayssière. Blockchain Technology: Toward a Decentralized Governance of Digital Platforms? Punctum Book, 2020. [https://hal.archives-ouvertes.fr/hal-03098502](https://hal.archives-ouvertes.fr/hal-03098502).
+  - De Filippi, Primavera, and Benjamin Loveluck. “The Invisible Politics of Bitcoin: Governance Crisis of a Decentralized Infrastructure.” SSRN Scholarly Paper. Rochester, NY: Social Science Research Network, September 29, 2016. [https://papers.ssrn.com/abstract=2852691](https://papers.ssrn.com/abstract=2852691).
+- **Richard Red.**
+  - [Crypto Governance Research](https://www.blockcommons.red/crypto-governance-research/overviews/)
+
 - **Carlos Santana.**
   - Voshmgir, Shermin. Token Economy: How the Web3 Reinvents the Internet. Vol. 2. Token Kitchen, 2020.
 - **Wei Xiong.**
