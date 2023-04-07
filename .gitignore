@@ -43,3 +43,4 @@ _site/
 *.json
 .obsidian/community-plugins.json
 .DS_Store
+_daogov/voting-power-calc.md
