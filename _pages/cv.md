@@ -72,6 +72,7 @@ Organizational Design; Decentralized Governance; Collective Governance; Shared R
 
 # Select Presentations
 
+- [UK FinTech Academic Network (UKFAN) Annual Conference](https://www.innovatefinance.com/events/ukfan-annual-conference-2023/), London, 2023
 - SEI Research Day, Bayes Business School, London, 2022
 - AOM Annual Meeting, 2021
 
