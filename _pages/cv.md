@@ -64,9 +64,10 @@ Organizational Design; Decentralized Governance; Collective Governance; Shared R
   - Academy of Management Annual Meeting. OMT, ENT, and TIM Divisions
   - Academy of Management Discoveries, Special Research Forum (SRF) on “The Human Side of the Future of Work: Understanding the Role People Play in Shaping a Changing World”, 2022
 - Volunteer
-  - Consortium for the Advancement of Research Methods and Analysis (CARMA) PhD Representative, 2021 – Present
+  - PhD Representative, Consortium for the Advancement of Research Methods and Analysis (CARMA), 2021 – Present
   - SMS 42nd Annual Conference London, 2022
   - MRes Social Chair, Doctoral Student Staff Committee, Imperial College Business School, 2019 – 2020
+  - International Ambassador, Notre Dame International Office, University of Notre Dame, 2012-2016
 - Research Assistant
   - Booth School of Business, University of Chicago, 2018 – 2019
 
@@ -93,6 +94,12 @@ Organizational Design; Decentralized Governance; Collective Governance; Shared R
 
 * Café Tatum Break, Xiamen
   * Co-founder, Manager, 2013 - 2014
+* Schwab Rehabilitation Hospital & Care Network, Chicago, IL
+  * Summer Intern with Extended Services Department, 2012
+
+* Firefly in Action (萤火虫在行动), Lhasa & Xiamen
+  * Co-Founder, 2008-2010
+
 
 # References
 
