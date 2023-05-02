@@ -65,7 +65,7 @@ Organizational Design; Decentralized Governance; Collective Governance; Shared R
   - Academy of Management Discoveries, Special Research Forum (SRF) on “The Human Side of the Future of Work: Understanding the Role People Play in Shaping a Changing World”, 2022
 - Volunteer
   - PhD Representative, Consortium for the Advancement of Research Methods and Analysis (CARMA), 2021 – Present
-  - SMS 42nd Annual Conference London, 2022
+  - Student Volunteer, SMS 42nd Annual Conference London, 2022
   - MRes Social Chair, Doctoral Student Staff Committee, Imperial College Business School, 2019 – 2020
   - International Ambassador, Notre Dame International Office, University of Notre Dame, 2012-2016
 - Research Assistant
