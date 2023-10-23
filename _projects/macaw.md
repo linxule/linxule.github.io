@@ -2,6 +2,7 @@
 title: "Streamlining Academic Writing and Citation Management: The Case for a Markdown-centric Approach to Academic Writing (MaCAW)"
 excerpt: "MaCAW: Streamlining Scholarly Writing and Citations with a Markdown-Centric Approach"
 collection: projects
+date: 2023-10-23
 ---
 
 # Streamlining Academic Writing and Citation Management: The Case for a Markdown-centric Approach to Academic Writing (MaCAW)

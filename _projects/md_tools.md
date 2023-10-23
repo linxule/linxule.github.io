@@ -2,6 +2,7 @@
 title: "Tools for Writing in Markdown"
 excerpt: "Editors, Add-ons for Capture and Reference"
 collection: projects
+date: 2021
 ---
 
 
@@ -42,11 +43,11 @@ collection: projects
 
   ```markdown
   # autio2018-zotero
-
+  
   # Digital affordances, spatial affordances, and the genesis of entrepreneurial ecosystems
-
+  
   ## Metadata
-
+  
   * Type: [[Article]]
   * Authors: [[Erkko Autio]], [[Satish Nambisan]], [[Llewellyn D. W. Thomas]], [[Mike Wright]]
   * Date: [[03/2018]]

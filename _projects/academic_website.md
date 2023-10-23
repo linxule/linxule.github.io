@@ -3,6 +3,7 @@ title: "Build Your Own (Academic) Website"
 layout: single
 excerpt: "How to set up your own website (for free): with GitHub page and Minimal Mistakes (Jekyll)"
 collection: projects
+date: 2021
 ---
 
 **This page is still under development.**

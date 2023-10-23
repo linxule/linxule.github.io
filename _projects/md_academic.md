@@ -2,6 +2,7 @@
 title: "(Academic) Writing in Markdown"
 excerpt: "Cite, Bibliography, Document Layouts"
 collection: projects
+date: 2021
 ---
 
 
@@ -60,7 +61,7 @@ Cite-while-you-write (CWYW) is the important step in academic writing. A good se
       		end try
       	end tell
       end if
-
+    
       ```
 
   - [ZotHero via Alfred](https://github.com/deanishe/zothero)
