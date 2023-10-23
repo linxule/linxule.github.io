@@ -2,7 +2,7 @@
 title: "Academic Writing"
 excerpt: "Lessons and Tips for Wrting and Research"
 collection: projects
-date: 2021
+date: 2022-10-10
 ---
 
 # Academic Writing

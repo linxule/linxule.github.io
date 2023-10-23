@@ -2,7 +2,7 @@
 title: "Tools for Writing in Markdown"
 excerpt: "Editors, Add-ons for Capture and Reference"
 collection: projects
-date: 2021
+date: 2020-09-30
 ---
 
 
