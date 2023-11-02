@@ -36,15 +36,16 @@ MaCAW offers a fitting alternative – integrating [Zotero](https://www.zotero.o
 - **Instant Markdown Citations:** Literature captured into Zotero promptly yields Pandoc-style cite keys by Better BibTeX, easing immediate citation within markdown editors – thereby bridging gaps between literature search and composition.
 
 ![Markdown Citation via Zettlr](/images/macaw1.gif)
+
 - **Efficient Management of Literature:** With features like **collections, tags, saved searches** within Zotero helps streamline large volume of literature, easing transitioning from reference management to its use in writing.
 
 
 ## Enhanced Authoring Experience
 
 - **Simplified Citations:** Markdown syntax aids seamless citations during composition, eliminating navigation through various dialog boxes or menus – a common nuisance seen during conventional citation methods.
-	- Simple citation: [@corley2011]
-	- With page range [@corley2011, 14-15]
-	- Multiple authors [@corley2011; @gehman2018]
+  - Simple citation: [@corley2011]
+  - With page range [@corley2011, 14-15]
+  - Multiple authors [@corley2011; @gehman2018]
   
 - **Flexible Citation (Bibliography) Creation:** MaCAW allows easy customization in creating and exporting bibliography in various styles that fit numerous journal or publisher guidelines. The citation styles are based on CSL (Citation Style Language) and the files can be downloaded from [Zotero Style Repository](https://www.zotero.org/styles).
 
@@ -53,8 +54,8 @@ MaCAW offers a fitting alternative – integrating [Zotero](https://www.zotero.o
 
 Markdown is a simple markup language that uses formatting symbols to format text. Markdown contains all the formatting conventions you need: emphasis, bold, links, image, headings, footnotes, math, block quotes, and more. Moreover, you can always drop in a few LaTeX commands or HTML tags.
 
-- Resources: 
-	- [WritingMarkdown – Zettlrr User Manual](https://docs.zettlr.com/en/core/writing-markdown/)
+- Resources:
+  - [WritingMarkdown – Zettlrr User Manual](https://docs.zettlr.com/en/core/writing-markdown/)
 
 ## Simple Exporting via Markdown 
 
@@ -96,30 +97,30 @@ Markdown files boast a level of software-agnosticism as they can be opened and e
 For practical application understanding, I have created a list of to-do items for you to get started with MaCAW:
 
 1. **Zotero Setup**
-	1. Register for a Zotero Account
-	2. Install [Zotero Software](https://www.zotero.org/)
-	3. Install [Zotero Connector for your browser(s)](https://www.zotero.org/download/)
-	4. Install [Better BibTex Plugin for Zotero ](https://retorque.re/zotero-better-bibtex/)
-		1. Set up [auto-export of the Zotero library via Better BibTex ](https://docs.zettlr.com/en/core/citations/#step-2-export-your-library)(in CSL JSON format) to a citation database
-
+   1. Register for a Zotero Account
+   2. Install [Zotero Software](https://www.zotero.org/)
+   3. Install [Zotero Connector for your browser(s)](https://www.zotero.org/download/)
+   4. Install [Better BibTex Plugin for Zotero ](https://retorque.re/zotero-better-bibtex/)
+      1. Set up [auto-export of the Zotero library via Better BibTex ](https://docs.zettlr.com/en/core/citations/#step-2-export-your-library)(in CSL JSON format) to a citation database
 2. **Markdown Editor Setup**
-	1. Download and install [Zettlr](https://www.zettlr.com/) 
-	2. [Link Zettlr to the CSL JSON citation database](https://docs.zettlr.com/en/core/citations/#step-3-open-your-library-in-zettlr)
-	3. Optional: Download and select the [desired CSL-Style](https://www.zotero.org/styles) (e.g., ASQ, AMJ)
-
-3. **Advanced Zotero Setup**
-	1. Install [Zotfile Plugin for Zotero ](http://zotfile.com/)
-		1. Set up [renaming and saving PDF files](http://zotfile.com/#how-to-install--set-up-zotfile) to a specified local folder (e.g., Dropbox folder)
-
-4. **Advanced Markdown Editor Setup**
-	1. Download and install [Obsidian](https://obsidian.md/)
-		1. Install the [ZotLit plugin for Obsidian ](https://zotlit.aidenlx.top/)
-			1. Set up the [Zotero Obsidian Note plugin for Zotero](https://zotlit.aidenlx.top/getting-started/install/zotero) and [establish the link between Obsidian and Zotero](https://zotlit.aidenlx.top/getting-started/install/obsidian#download-binary)
-	2. Download and install [Marked for macOS](https://marked2app.com/)
-		1. Download [CSS stylesheets](https://marked2app.com/styles/)
-		2. Set up [auto-export of the Zotero library via Better BibTex ](https://docs.zettlr.com/en/core/citations/#step-2-export-your-library)(in CSL format) to a citation database
-		3. [Configure Marked to process citation](https://linxule.com/projects/md_academic/)
-	3. [Export Markdown Citation to “Live” Citation in Word Documents](https://forum.obsidian.md/t/new-plugin-citations-with-zotero/9793/80?u=linxule)
+   1. Download and install [Zettlr](https://www.zettlr.com/) 
+   2. [Link Zettlr to the CSL JSON citation database](https://docs.zettlr.com/en/core/citations/#step-3-open-your-library-in-zettlr)
+   3. Optional: Download and select the [desired CSL-Style](https://www.zotero.org/styles) (e.g., ASQ, AMJ)
+3. **Markdown Exporter Setup**
+   1. Download and install [DocDown](https://github.com/lowercasename/docdown)
+      1. Supports Both "Text Citation" and "Live Citation" (editable in Word via Zotero Plugin)
+   2. Download and install [Marked for macOS](https://marked2app.com/)
+      1. Download [CSS stylesheets](https://marked2app.com/styles/)
+      2. Set up [auto-export of the Zotero library via Better BibTex](https://docs.zettlr.com/en/core/citations/#step-2-export-your-library)(in CSL format) to a citation database
+      3. [Configure Marked to process citation](https://linxule.com/projects/md_academic/)
+4. **Advanced Zotero Setup**
+   1. Install [Zotfile Plugin for Zotero](http://zotfile.com/)
+   2. Set up [renaming and saving PDF files](http://zotfile.com/#how-to-install--set-up-zotfile) to a specified local folder (e.g., Dropbox folder)
+5. **Advanced Markdown Editor Setup**
+   1. Download and install [Obsidian](https://obsidian.md/)
+   2. Install the [ZotLit plugin for Obsidian](https://zotlit.aidenlx.top/)
+      1. Set up the [Zotero Obsidian Note plugin for Zotero](https://zotlit.aidenlx.top/getting-started/install/zotero) and [establish the link between Obsidian and Zotero](https://zotlit.aidenlx.top/getting-started/install/obsidian#download-binary)
+   3. [Export Markdown Citation to “Live” Citation in Word Documents](https://forum.obsidian.md/t/new-plugin-citations-with-zotero/9793/80?u=linxule)
 
 
 # Wrapping Up
