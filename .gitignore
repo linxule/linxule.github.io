@@ -1,3 +1,4 @@
+# Ignore the contents of the _site directory
 _site/
 .obsidian/  # to exclude Obsidian workspace settings (including plugin and hotkey configurations)
 # OR

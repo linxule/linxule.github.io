@@ -33,7 +33,7 @@ Organizational Design; Decentralized Governance; Collective Governance; Shared R
 
 # Published and Accepted Works
 
-<ul>{% for post in site.publications %}
+<ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
