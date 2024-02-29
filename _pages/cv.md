@@ -16,20 +16,14 @@ South Kensington Campus, London SW7 2AZ, UK
 
 # Education
 
-* Imperial College Business School, 2019 - 2024 (Expected)
+* Imperial College Business School, 2019 - 2025 (Expected)
   * PhD Student, Management and Entrepreneurship
-
 * University of Chicago, 2018 - 2019
-  * Graduate Student At-Large
-
 * University of Notre Dame, 2011 - 2016
-  * MSc in Accountancy
-
-  * BBA in Accounting
 
 # Research Interests
 
-Organizational Design; Decentralized Governance; Collective Governance; Shared Resources; Blockchain-Based Organizations; Decentralized Autonomous Organizations
+Organizational Design, Decentralized Governance, Decentralized Autonomous Organizations (DAOs), Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models
 
 # Published and Accepted Works
 
@@ -40,17 +34,22 @@ Organizational Design; Decentralized Governance; Collective Governance; Shared R
 
 # Works in Progress
 
-- How Do Governance Adaptations Occur in Decentralized Organizations? Explaining the Duality of Shared Resources.
-	- Inductive process study, data analysis; with Ying-Ying Hsieh and Erkko Autio, Imperial College Business School
+- Lin, X., Hsieh, Y-Y., & Autio, E. (2024). Tokens' Dual Role in DAOs: Enabling Collective Governance and Shaping Outcomes [Manuscript in preparation]
+- Lin, X., Hsieh, Y-Y., & Autio, E. (2024). How do algorithmic and social governance drive governance adaptations in decentralized organizations? [Manuscript in preparation]
+	- Nominee, 2023 SMS Annual Conference Research Methods Paper Prize
+	- Nominee, 2023 SMS Annual Conference Ph.D. Paper Prize
+- Lin, X., & Corley, K. (2024). Preserving researcher agency when adding AI tools to a grounded theory study: Introducing scalable inductive grounded NLP approach (SIGNA) [Manuscript under review].
 
 # Grants, Fellowship, Awards
 
-* Radical Exchange Foundation
-  * Scholarship, UnConference, “Exploring Digital Identity for Decentralized Societies”, 2022
-  * Student Scholarship, Ideas and Research Track, 2019
-  
-* Indiana Collegiate Press Association
-  * News Magazines, First Place for Best Sports Photo, 2015
+- Google Cloud Research Credits program
+  - Award GCP19980904
+- Gitcoin Grants 
+  - Round 19, Governance Research Round by Metagov, 2023
+- Radical Exchange Foundation
+  - Scholarship, UnConference, “Exploring Digital Identity for Decentralized Societies”, 2022
+  - Student Scholarship, Ideas and Research Track, 2019
+
 
 # Professional Activities
 
@@ -59,11 +58,11 @@ Organizational Design; Decentralized Governance; Collective Governance; Shared R
   - Strategic Management Society
   - Organizational Design Community
   - Consortium for the Advancement of Research Methods and Analysis (CARMA)
-  - DAO Research Lab at Imperial College Business School
 - Reviewing
   - Academy of Management Annual Meeting. OMT, ENT, and TIM Divisions
   - Academy of Management Discoveries, Special Research Forum (SRF) on “The Human Side of the Future of Work: Understanding the Role People Play in Shaping a Changing World”, 2022
 - Volunteer
+  - Student Rpresentative, Decentralization in Organization (DiO) Conference, 2023 & 2024
   - PhD Representative, Consortium for the Advancement of Research Methods and Analysis (CARMA), 2021 – Present
   - Student Volunteer, SMS 42nd Annual Conference London, 2022
   - MRes Social Chair, Doctoral Student Staff Committee, Imperial College Business School, 2019 – 2020
@@ -73,9 +72,16 @@ Organizational Design; Decentralized Governance; Collective Governance; Shared R
 
 # Select Presentations
 
-- [UK FinTech Academic Network (UKFAN) Annual Conference](https://www.innovatefinance.com/events/ukfan-annual-conference-2023/), London, 2023
-- SEI Research Day, Bayes Business School, London, 2022
-- AOM Annual Meeting, 2021
+- 2023
+	- SEI Research Day, Imperial College Business School, London
+	- Methods Reading Group, Imperial College Business School, London
+	- SMS Annual Meeting
+	- University of Edinburgh Business School (UEBS) Paper Development Workshop
+- 2022
+	- UK FinTech Academic Network (UKFAN), London
+	- SEI Research Day, Bayes Business School, London
+- 2021
+	- AOM Annual Meeting
 
 # Teaching Experience
 

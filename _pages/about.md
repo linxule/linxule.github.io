@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+
 
 I am a PhD student in the Department of Management and Entrepreneurship at the Imperial College Business School ([College web page](https://www.imperial.ac.uk/people/xule.lin)). I joined Imperial in 2019. Previously, I spent eight years studying and working in South Bend and Chicago.
 
 [![Generic badge](https://img.shields.io/badge/有问-必答-<COLOR>.svg)](mailto:x@linxule.com) [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style="max-width:100%")](mailto:x@linxule.com)
 
-------
+
 
 ##  Research Interests 
 
@@ -22,7 +22,7 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
 
   * [More from the past](https://linxule.com/posts/2020/05/so-what-are-you-studying/)
 
-------
+
 ## X/Twitter Lists
 
 - Wisdom and knowledge of communities and crowds via newsletters, blogs, Twitter, and other parts of the Web.
@@ -36,7 +36,6 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
 - [List of scholars](https://daogov.info/blockchain-scholars) working on blockchain-related topics.
 
 
-------
 
 ## (Academic) Writing in Markdown
 - This website (GitHub pages) is made with markdown.
