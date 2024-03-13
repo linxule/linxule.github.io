@@ -58,16 +58,18 @@ Organizational Design, Decentralized Governance, Decentralized Autonomous Organi
 
 # Professional Activities
 
-- Memberships
+- Membership
   - Academy of Management, OMT, ENT, and TIM Divisions
   - Strategic Management Society
   - Organizational Design Community
+  - London Qualitative Community
   - Consortium for the Advancement of Research Methods and Analysis (CARMA)
 - Reviewing
+  - Strategic Management Society Annual Conference
   - Academy of Management Annual Meeting. OMT, ENT, and TIM Divisions
   - Academy of Management Discoveries, Special Research Forum (SRF) on “The Human Side of the Future of Work: Understanding the Role People Play in Shaping a Changing World”, 2022
 - Volunteer
-  - Student Rpresentative, Decentralization in Organization (DiO) Conference, 2023 & 2024
+  - Student Representative, Decentralization in Organization (DiO) Conference, 2023 & 2024
   - PhD Representative, Consortium for the Advancement of Research Methods and Analysis (CARMA), 2021 – Present
   - Student Volunteer, SMS 42nd Annual Conference London, 2022
   - MRes Social Chair, Doctoral Student Staff Committee, Imperial College Business School, 2019 – 2020
