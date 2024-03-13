@@ -34,7 +34,7 @@ Organizational Design, Decentralized Governance, Decentralized Autonomous Organi
 
 # Works in Progress
 
-- Lin, X., Hsieh, Y-Y., & Autio, E. (2024). Tokens' Dual Role in DAOs: Enabling Collective Governance and Shaping Outcomes [Manuscript in preparation]
+- Lin, X., Hsieh, Y-Y., & Autio, E. (2024). Tokens' dual role in DAOs: Enabling collective governance and shaping outcomes [Manuscript in preparation]
 - Lin, X., Hsieh, Y-Y., & Autio, E. (2024). How do algorithmic and social governance drive governance adaptations in decentralized organizations? [Manuscript in preparation]
 	- Nominee, 2023 SMS Annual Conference Research Methods Paper Prize
 	- Nominee, 2023 SMS Annual Conference Ph.D. Paper Prize
