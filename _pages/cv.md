@@ -59,7 +59,7 @@ Organizational Design, Decentralized Governance, Decentralized Autonomous Organi
 # Professional Activities
 
 - Organizer
-	- Web3 Decentralization: Blockchain Technologies’ Impact on Modern Organizational Governance, Symposium, AOM 2023
+	- Web3 Decentralization: Blockchain Technologies’ Impact on Modern Organizational Governance, Panel Symposium, AOM 2023
 		- Co-chair: Magnus van Haaren and Wenqian Wang
 		- Panelists: Ethan Bernstein, Hanna Halaburda, Ying-Ying Hsieh, Alex Murray, Joana Pereira, Jean-Philippe Vergne
 - Member
