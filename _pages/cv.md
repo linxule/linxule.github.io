@@ -84,25 +84,26 @@ Organizational Design, Decentralized Governance, Decentralized Autonomous Organi
 # Select Presentations
 
 - 2023
-	- SEI Research Day, Imperial College Business School, London
-	- Methods Reading Group, Imperial College Business School, London
-	- SMS Annual Meeting
-	- University of Edinburgh Business School (UEBS) Paper Development Workshop
+  - SEI Research Day, Imperial College Business School, London
+  - Methods Reading Group, Imperial College Business School, London
+  - SMS Annual Meeting
+  - University of Edinburgh Business School (UEBS) Paper Development Workshop
 - 2022
-	- UK FinTech Academic Network (UKFAN), London
-	- SEI Research Day, Bayes Business School, London
+  - UK FinTech Academic Network (UKFAN), London
+  - SEI Research Day, Bayes Business School, London
 - 2021
-	- AOM Annual Meeting
+  - AOM Annual Meeting
 
 # Teaching Experience
 
 - Graduate Teaching Assistant
-	- Imperial College Business School, Imperial College London
-		- Strategic Management, 2022
-		- Innovation and Strategy in FinTech, 2022
-	- Mendoza College of Business, University of Notre Dame
-		- Partnerships and Passive Activities, 2015 
-		- International Taxation, 2016
+  - Imperial College Business School, Imperial College London
+    - Systematic Reviews, 2023 (Demonstrate tools to conduct systematic reviews)
+	- Strategic Management, 2022-2023
+	- Innovation and Strategy in FinTech, 2022-2024
+  - Mendoza College of Business, University of Notre Dame
+	- Partnerships and Passive Activities, 2015
+	- International Taxation, 2016
 
 # Industry Experience
 
