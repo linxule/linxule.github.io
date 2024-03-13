@@ -58,13 +58,17 @@ Organizational Design, Decentralized Governance, Decentralized Autonomous Organi
 
 # Professional Activities
 
-- Membership
+- Organizer
+	- Web3 Decentralization: Blockchain Technologies’ Impact on Modern Organizational Governance, Symposium, AOM 2023
+		- Co-chair: Magnus van Haaren and Wenqian Wang
+		- Panelists: Ethan Bernstein, Hanna Halaburda, Ying-Ying Hsieh, Alex Murray, Joana Pereira, Jean-Philippe Vergne
+- Member
   - Academy of Management, OMT, ENT, and TIM Divisions
   - Strategic Management Society
   - Organizational Design Community
   - London Qualitative Community
   - Consortium for the Advancement of Research Methods and Analysis (CARMA)
-- Reviewing
+- Reviewer
   - Strategic Management Society Annual Conference
   - Academy of Management Annual Meeting. OMT, ENT, and TIM Divisions
   - Academy of Management Discoveries, Special Research Forum (SRF) on “The Human Side of the Future of Work: Understanding the Role People Play in Shaping a Changing World”, 2022
