@@ -63,11 +63,11 @@ Organizational Design, Decentralized Governance, Decentralized Autonomous Organi
 		- Co-chair: Magnus van Haaren and Wenqian Wang
 		- Panelists: Ethan Bernstein, Hanna Halaburda, Ying-Ying Hsieh, Alex Murray, Joana Pereira, Jean-Philippe Vergne
 - Member
-  - Academy of Management, OMT, ENT, and TIM Divisions
-  - Strategic Management Society
   - Organizational Design Community
   - London Qualitative Community
   - Consortium for the Advancement of Research Methods and Analysis (CARMA)
+  - Academy of Management, OMT, ENT, and TIM Divisions
+  - Strategic Management Society
 - Reviewer
   - Strategic Management Society Annual Conference
   - Academy of Management Annual Meeting. OMT, ENT, and TIM Divisions
