@@ -10,16 +10,16 @@ redirect_from:
 {% include base_path %}
 
 ---
-Imperial College Business School, Imperial College London
-South Kensington Campus, London SW7 2AZ, UK 			
+Imperial College Business School, Imperial College London<br/>
+South Kensington Campus, London SW7 2AZ, UK <br/>
 [linxule@imperial.ac.uk](mailto:linxule@imperial.ac.uk) |  [linxule.com](https://linxule.com/)
 
 # Education
 
-* Imperial College Business School, 2019 - 2025 (Expected)
-  * PhD Student, Management and Entrepreneurship
-* University of Chicago, 2018 - 2019
-* University of Notre Dame, 2011 - 2016
+- Imperial College Business School, 2019 - 2025 (Expected)
+  - PhD Student, Management and Entrepreneurship
+- University of Chicago, 2018 - 2019
+- University of Notre Dame, 2011 - 2016
 
 # Research Interests
 
@@ -31,12 +31,11 @@ Organizational Design, Decentralized Governance, Decentralized Autonomous Organi
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-
 # Works in Progress
 
 - Lin, X., Hsieh, Y-Y., & Autio, E. (2024). Tokens' dual role in DAOs: Enabling collective governance and shaping outcomes [Manuscript in preparation]
 - Lin, X., Hsieh, Y-Y., & Autio, E. (2024). How do algorithmic and social governance drive governance adaptations in decentralized organizations? [Manuscript in preparation]
-	- Nominee, 2023 SMS Annual Conference Research Methods Paper Prize
+  - Nominee, 2023 SMS Annual Conference Research Methods Paper Prize
 	- Nominee, 2023 SMS Annual Conference Ph.D. Paper Prize
 - Lin, X., & Corley, K. (2024). Preserving researcher agency when adding AI tools to a grounded theory study: Introducing scalable inductive grounded NLP approach (SIGNA) [Manuscript under review].
 	- OpenAI’s Researcher Access Program, 2024
