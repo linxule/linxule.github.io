@@ -39,12 +39,17 @@ Organizational Design, Decentralized Governance, Decentralized Autonomous Organi
 	- Nominee, 2023 SMS Annual Conference Research Methods Paper Prize
 	- Nominee, 2023 SMS Annual Conference Ph.D. Paper Prize
 - Lin, X., & Corley, K. (2024). Preserving researcher agency when adding AI tools to a grounded theory study: Introducing scalable inductive grounded NLP approach (SIGNA) [Manuscript under review].
+	- OpenAI’s Researcher Access Program, 2024
+	- Google Cloud Research Credits program, 2023
+- Adjovu, C., & Lin, X. (2024). Distributed governance score framework [Manuscript in preparation].
+	- This project was generously funded through the Governance Research Round organized by Gitcoin and administered by Metagov.
 
 # Grants, Fellowship, Awards
 
+- OpenAI’s Researcher Access Program
 - Google Cloud Research Credits program
   - Award GCP19980904
-- Gitcoin Grants 
+- Gitcoin Grants
   - Round 19, Governance Research Round by Metagov, 2023
 - Radical Exchange Foundation
   - Scholarship, UnConference, “Exploring Digital Identity for Decentralized Societies”, 2022
