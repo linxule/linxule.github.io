@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 # Education
 
 - Imperial College Business School, Imperial College London, 2019 – 2025 (Expected)
