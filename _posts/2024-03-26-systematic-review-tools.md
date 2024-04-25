@@ -16,13 +16,13 @@ tags:
 
 My presentation (continuously updated) for the 2023 chat about tools for systematic reviews with incoming MRes students at Imperial College Business School's PhD program – big thanks to Prof. Erkko Autio FBA for the invite. We dug deep and discussed several key points: 📚
 
-1️⃣ Zotero: This isn't just a reference management tool. It lets you search, manage, and retrieve PDFs, take and manage notes – it's just about a researcher's Swiss Army knife. 🌐
+1. Zotero: This isn't just a reference management tool. It lets you search, manage, and retrieve PDFs, take and manage notes – it's just about a researcher's Swiss Army knife. 🌐
 
-2️⃣ AI Tools: We have various AI-Enabled tools to find relevant and under-the-radar articles. But relying on them comes with its challenges, like choosing between open-source and commercial options. 🤖
+2. AI Tools: We have various AI-Enabled tools to find relevant and under-the-radar articles. But relying on them comes with its challenges, like choosing between open-source and commercial options. 🤖
 
-3️⃣ Large Language Models (LLMs): These can make reviewing and summarizing texts (e.g., GPT, Llama) so much easier. They're definitely part of the new wave of research tools to keep an eye on.
+3. Large Language Models (LLMs): These can make reviewing and summarizing texts (e.g., GPT, Llama) so much easier. They're definitely part of the new wave of research tools to keep an eye on.
 
-4️⃣ Tried Research Rabbit, Elicit or Obsidian yet? They're game-changers, providing depth to the search function, knowledge extraction, and making note management a breeze.
+4. Tried Research Rabbit, Elicit or Obsidian yet? They're game-changers, providing depth to the search function, knowledge extraction, and making note management a breeze.
 
 Check out the slides from my talk to find out more. Your feedback would be super valuable in helping me improve this work.
 
