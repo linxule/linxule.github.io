@@ -4,7 +4,7 @@ date: 2024-12-08
 excerpt: "Customizing Language Models for Data, Writing & Coding"
 collection: talks
 permalink: /talks/2023-12/methods-reading
-Type: Tutorial
+type: Tutorial
 venue: Imperial College Business School
 location: London, UK
 ---
