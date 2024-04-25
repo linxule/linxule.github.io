@@ -2,7 +2,8 @@
 title: 'Systematic Review Tools'
 date: 2024-03-26
 excerpt: "Presentation on tools for systematic reviews."
-permalink: /posts/2024/03/systematic-review-tools/
+collection: talks
+permalink: /talks/2023-09/systematic-review-tools
 tags:
   - research
   - systematic review

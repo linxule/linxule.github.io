@@ -4,8 +4,11 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Posts"
+  - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Talks"
+    url: /talks/
 
   - title: "DAOgov"
     url: /daogov/
