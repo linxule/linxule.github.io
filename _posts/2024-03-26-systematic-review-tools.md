@@ -26,7 +26,6 @@ My presentation (continuously updated) for the 2023 chat about tools for systema
 
 Check out the slides from my talk to find out more. Your feedback would be super valuable in helping me improve this work.
 
-
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -34,4 +33,4 @@ Check out the slides from my talk to find out more. Your feedback would be super
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFtfXQfEnY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFtfXQfEnY&#x2F;view?utm_content=DAFtfXQfEnY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Tools for Systematic Reviews</a> by Xule
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFtfXQfEnY&#x2F;view?utm_content=DAFtfXQfEnY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Tools for Systematic Review at Canvas</a> by Xule Lin
