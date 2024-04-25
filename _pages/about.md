@@ -14,7 +14,7 @@ I am a PhD student in the Department of Management and Entrepreneurship at the I
 
 # Research Interests
 
-My research focuses on the intersection of new forms of organizing and decentralized governance. Empirically, my work focuses on how social and algorithmic mechanisms enable decentralized communities to develop and adapt their governance. Methodologically, my work combines a grounded theory approach with AI-based analysis tools. Overall, my research aims to advance theory on the dynamics enabling organizational design in the digital age.
+My research focuses on the intersection of new forms of organizing and decentralized governance. Empirically, my work focuses on how social and algorithmic mechanisms enable decentralized communities (e.g., Decentralized Autonomous Organizations or DAOs) to develop and adapt their governance. Methodologically, my work combines a grounded theory approach with AI-based analysis tools. Overall, my research aims to advance theory on the dynamics enabling organizational design in the digital age.
 
   > [More from the past](https://linxule.com/posts/2020/05/so-what-are-you-studying/)
 
@@ -23,7 +23,7 @@ My research focuses on the intersection of new forms of organizing and decentral
 
 I have curated various X (formerly Twitter) lists focused on management research, DAOs, and AI research, which provide valuable insights and updates from experts in these fields.
 - [Management Research](https://twitter.com/i/lists/1186983495517773825): People, Organizations, Blogs & Journals in Management, Strategy, Org Behavior, and Related Fields
-- [Research on DAOs](https://twitter.com/i/lists/1176535611269898240): Mgmt focused, technical & non-technical
+- [Research on DAOs (Decentralized Autonomous Organizations)](https://twitter.com/i/lists/1176535611269898240): Mgmt focused, technical & non-technical information on DAOs
 - [AI Research](https://twitter.com/i/lists/1761815451116413191): AI research with implications for advancing organizational research
 
 Writing in markdown helps me focus on the writing rather than organizing and formatting. Check out Streamlining Academic Writing and Citation Management: The Case for a Markdown-centric Approach to Academic Writing [(MaCAW)](https://linxule.com/posts/2023/10/macaw/)
