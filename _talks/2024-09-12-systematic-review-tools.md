@@ -4,6 +4,7 @@ date: 2023-09-12
 excerpt: "My presentation (continuously updated) for the 2023 chat about tools for systematic reviews with incoming MRes students at Imperial College Business School's PhD program."
 collection: talks
 permalink: /talks/2023-09/systematic-review-tools
+type: Tutorial
 venue: Imperial College Business School, Department of Management & Entrepreneurship
 location: London, UK
 ---
