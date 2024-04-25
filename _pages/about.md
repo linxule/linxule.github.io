@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a [PhD student](https://www.imperial.ac.uk/people/xule.lin) in the Department of Management and Entrepreneurship at the Imperial College Business School. I joined Imperial in 2019. Piror to this, I studied at at the University of Notre Dame and the University of Chicago. I also gained valuable professional experience working at Ernst & Young (EY) in Chicago.
+I am a [PhD student](https://www.imperial.ac.uk/people/xule.lin) in the Department of [Management & Entrepreneurship at the Imperial College Business School](https://www.imperial.ac.uk/business-school/faculty-research/academic-areas/management-entrepreneurship/). I joined Imperial in 2019. Piror to this, I studied at at the University of Notre Dame and the University of Chicago. I also gained valuable professional experience working at Ernst & Young (EY) in Chicago.
 
 # Research Interests
 
