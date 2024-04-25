@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""
@@ -227,8 +227,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -236,8 +236,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _projects
   - scope:
       path: ""
@@ -245,8 +245,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comments: false
   # _talks
   - scope:
       path: ""
@@ -254,7 +254,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
   # _daogov
   - scope:
       path: ""
@@ -262,8 +262,8 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true
-      comment: true
+      share: false
+      comments: false
 
 
 # Sass/SCSS
