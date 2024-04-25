@@ -25,6 +25,6 @@ I have curated various X (formerly Twitter) lists focused on management research
 - [Research on DAOs (Decentralized Autonomous Organizations)](https://twitter.com/i/lists/1176535611269898240): Mgmt focused, technical & non-technical information on DAOs
 - [AI Research](https://twitter.com/i/lists/1761815451116413191): AI research with implications for advancing organizational research
 
-Writing in markdown helps me focus on the writing rather than organizing and formatting. Check out Streamlining Academic Writing and Citation Management: The Case for a Markdown-centric Approach to Academic Writing [(MaCAW)](https://linxule.com/posts/2023/10/macaw/)
+Writing in markdown helps me focus on the writing rather than organizing and formatting. Check out my post on "Streamlining Academic Writing and Citation Management: The Case for a Markdown-centric Approach to Academic Writing [(MaCAW)](https://linxule.com/posts/2023/10/macaw/)"
 
 I have also created and adapted a [collection of themes, scripts, templates](https://github.com/linxule/themes) for Zotero, Marked 2, Deckset, and more...
