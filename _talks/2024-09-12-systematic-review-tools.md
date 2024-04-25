@@ -5,7 +5,7 @@ excerpt: "My presentation (continuously updated) for the 2023 chat about tools f
 collection: talks
 permalink: /talks/2023-09/systematic-review-tools
 type: Tutorial
-venue: Imperial College Business School, Department of Management & Entrepreneurship
+venue: Imperial College Business School
 location: London, UK
 ---
 
