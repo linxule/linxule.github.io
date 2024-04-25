@@ -39,7 +39,6 @@ MaCAW offers a fitting alternative – integrating [Zotero](https://www.zotero.o
 
 - **Efficient Management of Literature:** With features like **collections, tags, saved searches** within Zotero helps streamline large volume of literature, easing transitioning from reference management to its use in writing.
 
-
 ## Enhanced Authoring Experience
 
 - **Simplified Citations:** Markdown syntax aids seamless citations during composition, eliminating navigation through various dialog boxes or menus – a common nuisance seen during conventional citation methods.
@@ -48,7 +47,6 @@ MaCAW offers a fitting alternative – integrating [Zotero](https://www.zotero.o
   - Multiple authors [@corley2011; @gehman2018]
   
 - **Flexible Citation (Bibliography) Creation:** MaCAW allows easy customization in creating and exporting bibliography in various styles that fit numerous journal or publisher guidelines. The citation styles are based on CSL (Citation Style Language) and the files can be downloaded from [Zotero Style Repository](https://www.zotero.org/styles).
-
 
 ## Formatting with Markdown
 
@@ -74,17 +72,15 @@ Therefore, embracing the Markdown-centric Approach to Academic Writing (MaCAW) e
 
 MaCAW, given its text-based nature, simplifies sharing, merging, easing resolution during joint work. It further empowers these advantages by offering a consistent citation system, which is easily understood and managed across collaborators.
 
-## Version Control 
+## Version Control
 
 Markdown editors like Obsidian often come with built-in version control features or allow for seamless integration with Git-based systems. The effortless meld with Git or other Version Control Systems (VCS) by Markdown editors is a noteworthy advantage. Such integration significantly enhances collaborative efforts, providing a robust platform for tracking changes, reverting to previous versions, and maintaining a coherent version history of the document.
 
-## Software-Agnostic 
+## Software-Agnostic
 
 Markdown files boast a level of software-agnosticism as they can be opened and edited with a myriad of editor software, ranging from Word to Apple Notes, and even within Google Sheets. This versatility, coupled with the integration of a version control system, empowers scholars to work on any device, anywhere—even offline while on a plane traveling. This cross-platform flexibility not only fosters accessibility but also ensures that the scholarly writing process remains uninterrupted regardless of the software or device at hand.
 
-
 ## Literature Review, Advanced Organization & Transition
-
 
 - **Dynamic Literature Overview:** Integration of Pandoc-style cite keys with wiki-style links supports dynamic literature review processes and allows effortless navigation between different pieces of literature, synthesizing knowledge in real-time.
   
@@ -92,7 +88,7 @@ Markdown files boast a level of software-agnosticism as they can be opened and e
   
 - **Seamless Transition:** With simple setup processes and sufficient community support for smooth transitioning ensures continuous enhancements driven by the community thanks to many involved tools being open-source.
 
-# MaCAW at Work 
+# MaCAW at Work
 
 For practical application understanding, I have created a list of to-do items for you to get started with MaCAW:
 
@@ -121,7 +117,6 @@ For practical application understanding, I have created a list of to-do items fo
    2. Install the [ZotLit plugin for Obsidian](https://zotlit.aidenlx.top/)
       1. Set up the [Zotero Obsidian Note plugin for Zotero](https://zotlit.aidenlx.top/getting-started/install/zotero) and [establish the link between Obsidian and Zotero](https://zotlit.aidenlx.top/getting-started/install/obsidian#download-binary)
    3. [Export Markdown Citation to “Live” Citation in Word Documents](https://forum.obsidian.md/t/new-plugin-citations-with-zotero/9793/80?u=linxule)
-
 
 # Wrapping Up
 

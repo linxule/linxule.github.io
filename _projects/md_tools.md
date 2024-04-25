@@ -21,14 +21,14 @@ date: 2020-09-30
 | Rendering (PDFs, docx, slides...)                            | Possible with [Marked 2 App (macOs)](https://marked2app.com/) | Yes                                                          | Yes                                                          | Yes                                                          |
 | Other notable features                                       | Web-publishing in the pipeline, Custom CSS                   | Readability scores, Pomodoro timer                           | Fast syncing via iCloud                                      | Integration with GitHub Desktop                              |
 
-## Add-ons and Extensions
-### Capture Information
-#### [Roam-Highligher - Chrome Extension](https://github.com/GitMurf/roam-highlighter#how-to-use-the-highlighter)
+# Information Capture Tools
+
+## [Roam-Highligher - Chrome Extension](https://github.com/GitMurf/roam-highlighter#how-to-use-the-highlighter)
 
 * great for taking notes on webpages and copy highlights in MD
 * output formatted for Roam or Obsidian
 
-#### [Mdnotes - Zotero Add-on](https://github.com/argenos/zotero-mdnotes)  
+## [Mdnotes - Zotero Add-on](https://github.com/argenos/zotero-mdnotes)  
 
 * Export Zotero item [metadata file](https://github.com/argenos/zotero-mdnotes#Export-items-metadata-to-a-markdown-file) and [notes](https://github.com/argenos/zotero-mdnotes#Export-Zotero-notes-to-markdown) to **markdown**; create a file for own notes](https://github.com/argenos/zotero-mdnotes#Create-a-file-for-your-own-notes); batch export all of the above](https://github.com/argenos/zotero-mdnotes#Batch-exportcreate-all-of-the-above)
 
@@ -61,7 +61,7 @@ date: 2020-09-30
 
 
 
-### [Zotero to Roam Export](https://github.com/melat0nin/zotero-roam-export)
+## [Zotero to Roam Export](https://github.com/melat0nin/zotero-roam-export)
 
 >  Zotero exports single or multiple items, as well as collections to Roam's **JSON** format
 
