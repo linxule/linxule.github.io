@@ -1,11 +1,11 @@
 # main links links
 main:
 
-  - title: "Posts"
-    url: /year-archive/
-
   - title: "CV"
     url: /cv/
+
+  - title: "Posts"
+    url: /year-archive/
 
   - title: "DAOgov"
     url: /daogov/
