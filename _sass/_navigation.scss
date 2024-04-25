@@ -267,7 +267,7 @@
 
       &:hover {
         color: $masthead-link-color-hover;
-        background: mix(#F5F5F5, $primary-color, 75%);
+        background: mix(#232333, $primary-color, 75%);
       }
     }
 
@@ -292,7 +292,7 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: #F5F5F5 transparent;
+      border-color: #232333 transparent;
       display: block;
       z-index: 1;
     }
