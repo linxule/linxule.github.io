@@ -1,8 +1,14 @@
 ---
 title: "Writing in Markdown"
 excerpt: "Cite, Bibliography, Document Layouts"
-collection: projects
 date: 2020-09-30
+permalink: /posts/2020/09/writing-in-md/
+tags:
+  - markdown
+  - writing
+  - Zotero
+  - Marked 2
+  - tools
 ---
 
 

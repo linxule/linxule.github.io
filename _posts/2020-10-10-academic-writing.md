@@ -1,8 +1,11 @@
 ---
 title: "Academic Writing"
 excerpt: "Lessons and Tips for Wrting and Research"
-collection: projects
 date: 2022-10-10
+permalink: /posts/2022/10/academic-writing/
+tags:
+  - academic writing
+  - qualitative research
 ---
 
 # Academic Writing
