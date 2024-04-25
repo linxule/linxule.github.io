@@ -4,14 +4,14 @@ main:
   - title: "Posts"
     url: /year-archive/
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "CV"
     url: /cv/
 
   - title: "DAOgov"
     url: /daogov/
+
+  - title: "Publications"
+    url: /publications/
 
   - title: "中文"
     url: http://fanyi.baidu.com/transpage?query=linxule.com&source=url&ie=utf8&from=en&to=zh&render=1
