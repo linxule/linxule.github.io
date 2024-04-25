@@ -1,19 +1,11 @@
 ---
 title: 'Systematic Review Tools'
-date: 2024-03-26
-excerpt: "Presentation on tools for systematic reviews."
+date: 2024-10
+excerpt: "Presentation on BERTopic & LLMs for Research."
 collection: talks
-permalink: /talks/2023-09/systematic-review-tools
-tags:
-  - research
-  - systematic review
-  - tools
-  - AI
-  - Zotero
-  - Obsidian
-  - Research Rabbit
-  - Elicit
-  - LLMs  
+permalink: /talks/2023-10/methods-reading
+venue: Imperial College Business School
+location: London, UK
 ---
 
 My presentation (continuously updated) for the 2023 chat about tools for systematic reviews with incoming MRes students at Imperial College Business School's PhD program – big thanks to Prof. Erkko Autio FBA for the invite. We dug deep and discussed several key points: 📚
