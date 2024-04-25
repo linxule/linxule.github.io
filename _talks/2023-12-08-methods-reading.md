@@ -1,6 +1,6 @@
 ---
 title: 'Teaching AI to Lend a Hand'
-date: 2024-12-08
+date: 2023-12-08
 excerpt: "Customizing Language Models for Data, Writing & Coding"
 collection: talks
 permalink: /talks/2023-12/methods-reading
