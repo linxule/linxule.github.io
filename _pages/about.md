@@ -10,16 +10,16 @@ redirect_from:
 
 
 
-I am a PhD student in the Department of Management and Entrepreneurship at the Imperial College Business School ([College web page](https://www.imperial.ac.uk/people/xule.lin)). I joined Imperial in 2019. Previously, I spent eight years studying and working in South Bend and Chicago.
+I am a PhD student in the Department of Management and Entrepreneurship at the Imperial College Business School ([College web page](https://www.imperial.ac.uk/people/xule.lin)). I joined Imperial in 2019. Piror to this, I studied at at the University of Notre Dame and the University of Chicago. I also gained valuable professional experience working at Ernst & Young (EY) in Chicago.
 
-## Research Interests
+# Research Interests
 
 My research focuses on the intersection of new forms of organizing and decentralized governance. Empirically, my work focuses on how social and algorithmic mechanisms enable decentralized communities to develop and adapt their governance. Methodologically, my work combines a grounded theory approach with AI-based analysis tools. Overall, my research aims to advance theory on the dynamics enabling organizational design in the digital age.
 
-> [More from the past](https://linxule.com/posts/2020/05/so-what-are-you-studying/)
+  > [More from the past](https://linxule.com/posts/2020/05/so-what-are-you-studying/)
 
 
-## Sharing Knowledge and Resources
+# Sharing Knowledge and Resources
 
 - I have curated various X (formerly Twitter) lists focused on management research, DAOs, and AI research, which provide valuable insights and updates from experts in these fields.
   - [Management Research](https://twitter.com/i/lists/1186983495517773825): People, Organizations, Blogs & Journals in Management, Strategy, Org Behavior, and Related Fields
