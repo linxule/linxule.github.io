@@ -1,16 +1,16 @@
 ---
-title: "(Academic) Writing in Markdown"
+title: "Writing in Markdown"
 excerpt: "Cite, Bibliography, Document Layouts"
 collection: projects
 date: 2020-09-30
 ---
 
 
-# Cite-while-you-write (CWYW) with Zotero
+## Cite-while-you-write (CWYW) with Zotero
 
 Cite-while-you-write (CWYW) is the important step in academic writing. A good setup can make writing with Markdown and formatting with Marked 2 app much more rewarding.
 
-## CWYW Solutions
+### CWYW Solutions
 
 - Write with [Zettlr](https://www.zettlr.com/)
 - Write with other editors (macOS)
@@ -66,7 +66,7 @@ Cite-while-you-write (CWYW) is the important step in academic writing. A good se
 
 - [A How-to Guide is available on the Forum of Obsidian.md](https://forum.obsidian.md/t/new-plugin-citations-with-zotero/9793/80?u=linxule)
 
-# Export to Desired Style (with Marked 2 app)
+### Export with Marked 2 app (macOS)
 
 - To share my writing with others, I use [Marked 2 app](https://marked2app.com/) (macOS) to convert the Markdown files into other formats, such as PDF or DOCX.
 
@@ -89,7 +89,7 @@ TL;DR:
 
 4. Export to PDF, DOCX, or HTML(special attention to references)
 
-## Configure Marked 2 App
+#### Configure Marked 2 App
 
 You need:
 
@@ -119,7 +119,7 @@ To setup Marked 2 for processing the citations in your writing, you then navigat
 -f markdown+smart -t html5 --filter=/usr/local/bin/pandoc-citeproc --bibliography /Users/xulelin/Documents/Zotero/Library.bib --csl /Users/xulelin/Documents/Zotero/Pandoc/CSL/amj.csl
 ```
 
-## Select Document Style
+#### Select Document Style
 
 - Marked 2 converts a Markdown file into HTML document file, which in turn gets formatted according to a chosen CSS template
 
@@ -127,7 +127,7 @@ To setup Marked 2 for processing the citations in your writing, you then navigat
 
 
 
-###  Choose the Right Style
+#####  Choose the Right Style
 
 - Marked 2 has a [Style Gallery](https://marked2app.com/styles/#). I have contributed a template ([Chicago Academic](https://marked2app.com/styles/preview#Chicago%20Academic)) based on the Chicago Manual of Style to this gallery.
 - I created additional (CSS) templates for academic writing.
@@ -136,13 +136,13 @@ To setup Marked 2 for processing the citations in your writing, you then navigat
   - [Academic CV.css](https://linxule.github.io/files/css/academic-cv.css): suitable for both academic and industry CVs
   - [Academic Review.css](https://linxule.github.io/files/css/academic-review.css): based on [Academy of Management's Reviewer Guidelines](http://aom.org/annualmeeting/reviewerguidelines/), particularly the [Sample Review by Macro Editor](https://aom.org/uploadedFiles/Publications/AMJ/ReviewsbyMacroEditors.pdf); also suitable for reading summary/notes
 
-### Style the "References/Bibliography" Section
+#### Style the "References/Bibliography" Section
 
 - Add `# References/Bibliography` at the end of your Markdown file
 
 - In my case, I use hanging indent, which is also used by APA style. Check out the codes of [Chicago Academic.css](https://linxule.github.io/files/css/chicago-academic.css), which is based on [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html). There is a section for formatting output of pandoc-citeproc. Feel free to change the code to meet your styling needs.
 
-## Print and Share
+### Print and Share
 
 - As many academic researchers usually read papers in PDF format and write with Microsoft Word. To share my writing, I then convert my writing into PDF or DOCX format.
 
@@ -153,7 +153,7 @@ To setup Marked 2 for processing the citations in your writing, you then navigat
   - Marked 2 app seems to have issues with exporting files into Word documents. The formats defined by CSL files can be lost.
   - The **page margins will likely be changed** to the default setting for new documents. For example, I set the default margins of 1 inch for all new documents created in Microsoft Word.
 
-## Issues and Limitations with Marked 2
+### Issues and Limitations with Marked 2
 
 Marked 2 app seems to have issues with exporting files into Word documents. The formats defined by CSL files can be lost.
 
@@ -161,7 +161,7 @@ Marked 2 app seems to have issues with exporting files into Word documents. The 
 
 - Solution 2: Use [DocDown](https://raphaelkabo.com/blog/posts/introducing-docdown/) developed by Ralph Kabo. DocDown automates the conversion from Markdown to Word documents.
 
-# DocDown: Alternatives to Marked 2
+## DocDown: Alternatives to Marked 2
 
 - [Download via GitHub](https://github.com/lowercasename/docdown)
 - "takes Markdown files, filters them through a Zotero bibliography file, a CSL file, and a reference .docx file, and exports a Word document with embedded citations and styles."
