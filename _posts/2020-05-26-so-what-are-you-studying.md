@@ -1,6 +1,7 @@
 ---
 title: '"So, what are you studying?"'
 date: 2020-05-26
+excerpt: "My research focus in 2020"
 permalink: /posts/2020/05/so-what-are-you-studying/
 tags:
   - research
