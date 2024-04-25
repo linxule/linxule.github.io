@@ -5,7 +5,6 @@ permalink: /posts/2020/05/so-what-are-you-studying/
 tags:
   - research
 ---
-Last Edited: 2020-09-26
 
 
 ## Decentralization
