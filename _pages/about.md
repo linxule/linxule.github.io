@@ -12,10 +12,6 @@ redirect_from:
 
 I am a PhD student in the Department of Management and Entrepreneurship at the Imperial College Business School ([College web page](https://www.imperial.ac.uk/people/xule.lin)). I joined Imperial in 2019. Previously, I spent eight years studying and working in South Bend and Chicago.
 
-[![Generic badge](https://img.shields.io/badge/有问-必答-<COLOR>.svg)](mailto:x@linxule.com) [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style="max-width:100%")](mailto:x@linxule.com)
-
-
-
 ##  Research Interests 
 
   * My research focuses on the intersection of new forms of organizing and decentralized governance. Empirically, my work focuses on how social and algorithmic mechanisms enable decentralized communities to develop and adapt their governance. Methodologically, my work combines a grounded theory approach with AI-based analysis tools. Overall, my research aims to advance theory on the dynamics enabling organizational design in the digital age.
