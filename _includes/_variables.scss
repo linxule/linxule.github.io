@@ -58,14 +58,14 @@ $h-size-6: 1em !default; // ~16px
 $gray: #7a8288 !default;
 $dark-gray: mix(#000, $gray, 50%) !default;
 $darker-gray: mix(#000, $gray, 60%) !default;
-$light-gray: mix(#fff, $gray, 50%) !default;
-$lighter-gray: mix(#fff, $gray, 90%) !default;
+$light-gray: mix(#F5F5F5, $gray, 50%) !default;
+$lighter-gray: mix(#F5F5F5, $gray, 90%) !default;
 
-$background-color: #fff !default;
+$background-color: #F5F5F5 !default;
 $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
-$muted-text-color: mix(#fff, $text-color, 20%) !default;
+$muted-text-color: mix(#F5F5F5, $text-color, 20%) !default;
 $border-color: $lighter-gray !default;
 $form-background-color: $lighter-gray !default;
 $footer-background-color: $lighter-gray !default;
@@ -76,11 +76,11 @@ $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
 $info-color: #3b9cba !default;
 $focus-color: $primary-color !default;
-$active-color: mix(#fff, $primary-color, 80%) !default;
+$active-color: mix(#F5F5F5, $primary-color, 80%) !default;
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $dark-gray !default;
-$yiq-contrasted-light-default: #fff !default;
+$yiq-contrasted-light-default: #F5F5F5 !default;
 $yiq-contrasted-threshold: 175 !default;
 $yiq-debug: false !default;
 
@@ -113,10 +113,10 @@ $xing-color: #006567 !default;
 /* links */
 $link-color: mix(#000, $info-color, 20%) !default;
 $link-color-hover: mix(#000, $link-color, 25%) !default;
-$link-color-visited: mix(#fff, $link-color, 15%) !default;
+$link-color-visited: mix(#F5F5F5, $link-color, 15%) !default;
 $masthead-link-color: $primary-color !default;
 $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
-$navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
+$navicon-link-color-hover: mix(#F5F5F5, $primary-color, 75%) !default;
 
 /* syntax highlighting (base16) */
 $base00: #263238 !default;
