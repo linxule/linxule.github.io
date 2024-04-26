@@ -90,6 +90,8 @@ Organizational Design, Decentralized Governance, Decentralized Autonomous Organi
 
 # Conference & Workshop Presentations
 
+- "Tokens' dual role in DAOs: Enabling collective governance and shaping outcomes"
+    - Strategic Management Society (SMS) Annual Meeting, Istanbul, 2024
 - "Rethinking Organizational Design: Governance of Decentralized Autonomous Organizations (DAOs)"
 	- CCC Doctoral Conference, Olin School of Business, Washington University in St. Louis, St. Louis, 2024
 - "How Do Algorithmic and Social Governance Drive Governance Adaptations in Decentralized Organizations?"
