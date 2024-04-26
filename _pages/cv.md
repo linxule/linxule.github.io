@@ -10,7 +10,7 @@ redirect_from:
 # Education
 
 - Imperial College Business School, Imperial College London, 2019 – 2025 (Expected)
-	- PhD Student, Management and Entrepreneurship
+	- Doctor of Philosophy, Management and Entrepreneurship
 - University of Chicago, 2018 – 2019
 	- Graduate Student At-Large
 - University of Notre Dame, 2011 – 2016
