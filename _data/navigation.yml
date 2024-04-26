@@ -16,8 +16,3 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "中文"
-    url: http://fanyi.baidu.com/transpage?query=linxule.com&source=url&ie=utf8&from=en&to=zh&render=1
-
-  - title: "Languages"
-    url: https://translate.google.com/translate?sl=en&tl=zh-CN&u=linxule.com
