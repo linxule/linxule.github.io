@@ -36,6 +36,7 @@ Organizational Design, Decentralized Governance, Decentralized Autonomous Organi
 	- Nominee, 2023 SMS Annual Conference Ph.D. Paper Prize
 - Lin, X., Hsieh, Y-Y., & Autio, E. (2024). Tokens' dual role in DAOs: Enabling collective governance and shaping outcomes
 	- [Manuscript in preparation]
+	- Nominee, 2024 SMS Annual Conference Ph.D. Paper Prize
 - Puranam, P., Hsieh, Y-Y., Shrestha Y., Lin, X. (2024). Consensus formation around proposals in DAOs: The role of deliberation and proposal characteristics [Working Title]
 	- [Data analysis and additional data collection stage]
 
