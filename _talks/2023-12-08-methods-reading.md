@@ -1,7 +1,7 @@
 ---
 title: 'Teaching AI to Lend a Hand'
 date: 2023-12-08
-excerpt: "Customizing Language Models for Data Analysis, Writing & Coding"
+excerpt: "Customizing Large Language Models (LLMs) for Data Analysis, Writing & Coding"
 collection: talks
 permalink: /talks/2023-12/methods-reading
 type: Tutorial
@@ -9,7 +9,7 @@ venue: Imperial College Business School
 location: London, UK
 ---
 
-My presentation "Teaching AI to Lend a Hand: Customizing Language Models for Data, Writing & Coding" for Methods Reading Group at Imperial College Business School.
+My presentation "Teaching AI to Lend a Hand: Customizing Large Language Models (LLMs) for Data, Writing & Coding" for Methods Reading Group at Imperial College Business School.
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
