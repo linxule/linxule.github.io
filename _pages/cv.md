@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 
+## Xule Lin 林徐乐
+
+### Imperial College London South Kensington Campus, London SW7 2AZ, UK
+
+### [xule.lin@imperial.ac.uk](mailto:xule.lin@imperial.ac.uk) | [linxule.com](https://linxule.com/)
+
 # Education
 
 - Imperial College Business School, Imperial College London, 2019 – 2025 (Expected)
@@ -20,8 +26,7 @@ redirect_from:
 
 # Research Interests
 
-Organizational Design, Decentralized Governance, Decentralized Autonomous Organizations (DAOs)
-<br/>
+Organizational Design, Decentralized Governance, Decentralized Autonomous Organizations (DAOs)<br/>
 Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (LLMs)
 
 # Manuscripts Under Review
@@ -35,9 +40,9 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 - Lin, X., Hsieh, Y.-Y., & Autio, E. (2024). _How do algorithmic and social governance drive governance adaptations in decentralized organizations?_ [Manuscript in preparation]
 	- Nominee, 2023 SMS Annual Conference Research Methods Paper Prize
 	- Nominee, 2023 SMS Annual Conference Ph.D. Paper Prize
-- Lin, X., Hsieh, Y.-Y., & Autio, E. (2024). _Tokens' dual role in DAOs: Enabling collective governance and shaping outcomes_. [Manuscript in preparation]
+- <br/>Lin, X., Hsieh, Y.-Y., & Autio, E. (2024). _Tokens' dual role in DAOs: Enabling collective governance and shaping outcomes_. [Manuscript in preparation]
 	- Nominee, 2024 SMS Annual Conference Ph.D. Paper Prize
-- A project on consensus formation in DAOs (with Puranam, P., Hsieh, Y.-Y., Shrestha Y.). [Data analysis and additional data collection stage]
+- <br/>A project on consensus formation in DAOs (with Puranam, P., Hsieh, Y.-Y., Shrestha Y.). [Data analysis and additional data collection stage]
 
 # Awards and Grants
 
@@ -56,25 +61,25 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 - _"Humans and Algorithms in Organizations: Navigating the Intersection of Blockchain and AI"_
 	- Panel Symposium, 2024 Academy of Management Annual Meeting (Chicago, Illinois)
 	- Co-chairs: Magnus van Haaren (RSM) & Carlos Santana (NTNU)
-	- Panelists: Oliver Baumann (SDU), Robert Wayne Gregory (U-M), Hanna Halaburda (NYU Stern), Vivianna Fang He (St. Gallen), and Alex Murray (Oregon)
-- _"Web3 Decentralization: Blockchain Technologies' Impact on Modern Organizational Governance"_
+	- Panelists: Oliver Baumann (SDU), Robert Wayne Gregory (U-M), Hanna Halaburda (NYU Stern), <br/>Vivianna Fang He (St. Gallen), and Alex Murray (Oregon)
+- <br/>_"Web3 Decentralization: Blockchain Technologies' Impact on Modern Organizational Governance"_
 	- Panel Symposium, 2023 Academy of Management Annual Meeting (Boston, Massachusetts)
 	- Co-chairs: Magnus van Haaren (RSM) & Wenqian Wang (HKBU)
-	- Panelists: Ethan Bernstein (HBS), Hanna Halaburda (NYU), Ying-Ying Hsieh (Imperial), Alex Murray (Oregon), Joana Pereira (LUBS), and Jean-Philippe Vergne (UCL)
+	- Panelists: Ethan Bernstein (HBS), Hanna Halaburda (NYU), Ying-Ying Hsieh (Imperial), <br/>Alex Murray (Oregon), Joana Pereira (LUBS), and Jean-Philippe Vergne (UCL)
 
 # Presentations
 
 - _"Tokens' dual role in DAOs: Enabling collective governance and shaping outcomes"_.
 	- Strategic Management Society (SMS) Annual Meeting, Istanbul, 2024
-- _"Rethinking Organizational Design: Governance of Decentralized Autonomous Organizations (DAOs)"_
+- <br/>_"Rethinking Organizational Design: Governance of Decentralized Autonomous Organizations (DAOs)"_
 	- CCC Doctoral Conference, Olin School of Business, Washington University in St. Louis, St. Louis, 2024
-- _"How do algorithmic and social governance drive governance adaptations in decentralized organizations?"_
+- <br/>_"How do algorithmic and social governance drive governance adaptations in decentralized organizations?"_
     - SEI Research Day, Imperial College Business School, London, 2023
     - Strategic Management Society (SMS) Annual Meeting, Toronto, 2023
     - University of Edinburgh Business School (UEBS) Paper Development Workshop, Edinburgh, 2023
-- _"MakerDAO demystified: Exploring the decentralized nature of a stablecoin ecosystem"_
+- <br/>_"MakerDAO demystified: Exploring the decentralized nature of a stablecoin ecosystem"_
     - UK FinTech Academic Network (UKFAN) Annual Conference, London, 2023
-- _"Commons and Tokens—Governance Modes in Decentralized Autonomous Organizations (DAOs)"_
+- <br/>_"Commons and Tokens—Governance Modes in Decentralized Autonomous Organizations (DAOs)"_
     - Academy of Management Annual Meeting, Online, 2021
 
 # Reviewing
@@ -93,23 +98,23 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 	- Decentralization in Organization (DiO) Conference, 2023 – Present
 		- Built website and designed logo for [_https://dio-community.org/_](https://dio-community.org/)
 	- Consortium for the Advancement of Research Methods and Analysis (CARMA), 2021 – Present
-- Volunteer
+- <br/>Volunteer
 	- SMS 42nd Annual Conference London, 2022
 	- Doctoral Student Staff Committee, Imperial College Business School, 2019 – 2020
-- Contributor
+- <br/>Contributor
 	- Administrative Science Quarterly Student Blog, 2020
 		- Lin, X., & Scholz, N. (2021, June 26). Ter Wal, Criscuolo, McEvily and Salter (2020). Dual Networking: How Collaborators Network in Their Quest for Innovation. _The ASQ Blog_.
 
 # Professional Affiliations
 
-- Academy of Management (AOM)
-- Strategic Management Society (SMS)
-- Consortium for the Advancement of Research Methods and Analysis (CARMA)
-- Organizational Design Community (ODC)
-- London Qualitative Community (LQC)
-- Decentralization in Organizations (DiO)
-- Ledgerback Digital Commons Research Cooperative
-- Metagov (a laboratory for digital governance)
+Academy of Management (AOM)<br/>
+Strategic Management Society (SMS)<br/>
+Consortium for the Advancement of Research Methods and Analysis (CARMA)<br/>
+Organizational Design Community (ODC)<br/>
+London Qualitative Community (LQC)<br/>
+Decentralization in Organizations (DiO)<br/>
+Ledgerback Digital Commons Research Cooperative<br/>
+Metagov (a laboratory for digital governance)<br/>
 
 # Teaching
 
@@ -123,7 +128,7 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 	- Strategic Management, Imperial College Business School, 2022-2023
 	- International Taxation, University of Notre Dame, 2016
 	- Partnerships and Passive Activities, University of Notre Dame, 2015
-- Guest Lectures
+- <br/>Guest Lectures
 	- Methods Reading Group, Imperial College Business School, 2023
 		- _"Teaching AI to Lend a Hand: Customizing Large Language Models (LLMs) for Data, Writing & Coding"_
 		- Slides available at: [https://tinyurl.com/22t6pua2](https://tinyurl.com/22t6pua2)
@@ -137,9 +142,9 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 - Qualitative Research
 	- Grounded Theory, Interviews
 	- [BERTopic](https://maartengr.github.io/BERTopic/index.html), ATLAS.ti
-- Programming Languages & Software Tools
+- <br/>Programming Languages & Software Tools
 	- Python, R, STATA
-- LLM-Based Tools Development
+- <br/>LLM-Based Tools Development
     - Interactive Literature Discussions
 	    - Developed a Discord bot leveraging OpenAI's GPT models and the Discord API to facilitate engaging literature-focused conversations [(linxule/openai-assistants-discord-bot at GitHub)](https://github.com/linxule/openai-assistants-discord-bot)
 	    - Built a web application using [Retrieval-Augmented Generation (RAG)](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/) with [Langchain](https://www.langchain.com/) and [Streamlit](https://streamlit.io/) to enable interactive exploration of literary works
@@ -162,8 +167,8 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 	- Co-founder, [Global Entrepreneurship and Development Institute](http://www.thegedi.org/)
 	- Co-author, [Global Entrepreneurship Index](http://www.thegedi.org/research/gedi-index) and [EU Regional Entrepreneurship Index](http://bookshop.europa.eu/en/redi-the-regional-entrepreneurship-and-development-index-pbKN0214462/?CatalogCategoryID=cKYKABsttvUAAAEjrpAY4e5L)
 	- Email: [erkko.autio@imperial.ac.uk](mailto:erkko.autio@imperial.ac.uk)
-- **[Ying-Ying Hsieh](https://www.imperial.ac.uk/people/y.hsieh)**, Assistant Professor of Innovation and Entrepreneurship, Imperial College Business School
+- <br/>**[Ying-Ying Hsieh](https://www.imperial.ac.uk/people/y.hsieh)**, Assistant Professor of Innovation and Entrepreneurship, Imperial College Business School
 	- Associate Director, [Center for Cryptocurrency Research and Engineering](https://www.imperial.ac.uk/cryptocurrency)
 	- Email: [y.hsieh@imperial.ac.uk](mailto:y.hsieh@imperial.ac.uk)
-- [**Kevin Corley**](https://www.imperial.ac.uk/people/k.corley), Professor of Management, Head of Department of Management & Entrepreneurship, Imperial College Business School
+- <br/>[**Kevin Corley**](https://www.imperial.ac.uk/people/k.corley), Professor of Management, Head of Department of Management & Entrepreneurship, Imperial College Business School
 	- Email: [k.corley@imperial.ac.uk](mailto:k.corley@imperial.ac.uk)
