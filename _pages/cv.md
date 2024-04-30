@@ -70,7 +70,7 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 
 # Presentations
 
-- _"Tokens' dual role in DAOs: Enabling collective governance and shaping outcomes"_.
+- _"Tokens' dual role in DAOs: Enabling collective governance and shaping outcomes"_
 	- Strategic Management Society (SMS) Annual Meeting, Istanbul, 2024
 - <br/>_"Rethinking Organizational Design: Governance of Decentralized Autonomous Organizations (DAOs)"_
 	- CCC Doctoral Conference, Olin School of Business, Washington University in St. Louis, St. Louis, 2024
@@ -130,11 +130,11 @@ Metagov (a laboratory for digital governance)<br/>
 	- International Taxation, University of Notre Dame, 2016
 	- Partnerships and Passive Activities, University of Notre Dame, 2015
 - <br/>Guest Lectures
-	- Methods Reading Group, Imperial College Business School, 2023
-		- _"Teaching AI to Lend a Hand: Customizing Large Language Models (LLMs) for Data, Writing & Coding"_
+	- _"Teaching AI to Lend a Hand: Customizing Large Language Models (LLMs) for Data, Writing & Coding"_
+		- Methods Reading Group, Imperial College Business School, 2023
 		- Slides available at: [https://tinyurl.com/22t6pua2](https://tinyurl.com/22t6pua2)
-	- Systematic Reviews, Imperial College Business School, 2023
-		- Guest lecture for MRes students at the PhD program
+	- _"Tools For Systematic Reviews: Challenges and Solutions"_
+		- Systematic Reviews (for MRes students at the PhD program), Imperial College Business School, 2023
 		- Discussed challenges, opportunities, and best practices for leveraging AI tools (Research Rabbit, Elicit) and Large Language Models (OpenAI, Llama models) in research
 		- Slides available at: [https://tinyurl.com/29svdbby](https://tinyurl.com/29svdbby)
 
