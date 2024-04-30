@@ -117,7 +117,6 @@ Decentralization in Organizations (DiO)<br/>
 Ledgerback Digital Commons Research Cooperative<br/>
 Metagov (a laboratory for digital governance)<br/>
 
-
 # Teaching Experience
 
 - Innovation and Strategy in FinTech, Imperial College Business School, 2022-2024
