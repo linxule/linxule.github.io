@@ -117,26 +117,28 @@ Decentralization in Organizations (DiO)<br/>
 Ledgerback Digital Commons Research Cooperative<br/>
 Metagov (a laboratory for digital governance)<br/>
 
-# Teaching
 
-- Teaching Experience
-	- Innovation and Strategy in FinTech, Imperial College Business School, 2022-2024
-		- Developed a teaching case on MakerDAO
-		- Designed to help students understand the unique aspects of collectively managing and growing a DAO
-		- Case materials available at: [https://makerdao.daogov.info/](https://makerdao.daogov.info/)
-	- Innovation Management, Imperial College Business School, 2023-2024
-	- Innovation and Technology Management, Imperial College Business School, 2023-2024
-	- Strategic Management, Imperial College Business School, 2022-2023
-	- International Taxation, University of Notre Dame, 2016
-	- Partnerships and Passive Activities, University of Notre Dame, 2015
-- <br/>Guest Lectures
-	- _"Teaching AI to Lend a Hand: Customizing Large Language Models (LLMs) for Data, Writing & Coding"_
-		- Methods Reading Group, Imperial College Business School, 2023
-		- Slides available at: [https://tinyurl.com/22t6pua2](https://tinyurl.com/22t6pua2)
-	- _"Tools For Systematic Reviews: Challenges and Solutions"_
-		- Systematic Reviews (for MRes students at the PhD program), Imperial College Business School, 2023
-		- Discussed challenges, opportunities, and best practices for leveraging AI tools (Research Rabbit, Elicit) and Large Language Models (OpenAI, Llama models) in research
-		- Slides available at: [https://tinyurl.com/29svdbby](https://tinyurl.com/29svdbby)
+# Teaching Experience
+
+- Innovation and Strategy in FinTech, Imperial College Business School, 2022-2024
+	- Developed a teaching case on MakerDAO
+	- Designed to help students understand the unique aspects of collectively managing and growing a DAO
+	- Case materials available at: [https://makerdao.daogov.info/](https://makerdao.daogov.info/)
+- Innovation Management, Imperial College Business School, 2023-2024
+- Innovation and Technology Management, Imperial College Business School, 2023-2024
+- Strategic Management, Imperial College Business School, 2022-2023
+- International Taxation, University of Notre Dame, 2016
+- Partnerships and Passive Activities, University of Notre Dame, 2015
+
+# Guest Lectures
+
+- _"Teaching AI to Lend a Hand: Customizing Large Language Models (LLMs) for Data, Writing & Coding"_
+	- Methods Reading Group, Imperial College Business School, 2023
+	- Slides available at: [https://tinyurl.com/22t6pua2](https://tinyurl.com/22t6pua2)
+- <br/>_"Tools For Systematic Reviews: Challenges and Solutions"_
+	- Systematic Reviews (for MRes students at the PhD program), Imperial College Business School, 2023
+	- Discussed challenges, opportunities, and best practices for leveraging AI tools (Research Rabbit, Elicit) and Large Language Models (OpenAI, Llama models) in research
+	- Slides available at: [https://tinyurl.com/29svdbby](https://tinyurl.com/29svdbby)
 
 # Skills
 
