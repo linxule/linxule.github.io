@@ -106,28 +106,24 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 	- Administrative Science Quarterly Student Blog, 2020
 		- Lin, X., & Scholz, N. (2021, June 26). Ter Wal, Criscuolo, McEvily and Salter (2020). Dual Networking: How Collaborators Network in Their Quest for Innovation. _The ASQ Blog_.
 
-# Professional Affiliations
-
-Academy of Management (AOM)<br/>
-Strategic Management Society (SMS)<br/>
-Consortium for the Advancement of Research Methods and Analysis (CARMA)<br/>
-Organizational Design Community (ODC)<br/>
-London Qualitative Community (LQC)<br/>
-Decentralization in Organizations (DiO)<br/>
-Ledgerback Digital Commons Research Cooperative<br/>
-Metagov (a laboratory for digital governance)<br/>
 
 # Teaching Experience
 
 - Innovation and Strategy in FinTech, Imperial College Business School, 2022-2024
+	- Teaching Assistant
 	- Developed a teaching case on MakerDAO
 	- Designed to help students understand the unique aspects of collectively managing and growing a DAO
 	- Case materials available at: [https://makerdao.daogov.info/](https://makerdao.daogov.info/)
 - Innovation Management, Imperial College Business School, 2023-2024
+	- Teaching Assistant
 - Innovation and Technology Management, Imperial College Business School, 2023-2024
+	- Teaching Assistant
 - Strategic Management, Imperial College Business School, 2022-2023
+	- Teaching Assistant
 - International Taxation, University of Notre Dame, 2016
+	- Teaching Assistant
 - Partnerships and Passive Activities, University of Notre Dame, 2015
+	- Teaching Assistant
 
 # Guest Lectures
 
@@ -139,6 +135,14 @@ Metagov (a laboratory for digital governance)<br/>
 	- Discussed challenges, opportunities, and best practices for leveraging AI tools (Research Rabbit, Elicit) and Large Language Models (OpenAI, Llama models) in research
 	- Slides available at: [https://tinyurl.com/29svdbby](https://tinyurl.com/29svdbby)
 
+# LLM-Based Tools Development
+
+- Interactive Literature Discussions
+	- Developed a Discord bot leveraging OpenAI's GPT models and the Discord API to facilitate engaging literature-focused conversations [(linxule/openai-assistants-discord-bot at GitHub)](https://github.com/linxule/openai-assistants-discord-bot)
+	- Built a web application using [Retrieval-Augmented Generation (RAG)](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/) with [Langchain](https://www.langchain.com/) and [Streamlit](https://streamlit.io/) to enable interactive exploration of literary works
+- <br/>LLM-Powered Chatbots for Academic Research Assistance
+	- Created [BERTopic Navigator](https://chat.openai.com/g/g-FvlPlwLn1-bertopic-navigator), an integration of OpenAI's ChatGPT with BERTopic, to enhance topic modeling and exploration capabilities
+
 # Skills
 
 - Qualitative Research
@@ -146,12 +150,6 @@ Metagov (a laboratory for digital governance)<br/>
 	- [BERTopic](https://maartengr.github.io/BERTopic/index.html), ATLAS.ti
 - <br/>Programming Languages & Software Tools
 	- Python, R, STATA
-- <br/>LLM-Based Tools Development
-    - Interactive Literature Discussions
-	    - Developed a Discord bot leveraging OpenAI's GPT models and the Discord API to facilitate engaging literature-focused conversations [(linxule/openai-assistants-discord-bot at GitHub)](https://github.com/linxule/openai-assistants-discord-bot)
-	    - Built a web application using [Retrieval-Augmented Generation (RAG)](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/) with [Langchain](https://www.langchain.com/) and [Streamlit](https://streamlit.io/) to enable interactive exploration of literary works
-    - LLM-Powered Chatbots for Academic Research Assistance
-	    - Created [BERTopic Navigator](https://chat.openai.com/g/g-FvlPlwLn1-bertopic-navigator), an integration of OpenAI's ChatGPT with BERTopic, to enhance topic modeling and exploration capabilities
 
 # Academic & Professional Experience
 
@@ -161,6 +159,17 @@ Metagov (a laboratory for digital governance)<br/>
 	- Staff, 2016 – 2018
 - Café Tatum Break, Xiamen, China
 	- Co-founder, Manager, 2013 – 2014
+
+# Professional Affiliations
+
+Academy of Management (AOM)<br/>
+Strategic Management Society (SMS)<br/>
+Consortium for the Advancement of Research Methods and Analysis (CARMA)<br/>
+Organizational Design Community (ODC)<br/>
+London Qualitative Community (LQC)<br/>
+Decentralization in Organizations (DiO)<br/>
+Ledgerback Digital Commons Research Cooperative<br/>
+Metagov (a laboratory for digital governance)<br/>
 
 # References
 
