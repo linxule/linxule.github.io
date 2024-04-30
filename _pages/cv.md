@@ -111,8 +111,7 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 
 - Innovation and Strategy in FinTech, Imperial College Business School, 2022-2024
 	- Teaching Assistant
-	- Developed a teaching case on MakerDAO
-	- Designed to help students understand the unique aspects of collectively managing and growing a DAO
+	- Developed a teaching case to help students understand the unique aspects of collectively managing and growing a DAO
 	- Case materials available at: [https://makerdao.daogov.info/](https://makerdao.daogov.info/)
 - Innovation Management, Imperial College Business School, 2023-2024
 	- Teaching Assistant
