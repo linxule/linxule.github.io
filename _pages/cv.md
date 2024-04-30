@@ -21,6 +21,7 @@ redirect_from:
 # Research Interests
 
 Organizational Design, Decentralized Governance, Decentralized Autonomous Organizations (DAOs)
+<br/>
 Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (LLMs)
 
 # Manuscripts Under Review
@@ -101,14 +102,14 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 
 # Professional Affiliations
 
-Academy of Management (AOM)
-Strategic Management Society (SMS)
-Consortium for the Advancement of Research Methods and Analysis (CARMA)
-Organizational Design Community (ODC)
-London Qualitative Community (LQC)
-Decentralization in Organizations (DiO)
-Ledgerback Digital Commons Research Cooperative
-Metagov (a laboratory for digital governance)
+- Academy of Management (AOM)
+- Strategic Management Society (SMS)
+- Consortium for the Advancement of Research Methods and Analysis (CARMA)
+- Organizational Design Community (ODC)
+- London Qualitative Community (LQC)
+- Decentralization in Organizations (DiO)
+- Ledgerback Digital Commons Research Cooperative
+- Metagov (a laboratory for digital governance)
 
 # Teaching
 
