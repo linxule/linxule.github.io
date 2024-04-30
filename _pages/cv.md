@@ -149,7 +149,7 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 	- Grounded Theory, Interviews
 	- [BERTopic](https://maartengr.github.io/BERTopic/index.html), ATLAS.ti
 - <br/>Programming Languages & Software Tools
-	- Python, R, STATA
+	- Python, R, STATA, Node.js
 
 # Academic & Professional Experience
 
