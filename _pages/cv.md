@@ -9,6 +9,13 @@ redirect_from:
 ---
 
 
+<!--
+Title: Xule Lin
+Print Footer Left: %title
+Print Footer Right: %page
+
+-->
+
 ## Xule Lin 林徐乐
 
 ### Imperial College London South Kensington Campus, London SW7 2AZ, UK
@@ -137,12 +144,15 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 # LLM-Based Tools Development
 
 - Interactive Literature Discussions
-	- Developed a Discord bot leveraging OpenAI's GPT models and the Discord API to facilitate engaging literature-focused conversations [(linxule/openai-assistants-discord-bot at GitHub)](https://github.com/linxule/openai-assistants-discord-bot)
-	- Built a web application using [Retrieval-Augmented Generation (RAG)](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/) with [Langchain](https://www.langchain.com/) and [Streamlit](https://streamlit.io/) to enable interactive exploration of literary works
-- <br/>LLM-Powered Chatbots for Academic Research Assistance
-	- [BERTopic Navigator](https://chat.openai.com/g/g-FvlPlwLn1-bertopic-navigator): an integration of OpenAI's ChatGPT with BERTopic, to enhance topic modeling and exploration capabilities
-	- [Red Pen Scholar](https://chat.openai.com/g/g-wDUM3ows9-red-pen-scholar): An AI-powered writing assistant that provides feedback and suggestions based on the principles of the University of Chicago's Little Red Schoolhouse writing program.
-	- [Academic Notes Assistant](https://chat.openai.com/g/g-pIFoLpzVx-academic-notes-assistant): A tool that helps with summarizing, extracting key points, and generating questions from academic papers into structured notes to aid in research and paper writing.
+	- Developed a Discord bot leveraging OpenAI's GPT models and the Discord API to facilitate engaging literature-focused conversations (Access the code [linxule/openai-assistants-discord-bot](https://github.com/linxule/openai-assistants-discord-bot) on GitHub to deploy the bot on your own Discord server)
+	- Built web applications using [Retrieval-Augmented Generation (RAG)](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/) with [Langchain](https://www.langchain.com/) and [Streamlit](https://streamlit.io/) to enable interactive exploration of literary works
+- <br/>LLM-Powered Bots for Academic Research Assistance
+	- **BERTopic Navigator**: an integration of OpenAI's ChatGPT with BERTopic, to enhance topic modeling and exploration capabilities 
+		- Access BERTopic Navigator: [https://chat.openai.com/g/g-FvlPlwLn1-bertopic-navigator](https://chat.openai.com/g/g-FvlPlwLn1-bertopic-navigator)
+	- **Red Pen Scholar**: An AI-powered writing assistant that provides feedback and suggestions based on the principles of the University of Chicago's Little Red Schoolhouse writing program 
+		- Access Red Pen Scholar: [https://chat.openai.com/g/g-wDUM3ows9-red-pen-scholar](https://chat.openai.com/g/g-wDUM3ows9-red-pen-scholar)
+	- **Academic Notes Assistant**: A tool that helps with summarizing, extracting key points, and generating questions from academic papers into structured notes to aid in research and paper writing 
+		- Access Academic Notes Assistant: [https://chat.openai.com/g/g-pIFoLpzVx-academic-notes-assistant](https://chat.openai.com/g/g-pIFoLpzVx-academic-notes-assistant)
 
 # Skills
 
