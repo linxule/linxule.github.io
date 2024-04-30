@@ -140,7 +140,9 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 	- Developed a Discord bot leveraging OpenAI's GPT models and the Discord API to facilitate engaging literature-focused conversations [(linxule/openai-assistants-discord-bot at GitHub)](https://github.com/linxule/openai-assistants-discord-bot)
 	- Built a web application using [Retrieval-Augmented Generation (RAG)](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/) with [Langchain](https://www.langchain.com/) and [Streamlit](https://streamlit.io/) to enable interactive exploration of literary works
 - <br/>LLM-Powered Chatbots for Academic Research Assistance
-	- Created [BERTopic Navigator](https://chat.openai.com/g/g-FvlPlwLn1-bertopic-navigator), an integration of OpenAI's ChatGPT with BERTopic, to enhance topic modeling and exploration capabilities
+	- [BERTopic Navigator](https://chat.openai.com/g/g-FvlPlwLn1-bertopic-navigator): an integration of OpenAI's ChatGPT with BERTopic, to enhance topic modeling and exploration capabilities
+	- [Red Pen Scholar](https://chat.openai.com/g/g-wDUM3ows9-red-pen-scholar): An AI-powered writing assistant that provides feedback and suggestions based on the principles of the University of Chicago's Little Red Schoolhouse writing program.
+	- [Academic Notes Assistant](https://chat.openai.com/g/g-pIFoLpzVx-academic-notes-assistant): A tool that helps with summarizing, extracting key points, and generating questions from academic papers into structured notes to aid in research and paper writing.
 
 # Skills
 
