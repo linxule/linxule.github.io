@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: cv
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -141,7 +141,7 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 	- Python, R, STATA
 - LLM-Based Tools Development
     - Interactive Literature Discussions
-	    - Developed a Discord bot leveraging OpenAI's GPT models and the Discord API to facilitate engaging literature-focused conversations [(openai-assistants-discord-bot at GitHub)](https://github.com/linxule/openai-assistants-discord-bot)
+	    - Developed a Discord bot leveraging OpenAI's GPT models and the Discord API to facilitate engaging literature-focused conversations [(linxule/openai-assistants-discord-bot at GitHub)](https://github.com/linxule/openai-assistants-discord-bot)
 	    - Built a web application using [Retrieval-Augmented Generation (RAG)](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/) with [Langchain](https://www.langchain.com/) and [Streamlit](https://streamlit.io/) to enable interactive exploration of literary works
     - LLM-Powered Chatbots for Academic Research Assistance
 	    - Created [BERTopic Navigator](https://chat.openai.com/g/g-FvlPlwLn1-bertopic-navigator), an integration of OpenAI's ChatGPT with BERTopic, to enhance topic modeling and exploration capabilities
