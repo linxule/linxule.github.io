@@ -336,14 +336,14 @@ table tr:nth-child(even), table td:nth-child(even) {
 }
 
 @media screen {
-	.inverted {
-		background: #252a2a;
-	}
+    .inverted {
+        background: #252a2a;
+    }
 
-	.inverted #wrapper {
-		background: #252a2a;
-		color: #eeeeee;
-	}
+    .inverted #wrapper {
+        background: #252a2a;
+        color: #ffffff; /* Changed this from #eeeeee to #ffffff */
+    }
 
 	.inverted hr {
 		border-color: #333f40 !important;
