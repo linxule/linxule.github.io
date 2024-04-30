@@ -12,7 +12,6 @@ Notes: 12pt/16px, Times New Roman, Double-spaced, text-align left, headers adjus
 
 body {
 	-webkit-font-smoothing: antialiased;
-	font: normal 1em/2em "Times New Roman", courier, monospace;
 	width: auto; }
 
 html > body {
