@@ -3,7 +3,9 @@ layout: default
 ---
 
 <head>
-  <link rel="stylesheet" href="{{ 'assets/css/Academic CV.css' | relative_url }}">
+  {% if page.css %}
+    <link rel="stylesheet" href="{{ 'assets/css/' | append: page.css | relative_url }}">
+  {% endif %}
 </head>
 
 <div id="wrapper">
