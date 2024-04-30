@@ -16,6 +16,14 @@ Print Footer Right: %page
 
 -->
 
+
+<!--
+Title: Xule Lin
+Print Footer Left: %title
+Print Footer Right: %page
+
+-->
+
 ## Xule Lin 林徐乐
 
 ### Imperial College London South Kensington Campus, London SW7 2AZ, UK
@@ -54,11 +62,11 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 
 # Awards and Grants
 
-- OpenAI's Researcher Access Program
+- [OpenAI's Researcher Access Program](https://openai.com/form/researcher-access-program)
 	- API Credits, 2024
-- Google Cloud Research Credits program
+- [Google Cloud Research Credits program](https://cloud.google.com/edu/researchers)
 	- Award GCP19980904, 2023
-- Gitcoin Grants
+- [Gitcoin Grants](https://grants.gitcoin.co/)
 	- Round 19, Governance Research Round by Metagov, 2023
 - [Radical Exchange Foundation](https://www.radicalxchange.org/)
 	- Scholarship, UnConference, "Exploring Digital Identity for Decentralized Societies", 2022
@@ -102,16 +110,16 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 
 - Student Representative
 	- London Qualitative Community (LQC), 2023 – Present
-		- Built website and designed logo for [*https://londonqualcommunity.com/*](https://londonqualcommunity.com/)
+		- Built website and designed logo for [https://londonqualcommunity.com/](https://londonqualcommunity.com/)
 	- Decentralization in Organization (DiO) Conference, 2023 – Present
-		- Built website and designed logo for [_https://dio-community.org/_](https://dio-community.org/)
+		- Built website and designed logo for [https://dio-community.org/](https://dio-community.org/)
 	- Consortium for the Advancement of Research Methods and Analysis (CARMA), 2021 – Present
 - <br/>Volunteer
 	- SMS 42nd Annual Conference London, 2022
 	- Doctoral Student Staff Committee, Imperial College Business School, 2019 – 2020
 - <br/>Contributor
 	- Administrative Science Quarterly Student Blog, 2020
-		- Lin, X., & Scholz, N. (2021, June 26). Ter Wal, Criscuolo, McEvily and Salter (2020). Dual Networking: How Collaborators Network in Their Quest for Innovation. _The ASQ Blog_.
+		- Lin, X., & Scholz, N. (2021). Ter Wal, Criscuolo, McEvily and Salter (2020). Dual Networking: How Collaborators Network in Their Quest for Innovation. _The ASQ Blog_. [https://asqblog.com/2021/06/26/ter-wal-criscuolo-mcevily-and-salter-2020-dual-networking-how-collaborators-network-in-their-quest-for-innovation/](https://asqblog.com/2021/06/26/ter-wal-criscuolo-mcevily-and-salter-2020-dual-networking-how-collaborators-network-in-their-quest-for-innovation/)
 
 
 # Teaching Experience
