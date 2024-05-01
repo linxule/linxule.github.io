@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 
+
 ## Xule Lin 林徐乐
 
 ### Imperial College London South Kensington Campus, London SW7 2AZ, UK
@@ -32,18 +33,18 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 
 # Manuscripts Under Review
 
-- Lin, X., & Corley, K. G. (2024). _Preserving researcher agency when adding AI tools to a grounded theory study: Introducing scalable inductive grounded NLP approach (SIGNA)_. [Under review at Organization Studies]
+- Lin, X., & Corley, K. G. (2024). Preserving Researcher Agency When Adding AI Tools to a Grounded Theory Study: Introducing Scalable Inductive Grounded NLP Approach (SIGNA). [Under review at Organization Studies]
 	- Grant Recipient, OpenAI's Researcher Access Program, 2024
 	- Grant Recipient, Google Cloud Research Credits Program, 2023
 
 # Work in Progress
 
-- Lin, X., Hsieh, Y.-Y., & Autio, E. (2024). _How do algorithmic and social governance drive governance adaptations in decentralized organizations?_ [Manuscript in preparation]
+- Lin, X., Hsieh, Y.-Y., & Autio, E. (2024). _How Do Algorithmic and Social Governance Drive Governance Adaptations in Decentralized Organizations?_ [Manuscript in preparation]
 	- Nominee, 2023 SMS Annual Conference Research Methods Paper Prize
 	- Nominee, 2023 SMS Annual Conference Ph.D. Paper Prize
-- <br/>Lin, X., Hsieh, Y.-Y., & Autio, E. (2024). _Tokens' dual role in DAOs: Enabling collective governance and shaping outcomes_. [Manuscript in preparation]
+- <br/>Lin, X., Hsieh, Y.-Y., & Autio, E. (2024). _Tokens' Dual Role in DAOs: Enabling Collective Governance and Shaping Outcomes_. [Manuscript in preparation]
 	- Nominee, 2024 SMS Annual Conference Ph.D. Paper Prize
-- <br/>Consensus formation in DAOs (Project with Puranam, P., Hsieh, Y.-Y., Shrestha Y.). [Data analysis and additional data collection stage]
+- <br/>Consensus Formation in DAOs (Project with Puranam, P., Hsieh, Y.-Y., Shrestha Y.). [Data analysis and additional data collection stage]
 
 # Awards and Grants
 
@@ -70,15 +71,15 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 
 # Presentations
 
-- _"Tokens' dual role in DAOs: Enabling collective governance and shaping outcomes"_
+- _"Tokens' Dual Role in DAOs: Enabling Collective Governance and Shaping Outcomes"_
 	- Strategic Management Society (SMS) Annual Meeting, Istanbul, 2024
 - <br/>_"Rethinking Organizational Design: Governance of Decentralized Autonomous Organizations (DAOs)"_
 	- CCC Doctoral Conference, Olin School of Business, Washington University in St. Louis, St. Louis, 2024
-- <br/>_"How do algorithmic and social governance drive governance adaptations in decentralized organizations?"_
+- <br/>_"How Do Algorithmic and Social Governance Drive Governance Adaptations in Decentralized Organizations?"_
     - SEI Research Day, Imperial College Business School, London, 2023
     - Strategic Management Society (SMS) Annual Meeting, Toronto, 2023
     - University of Edinburgh Business School (UEBS) Paper Development Workshop, Edinburgh, 2023
-- <br/>_"MakerDAO demystified: Exploring the decentralized nature of a stablecoin ecosystem"_
+- <br/>_"MakerDAO Demystified: Exploring the Decentralized Nature of a Stablecoin Ecosystem"_
     - UK FinTech Academic Network (UKFAN) Annual Conference, London, 2023
 - <br/>_"Commons and Tokens—Governance Modes in Decentralized Autonomous Organizations (DAOs)"_
     - Academy of Management Annual Meeting, Online, 2021
