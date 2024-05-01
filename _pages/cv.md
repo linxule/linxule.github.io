@@ -8,12 +8,6 @@ redirect_from:
   - /resume
 ---
 
-<!--
-Title: Xule Lin
-Print Footer Left: %title
-Print Footer Right: %page
-
--->
 
 ## Xule Lin 林徐乐
 
@@ -40,7 +34,7 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 
 - Lin, X., & Corley, K. G. (2024). _Preserving researcher agency when adding AI tools to a grounded theory study: Introducing scalable inductive grounded NLP approach (SIGNA)_. [Under review at Organization Studies]
 	- Grant Recipient, OpenAI's Researcher Access Program, 2024
-	- Grant Recipient, Google Cloud Research Credits program, 2023
+	- Grant Recipient, Google Cloud Research Credits Program, 2023
 
 # Work in Progress
 
@@ -55,7 +49,7 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 
 - [OpenAI's Researcher Access Program](https://openai.com/form/researcher-access-program)
 	- API Credits, 2024
-- [Google Cloud Research Credits program](https://cloud.google.com/edu/researchers)
+- [Google Cloud Research Credits Program](https://cloud.google.com/edu/researchers)
 	- Award GCP19980904, 2023
 - [Gitcoin Grants](https://grants.gitcoin.co/)
 	- Round 19, Governance Research Round by Metagov, 2023
@@ -112,7 +106,6 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 	- Administrative Science Quarterly Student Blog, 2020
 		- Lin, X., & Scholz, N. (2021). Ter Wal, Criscuolo, McEvily and Salter (2020). Dual Networking: How Collaborators Network in Their Quest for Innovation. _The ASQ Blog_. [https://asqblog.com/2021/06/26/ter-wal-criscuolo-mcevily-and-salter-2020-dual-networking-how-collaborators-network-in-their-quest-for-innovation/](https://asqblog.com/2021/06/26/ter-wal-criscuolo-mcevily-and-salter-2020-dual-networking-how-collaborators-network-in-their-quest-for-innovation/)
 
-
 # Teaching Experience
 
 - Innovation and Strategy in FinTech, Imperial College Business School, 2022-2024
@@ -146,11 +139,11 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 	- Developed a Discord bot leveraging OpenAI's GPT models and the Discord API to facilitate engaging literature-focused conversations (Access the code [linxule/openai-assistants-discord-bot](https://github.com/linxule/openai-assistants-discord-bot) on GitHub to deploy the bot on your own Discord server)
 	- Built web applications using [Retrieval-Augmented Generation (RAG)](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/) with [Langchain](https://www.langchain.com/) and [Streamlit](https://streamlit.io/) to enable interactive exploration of literary works
 - <br/>LLM-Powered Bots for Academic Research Assistance
-	- **BERTopic Navigator**: an integration of OpenAI's ChatGPT with BERTopic, to enhance topic modeling and exploration capabilities 
+	- **BERTopic Navigator**: an integration of OpenAI's ChatGPT with BERTopic, to enhance topic modeling and exploration capabilities
 		- Access BERTopic Navigator: [https://chat.openai.com/g/g-FvlPlwLn1-bertopic-navigator](https://chat.openai.com/g/g-FvlPlwLn1-bertopic-navigator)
-	- **Red Pen Scholar**: An AI-powered writing assistant that provides feedback and suggestions based on the principles of the University of Chicago's Little Red Schoolhouse writing program 
+	- **Red Pen Scholar**: An AI-powered writing assistant that provides feedback and suggestions based on the principles of the University of Chicago's Little Red Schoolhouse writing program
 		- Access Red Pen Scholar: [https://chat.openai.com/g/g-wDUM3ows9-red-pen-scholar](https://chat.openai.com/g/g-wDUM3ows9-red-pen-scholar)
-	- **Academic Notes Assistant**: A tool that helps with summarizing, extracting key points, and generating questions from academic papers into structured notes to aid in research and paper writing 
+	- **Academic Notes Assistant**: A tool that helps with summarizing, extracting key points, and generating questions from academic papers into structured notes to aid in research and paper writing
 		- Access Academic Notes Assistant: [https://chat.openai.com/g/g-pIFoLpzVx-academic-notes-assistant](https://chat.openai.com/g/g-pIFoLpzVx-academic-notes-assistant)
 
 # Skills
@@ -193,3 +186,4 @@ Metagov (a laboratory for digital governance)<br/>
 	- Email: [y.hsieh@imperial.ac.uk](mailto:y.hsieh@imperial.ac.uk)
 - <br/>[**Kevin Corley**](https://www.imperial.ac.uk/people/k.corley), Head of Department of Management & Entrepreneurship, Imperial College Business School
 	- Email: [k.corley@imperial.ac.uk](mailto:k.corley@imperial.ac.uk)
+
