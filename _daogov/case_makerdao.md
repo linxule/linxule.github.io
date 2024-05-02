@@ -1,4 +1,3 @@
-
 ---
 title: 'Teaching Case: MakerDAO'
 excerpt: "A teaching case to help students understand the unique aspects of collectively managing and growing a DAO."
