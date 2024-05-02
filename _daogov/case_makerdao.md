@@ -5,4 +5,4 @@ collection: daogov
 canonical_url: "https://daogov.info/case_makerdao"
 ---
 
-Case materials available at: [https://makerdao.daogov.info/](https://makerdao.daogov.info/).
+- Check out the case materials available at: [https://makerdao.daogov.info/](https://makerdao.daogov.info/).
