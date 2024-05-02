@@ -4,5 +4,4 @@ excerpt: "MIT License. Under developemnt. More details coming soon."
 collection: daogov
 canonical_url: "https://daogov.info/daogov_data"
 ---
-
-MIT License. Under developemnt. More details coming soon.
+- MIT License. Under developemnt. More details coming soon.
