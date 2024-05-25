@@ -105,6 +105,7 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 	- Consortium for the Advancement of Research Methods and Analysis (CARMA), 2021 – Present
 - <br/>Volunteer
 	- SMS 42nd Annual Conference London, 2022
+	- International Symposium on Corporate, Digital and Wicked Acceleration, Imperial College Business School, 2022
 	- Doctoral Student Staff Committee, Imperial College Business School, 2019 – 2020
 - <br/>Contributor
 	- Administrative Science Quarterly Student Blog, 2020
