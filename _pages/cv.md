@@ -81,6 +81,7 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
     - SEI Research Day, Imperial College Business School, London, 2023
     - Strategic Management Society (SMS) Annual Meeting, Toronto, 2023
     - University of Edinburgh Business School (UEBS) Paper Development Workshop, Edinburgh, 2023
+    - SEI Research Day, Bayes Business School, London, 2022
 - <br/>_"MakerDAO Demystified: Exploring the Decentralized Nature of a Stablecoin Ecosystem"_
     - UK FinTech Academic Network (UKFAN) Annual Conference, London, 2023
 - <br/>_"Commons and Tokens—Governance Modes in Decentralized Autonomous Organizations (DAOs)"_
