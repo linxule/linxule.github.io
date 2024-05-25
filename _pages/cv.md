@@ -45,6 +45,8 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 - <br/>Lin, X., Hsieh, Y.-Y., & Autio, E. (2024). _Tokens' Dual Role in DAOs: Enabling Collective Governance and Shaping Outcomes_. [Manuscript in preparation]
 	- Nominee, 2024 SMS Annual Conference Ph.D. Paper Prize
 - <br/>Consensus Formation in DAOs (Project with Puranam, P., Hsieh, Y.-Y., Shrestha Y.). [Data analysis and additional data collection stage]
+- <br/>daogov: A Public Dataset on DAO Community Discussions
+	- 78 DAOs, 260K posts, ~40.3 million words
 
 # Awards and Grants
 
@@ -107,7 +109,7 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 	- Administrative Science Quarterly Student Blog, 2020
 		- Lin, X., & Scholz, N. (2021). Ter Wal, Criscuolo, McEvily and Salter (2020). Dual Networking: How Collaborators Network in Their Quest for Innovation. _The ASQ Blog_. [https://asqblog.com/2021/06/26/ter-wal-criscuolo-mcevily-and-salter-2020-dual-networking-how-collaborators-network-in-their-quest-for-innovation/](https://asqblog.com/2021/06/26/ter-wal-criscuolo-mcevily-and-salter-2020-dual-networking-how-collaborators-network-in-their-quest-for-innovation/)
 
-# Teaching Experience
+# Teaching
 
 - Innovation and Strategy in FinTech, Imperial College Business School, 2022-2024
 	- Teaching Assistant
@@ -122,7 +124,7 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 - International Taxation, University of Notre Dame, 2016
 	- Teaching Assistant
 - Partnerships and Passive Activities, University of Notre Dame, 2015
-	- Teaching Assistant
+	- Teaching Assistant**
 
 # Guest Lectures
 
@@ -174,6 +176,12 @@ London Qualitative Community (LQC)<br/>
 Decentralization in Organizations (DiO)<br/>
 Ledgerback Digital Commons Research Cooperative<br/>
 Metagov (a laboratory for digital governance)<br/>
+
+# Languages 
+
+Mandarin Chinese (native)<br/>
+English (fluent)<br/>
+English Braille (Grade 1)<br/>
 
 # References
 
