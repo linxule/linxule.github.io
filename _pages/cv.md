@@ -111,20 +111,18 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 
 # Teaching
 
-- Innovation and Strategy in FinTech, Imperial College Business School, 2022-2024
-	- Teaching Assistant
+- Management, Strategy, and Innovation in FinTech, Imperial College Business School, 2022-2024
+	- Teaching Assistant to Ying-Ying Hsieh
 	- Developed a teaching case to help students understand the unique aspects of collectively managing and growing a DAO
 	- Case materials available at: [https://makerdao.daogov.info/](https://makerdao.daogov.info/)
-- Innovation Management, Imperial College Business School, 2023-2024
-	- Teaching Assistant
-- Innovation and Technology Management, Imperial College Business School, 2023-2024
-	- Teaching Assistant
+- Technology and Innovation Management, Imperial College Business School, 2023-2024
+	- Teaching Assistant to Anne ter Wal
 - Strategic Management, Imperial College Business School, 2022-2023
-	- Teaching Assistant
+	- Teaching Assistant to Yuri Mishina
 - International Taxation, University of Notre Dame, 2016
-	- Teaching Assistant
+	- Teaching Assistant to Ken Milani
 - Partnerships and Passive Activities, University of Notre Dame, 2015
-	- Teaching Assistant**
+	- Teaching Assistant to Ken Milani
 
 # Guest Lectures
 
