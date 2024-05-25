@@ -160,7 +160,7 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 # Academic & Professional Experience
 
 - Booth School of Business, University of Chicago
-	- Research Assistant, Professor Johan Chu (MIT), 2018 – 2019
+	- Research Assistant to Johan Chu (MIT), 2018 – 2019
 - Ernst & Young, Chicago, IL
 	- Staff, 2016 – 2018
 - Café Tatum Break, Xiamen, China
