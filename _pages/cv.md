@@ -176,6 +176,8 @@ London Qualitative Community (LQC)<br/>
 Decentralization in Organizations (DiO)<br/>
 Ledgerback Digital Commons Research Cooperative<br/>
 Metagov (a laboratory for digital governance)<br/>
+MirrorDAO<br/>
+RnDAO<br/>
 
 # Languages 
 
