@@ -12,7 +12,7 @@ I am a [PhD student](https://www.imperial.ac.uk/people/xule.lin) in the [Departm
 
 # Research Interests
 
-My research focuses on the intersection of new forms of organizing and decentralized governance. Empirically, my work focuses on how social and algorithmic mechanisms enable decentralized communities (e.g., Decentralized Autonomous Organizations or DAOs) to develop and adapt their governance. Methodologically, my work combines a grounded theory approach with AI-based analysis tools (e.g., BERTopic). Overall, my research aims to advance theory on the dynamics enabling organizational design in the digital age.
+My research focuses on the intersection of new forms of organizing and decentralized governance. Empirically, my work focuses on how social and algorithmic mechanisms enable decentralized communities (e.g., Decentralized Autonomous Organizations or DAOs) to develop and adapt their governance. Methodologically, my work combines a grounded theory approach with AI-based analysis tools (e.g., BERTopic, LLMs). Overall, my research aims to advance theory on the dynamics enabling organizational design in the digital age.
 
   > [More from the past](https://linxule.com/posts/2020/05/so-what-are-you-studying/)
 
