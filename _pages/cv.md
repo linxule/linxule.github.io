@@ -45,8 +45,11 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 - <br/>Lin, X., Hsieh, Y.-Y., & Autio, E. (2024). _Tokens' Dual Role in DAOs: Enabling Collective Governance and Shaping Outcomes_. [Manuscript in preparation]
 	- Nominee, 2024 SMS Annual Conference Ph.D. Paper Prize
 - <br/>Consensus Formation in DAOs (Project with Puranam, P., Hsieh, Y.-Y., Shrestha Y.). [Data analysis and additional data collection stage]
-- <br/>daogov: A Public Dataset on DAO Community Discussions
+- <br/>daogov: A Public Dataset on DAO Community Discussions [Data preparation stage]
 	- 78 DAOs, 260K posts, ~40.3 million words
+	- Ongoing cleaning and fine-tuned transformer-based labeling using grounded theory approach
+- <br/>Decentralized Coordination in Sustaining Traditional Crafts [Data collection stage]
+	- Exploring decentralized coordination's role in sustaining traditional crafts amidst technological and social modernization (e.g., mass production and the pursuit of autonomy and creativity)
 
 # Awards and Grants
 
