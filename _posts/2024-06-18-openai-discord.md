@@ -40,9 +40,9 @@ Before getting started, make sure you have the following:
 9. Go to the "API Keys" tab and click "Create new secret key." Keep the key somewhere safe.
 
 
-![1](IMG-20240617142756640.png)
+![1](/images/IMG-20240617142756640.png)
 
-![2](/_posts/IMG-20240617142920699.png)
+![2](/images/IMG-20240617142920699.png)
 
 
 
@@ -56,9 +56,9 @@ Before getting started, make sure you have the following:
 6. Paste the link into a new browser window, choose the server to add the bot to, and click "Authorize"
 7. Optional: In Discord server, create dedicated channel for the Bot conversation. Set permissions to channels in "Server Settings → APPS → Integrations"
 
-![3](/_posts/IMG-20240617144412962.png) 
+![3](/images/IMG-20240617144412962.png) 
 
-![4](/_posts/IMG-20240617144728873.png)
+![4](/images/IMG-20240617144728873.png)
 
 
 ## MongoDB
@@ -79,7 +79,7 @@ Before getting started, make sure you have the following:
 6. Clear any codes in "Settings → Custom Start Command"
 7. Deploy the app
 
-![5](/_posts/IMG-20240617150403670.png)
+![5](/images/IMG-20240617150403670.png)
 
 # Conclusion
 
