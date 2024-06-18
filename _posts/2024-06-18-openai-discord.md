@@ -40,7 +40,7 @@ Before getting started, make sure you have the following:
 9. Go to the "API Keys" tab and click "Create new secret key." Keep the key somewhere safe.
 
 
-![1](/_posts/IMG-20240617142756640.png)
+![1](IMG-20240617142756640.png)
 
 ![2](/_posts/IMG-20240617142920699.png)
 
