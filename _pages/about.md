@@ -12,7 +12,7 @@ I am a [PhD student](https://www.imperial.ac.uk/people/xule.lin) in the [Departm
 
 # Research Interests
 
-My research explores the intersection of new forms of organizing and decentralized coordination. My thesis specifically focuses on Decentralized Autonomous Organizations (DAOs), where technology is extensively integrated into coordination processes. As an extension of this work, I also investigate traditional bespoke tailoring shops, which have largely resisted modern technological integration. This comparison allows me to examine how social and algorithmic mechanisms shape coordination methods across the spectrum of technological adoption.
+My research explores the intersection of new forms of organizing and decentralized coordination. My thesis specifically focuses on Decentralized Autonomous Organizations (DAOs), where technology is extensively integrated into coordination processes. As an extension of this work, I also investigate traditional bespoke tailoring shops, which have largely resisted modern technological integration. This comparison allows me to examine how social and algorithmic mechanisms shape decentralized coordination across the spectrum of technological adoption.
 
 Empirically, I study how DAO communities leverage technology to develop and evolve decentralized coordination mechanisms, while also exploring how traditional craft-based settings maintain effective coordination with minimal technological intervention. By analyzing these divergent cases, I aim to shed light on the current decentralization trends and gain valuable lessons for organizational design and adaptation in the digital age.
 
