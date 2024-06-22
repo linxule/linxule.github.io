@@ -12,7 +12,11 @@ I am a [PhD student](https://www.imperial.ac.uk/people/xule.lin) in the [Departm
 
 # Research Interests
 
-My research focuses on the intersection of new forms of organizing and decentralized governance. Empirically, my work focuses on how social and algorithmic mechanisms enable decentralized communities (e.g., Decentralized Autonomous Organizations or DAOs) to develop and adapt their governance. Methodologically, my work combines a grounded theory approach with AI-based analysis tools (e.g., BERTopic, LLMs). Overall, my research aims to advance theory on the dynamics enabling organizational design in the digital age.
+My research explores the intersection of new forms of organizing and decentralized coordination. My thesis specifically focuses on Decentralized Autonomous Organizations (DAOs), where technology is extensively integrated into coordination processes. As an extension of this work, I also investigate traditional bespoke tailoring shops, which have largely resisted modern technological integration. This comparison allows me to examine how social and algorithmic mechanisms shape coordination methods across the spectrum of technological adoption.
+
+Empirically, I study how DAO communities leverage technology to develop and evolve decentralized coordination mechanisms, while also exploring how traditional craft-based settings maintain effective coordination with minimal technological intervention. By analyzing these divergent cases, I aim to shed light on the current decentralization trends and gain valuable lessons for organizational design and adaptation in the digital age.
+
+Methodologically, my work combines a grounded theory approach with AI-based analysis tools, including BERTopic and large language models (LLMs). This interdisciplinary approach allows for rich, context-specific insights and broader pattern recognition. Overall, my research seeks to advance theory on the dynamics enabling organizational design, particularly in understanding how different combinations of social norms, expertise, and technology influence organizational effectiveness and adaptability.
 
   > [More from the past](https://linxule.com/posts/2020/05/so-what-are-you-studying/)
 
