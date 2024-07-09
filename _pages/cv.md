@@ -55,7 +55,7 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 
 - [Cohere for AI Research Grant Program](https://cohere.com/blog/c4ai-research-grants?ref=cohere-ai.ghost.io)
 	- API Credits, 2024
-- [OpenAI's Researcher Access Program](https://openai.com/form/researcher-access-program)
+- [OpenAI Researcher Access Program](https://openai.com/form/researcher-access-program)
 	- API Credits, 2024
 - [Google Cloud Research Credits Program](https://cloud.google.com/edu/researchers)
 	- Award GCP19980904, 2023
