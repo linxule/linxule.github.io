@@ -133,7 +133,11 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 
 # Guest Lectures
 
-- _"Teaching AI to Lend a Hand: Customizing Large Language Models (LLMs) for Data, Writing & Coding"_
+- _"How will AI Transform Research Process"_
+	- Research Seminar, King's Business School, King's College London, 2024
+	- Contributed to discussion on the use of AI in qualitative research and interactive knowledge building
+	- Invited by Prof. Phanish Puranam, main seminar speaker
+- <br/>_"Teaching AI to Lend a Hand: Customizing Large Language Models (LLMs) for Data, Writing & Coding"_
 	- Methods Reading Group, Imperial College Business School, 2023
 	- Slides available at: [https://tinyurl.com/22t6pua2](https://tinyurl.com/22t6pua2)
 - <br/>_"Tools For Systematic Reviews: Challenges and Solutions"_
