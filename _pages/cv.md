@@ -34,7 +34,7 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 # Manuscripts Under Review
 
 - Lin, X., & Corley, K. G. (2024). Preserving Researcher Agency When Adding AI Tools to a Grounded Theory Study: Introducing Scalable Inductive Grounded NLP Approach (SIGNA). [Under review at Organization Studies]
-	- Grant Recipient, OpenAI's Researcher Access Program, 2024
+	- Grant Recipient, OpenAI Researcher Access Program, 2024
 	- Grant Recipient, Google Cloud Research Credits Program, 2023
 
 # Work in Progress
@@ -53,6 +53,8 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 
 # Awards and Grants
 
+- [Cohere for AI Research Grant Program](https://cohere.com/blog/c4ai-research-grants?ref=cohere-ai.ghost.io)
+	- API Credits, 2024
 - [OpenAI's Researcher Access Program](https://openai.com/form/researcher-access-program)
 	- API Credits, 2024
 - [Google Cloud Research Credits Program](https://cloud.google.com/edu/researchers)
