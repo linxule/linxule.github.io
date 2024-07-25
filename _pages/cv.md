@@ -48,8 +48,7 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 - <br/>daogov: A Public Dataset on DAO Community Discussions [Data preparation stage]
 	- 78 DAOs, 260K posts, ~40.3 million words
 	- Ongoing cleaning and fine-tuned transformer-based labeling using grounded theory approach
-- <br/>Decentralized Coordination in Sustaining Traditional Crafts [Data collection stage]
-	- Exploring decentralized coordination's role in sustaining traditional crafts amidst technological and social modernization (e.g., mass production and the pursuit of autonomy and creativity)
+- <br/>Crafting Organizations: Creativity, Autonomy, and Authenticity in London's Bespoke Tailoring Houses [Data collection stage]
 
 # Awards and Grants
 
@@ -67,7 +66,11 @@ Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (
 
 # Organized Symposia
 
-- _"Humans and Algorithms in Organizations: Navigating the Intersection of Blockchain and AI"_
+- _"Human & Artificial Intelligence in Organizations (HAIO): Interdisciplinary Impact"_
+	- Symposium, September 2024, Imperial College London
+	- Co-organizer: Kevin Corley (Department of Management and Entrepreneurship), Chris Tucci (Imperial-X), David Shrier (Centre for Digital Transformation)
+	- Presenters & Panelists: Jennifer Ding (Alan Turing Institute), Lujian Ibrahim (Oxford & Google Deepmind),  Geoff Keeling (Google AI), Kevin McKee (Google Deepmind), Aidan Peppin (Cohere for AI)
+- <br/>_"Humans and Algorithms in Organizations: Navigating the Intersection of Blockchain and AI"_
 	- Panel Symposium, 2024 Academy of Management Annual Meeting (Chicago, Illinois)
 	- Co-chairs: Magnus van Haaren (RSM) & Carlos Santana (NTNU)
 	- Panelists: Oliver Baumann (SDU), Robert Wayne Gregory (U-M), Hanna Halaburda (NYU Stern), <br/>Vivianna Fang He (St. Gallen), and Alex Murray (Oregon)
