@@ -28,8 +28,10 @@ redirect_from:
 
 # Research Interests
 
-Organizational Design and Governance, Decentralized Autonomous Organizations (DAOs), Traditional Craft Business Models (e.g., Tailoring Houses)<br/>
-Grounded Theory, Theory Building, Neural Topic Modeling, Large Language Models (LLMs), Socio-Technical Systems in Organizational Contexts
+Organizational Design and Governance<br/>
+Decentralized Autonomous Organizations (DAOs), Traditional Craft Business Models (e.g., Bespoke Tailoring Houses), Socio-Technical Systems in Organizational Contexts<br/>
+Grounded Theory, Theory Building, AI-Augmented Qualitative Research<br/>
+Neural Topic Modeling, Large Language Models (LLMs)<br/>
 
 # Manuscripts Under Review
 
