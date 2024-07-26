@@ -71,7 +71,7 @@ Neural Topic Modeling, Large Language Models (LLMs)<br/>
 
 - _"Human & Artificial Intelligence in Organizations (HAIO): Interdisciplinary Impact"_
 	- Symposium, September 2024, Imperial College London
-	- Co-organizers: Kevin Corley (Department of Management and Entrepreneurship), Chris Tucci (Imperial-X), David Shrier (Centre for Digital Transformation)
+	- Co-organizers: Kevin Corley (Department of Management and Entrepreneurship), Chris Tucci (Imperial-X), David Shrier (Centre for Digital Transformation), Mark Kennedy (Centre for Digital Transformation)
 	- Presenters & Panelists: Jennifer Ding (Alan Turing Institute), Lujian Ibrahim (Oxford & Google Deepmind),  Geoff Keeling (Google AI), Kevin McKee (Google Deepmind), Aidan Peppin (Cohere for AI)
 - <br/>_"Humans and Algorithms in Organizations: Navigating the Intersection of Blockchain and AI"_
 	- Panel Symposium, 2024 Academy of Management Annual Meeting (Chicago, Illinois)
