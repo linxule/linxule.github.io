@@ -155,7 +155,7 @@ Neural Topic Modeling, Large Language Models (LLMs)<br/>
 
 - Multi-Agent AI Systems for Collaborative Research
 	- Developed an application to orchestrate role-based AI discussions using various LLMs, exploring potential for human-AI teaming in complex problem-solving
-	- [Video demo](https://www.linkedin.com/posts/linxule_ai-accountability-privacy-activity-7214639418110803969-oe2y) | [Blog post](https://www.linkedin.com/pulse/exploring-potential-multi-agent-ai-systems-research-beyond-xule-lin-3odjc)
+	- [Video demo](https://www.linkedin.com/posts/linxule_ai-accountability-privacy-activity-7214639418110803969-oe2y) & [Blog post](https://www.linkedin.com/pulse/exploring-potential-multi-agent-ai-systems-research-beyond-xule-lin-3odjc)
 - Interactive Literature Discussions
 	- Developed a Discord bot leveraging OpenAI's GPT models and the Discord API to facilitate engaging literature-focused conversations (Access the code [linxule/openai-assistants-discord-bot](https://github.com/linxule/openai-assistants-discord-bot) on GitHub to deploy the bot on your own Discord server)
 	- Built web applications using [Retrieval-Augmented Generation (RAG)](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/) with [Langchain](https://www.langchain.com/) and [Streamlit](https://streamlit.io/) to enable interactive exploration of literary works
