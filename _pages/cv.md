@@ -51,6 +51,7 @@ Neural Topic Modeling, Large Language Models (LLMs)<br/>
 	- Ongoing cleaning and fine-tuned transformer-based labeling using grounded theory approach
 - <br/>Crafting Organizations: Creativity, Autonomy, and Authenticity in London's Bespoke Tailoring Houses [Data collection stage]
   - Employing ethnographic methods and grounded theory approach
+- <br/>Baldwin, C. Y., & Lin, X. (2024). _Technological Paradigms, Trajectories, and Revolutions: On Pin Factories and Tailored Suits_. [Book chapter in preparation]
 
 # Awards and Grants
 
