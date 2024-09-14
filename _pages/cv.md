@@ -33,19 +33,18 @@ Decentralized Autonomous Organizations (DAOs), Traditional Craft Organizations (
 Grounded Theory, Theory Building, AI-Augmented Qualitative Research<br/>
 Neural Topic Modeling, Large Language Models (LLMs)<br/>
 
-# Manuscripts Under Review
-
-- Lin, X., & Corley, K. G. (2024). Preserving Researcher Agency When Adding AI Tools to a Grounded Theory Study: Introducing Scalable Inductive Grounded NLP Approach (SIGNA). [Under review at Organization Studies]
-	- Grant Recipient, OpenAI Researcher Access Program, 2024
-	- Grant Recipient, Google Cloud Research Credits Program, 2023
+<!-- # Manuscripts Under Review -->
 
 # Work in Progress
 
-- Lin, X., Hsieh, Y.-Y., & Autio, E. (2024). _How Do Algorithmic and Social Governance Drive Governance Adaptations in Decentralized Organizations?_ [Manuscript in preparation]
+- Lin, X., Hsieh, Y.-Y., & Autio, E. (2024). _Tokens' Dual Role in DAOs: Enabling Collective Governance and Shaping Outcomes_. [Manuscript in preparation]
+	- Finalist, 2024 SMS Annual Conference Ph.D. Paper Prize
+- <br/>Lin, X., Hsieh, Y.-Y., & Autio, E. (2024). _How Do Algorithmic and Social Governance Drive Governance Adaptations in Decentralized Organizations?_ [Manuscript in preparation]
 	- Nominee, 2023 SMS Annual Conference Research Methods Paper Prize
 	- Nominee, 2023 SMS Annual Conference Ph.D. Paper Prize
-- <br/>Lin, X., Hsieh, Y.-Y., & Autio, E. (2024). _Tokens' Dual Role in DAOs: Enabling Collective Governance and Shaping Outcomes_. [Manuscript in preparation]
-	- Nominee, 2024 SMS Annual Conference Ph.D. Paper Prize
+- <br/>Lin, X., & Corley, K. G. (2024). _Preserving Researcher Agency When Adding AI Tools to a Grounded Theory Study: Introducing Scalable Inductive Grounded NLP Approach (SIGNA)._ [Manuscript in preparation]
+	- Grant Recipient, OpenAI Researcher Access Program, 2024
+	- Grant Recipient, Google Cloud Research Credits Program, 2023
 - <br/>Consensus Formation in DAOs (Project with Puranam, P., Hsieh, Y.-Y., Shrestha Y.). [Data analysis and additional data collection stage]
 - <br/>daogov: A Public Dataset on DAO Community Discussions [Data preparation stage]
 	- 78 DAOs, 260K posts, ~40.3 million words
