@@ -176,6 +176,9 @@ Neural Topic Modeling, Large Language Models (LLMs)<br/>
 
 # Academic & Professional Experience
 
+- INSEAD
+	- Research Assistant to Phanish Puranam, 2024-Present
+	- Human-AI Interaction
 - Booth School of Business, University of Chicago
 	- Research Assistant to Johan Chu (MIT), 2018 – 2019
 - Ernst & Young, Chicago, IL
