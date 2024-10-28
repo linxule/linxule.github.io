@@ -38,10 +38,10 @@ Neural Topic Modeling, Large Language Models (LLMs)<br/>
 # Work in Progress
 
 - Lin, X., Hsieh, Y.-Y., & Autio, E. (2024). _Tokens' Dual Role in DAOs: Enabling Collective Governance and Shaping Outcomes_. [Manuscript in preparation]
-	- Finalist, 2024 SMS Annual Conference Ph.D. Paper Prize
+	- Recipient, 2024 Strategic Management Society (SMS) Annual Conference Ph.D. Paper Prize
 - <br/>Lin, X., Hsieh, Y.-Y., & Autio, E. (2024). _How Do Algorithmic and Social Governance Drive Governance Adaptations in Decentralized Organizations?_ [Manuscript in preparation]
-	- Nominee, 2023 SMS Annual Conference Research Methods Paper Prize
-	- Nominee, 2023 SMS Annual Conference Ph.D. Paper Prize
+	- Nominee, 2023 Strategic Management Society (SMS) Annual Conference Research Methods Paper Prize
+	- Nominee, 2023 Strategic Management Society (SMS) Annual Conference Ph.D. Paper Prize
 - <br/>Lin, X., & Corley, K. G. (2024). _Preserving Researcher Agency When Adding AI Tools to a Grounded Theory Study: Introducing Scalable Inductive Grounded NLP Approach (SIGNA)._ [Manuscript in preparation]
 	- Grant Recipient, OpenAI Researcher Access Program, 2024
 	- Grant Recipient, Google Cloud Research Credits Program, 2023
@@ -55,6 +55,8 @@ Neural Topic Modeling, Large Language Models (LLMs)<br/>
 
 # Awards and Grants
 
+- [2024 Strategic Management Society (SMS) Annual Conference Ph.D. Paper Prize](https://www.strategicmanagement.net/award/sms-annual-conference-phd-paper-prize/)
+	- Lin, X., Hsieh, Y.-Y., & Autio, E. (2024). _Tokens' Dual Role in DAOs: Enabling Collective Governance and Shaping Outcomes_. 
 - [Cohere for AI Research Grant Program](https://cohere.com/blog/c4ai-research-grants?ref=cohere-ai.ghost.io)
 	- API Credits, 2024
 - [OpenAI Researcher Access Program](https://openai.com/form/researcher-access-program)
