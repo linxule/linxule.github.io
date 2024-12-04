@@ -8,51 +8,50 @@ redirect_from:
   - /about.html
 ---
 
-# I investigate how human and machine intelligences are reshaping the future of organizing.
+# I explore how humans and algorithms are writing the next chapter of organizing together.
 
-Some things about me:
-* [PhD student](https://www.imperial.ac.uk/people/xule.lin) in the [Department of Management & Entrepreneurship at Imperial College Business School](https://www.imperial.ac.uk/business-school/faculty-research/academic-areas/management-entrepreneurship/)
-* Educational foundation built at University of Notre Dame and University of Chicago
-* Professional experience at Ernst & Young (EY) in Chicago
-* Currently studying how organizations evolve when algorithms become active participants in decision-making
+My Journey:
+* Building theory at [Imperial College Business School](https://www.imperial.ac.uk/business-school/faculty-research/academic-areas/management-entrepreneurship/) as a [PhD researcher](https://www.imperial.ac.uk/people/xule.lin)
+* Grounded my thinking through experiences at University of Notre Dame, University of Chicago, and Ernst & Young
+* Now investigating the moment when algorithms step from tools to participants in organizational life
 
 Working Theory of Organizing:
-* The future of organizing is hybrid
-    * Algorithms are becoming active participants in organizational decision-making
-    * Understanding decentralized coordination is crucial
-    * Social and algorithmic mechanisms co-evolve
-* Research needs methodological innovation
-    * Rich qualitative understanding combined with computational analysis
-    * Extreme cases reveal fundamental organizing principles
-    * Theory must emerge from empirical observation
-* Technology should enhance human agency
-    * The integration of technology changes coordination processes
-    * Social mechanisms remain fundamental
-    * Traditional craft knowledge informs digital futures
+* The nature of organizing transforms as algorithms join decision-making
+    * Algorithms shift from tools that augment to agents that participate
+    * Current organizational theories struggle to capture this evolution
+    * Novel forms emerge from social-technical system interactions
+* Understanding requires both depth and breadth
+    * Qualitative immersion reveals organizing's lived reality
+    * Computational analysis surfaces patterns across contexts
+    * This methodological synthesis builds stronger theory
+* Timeless principles inform digital futures
+    * Core coordination mechanisms transcend technological cycles
+    * Shared understanding enables genuine decentralization
+    * Traditional wisdom offers lessons for algorithmic age
 
-Current Research:
-* Investigating new forms of organizing through DAOs
-    * How communities develop and evolve without hierarchical structures
-    * The interplay between social and algorithmic mechanisms
-    * Technology's role in organizational design
-* Studying traditional bespoke tailoring as a contrast
-    * Decentralized coordination with minimal technology
-    * Preservation of craft expertise
-    * Adaptation in the digital age
-* Methodological Innovation
-    * Combining grounded theory with AI-based analysis
-    * Using BERTopic and large language models (LLMs)
-    * Bridging rich context and pattern recognition
+Current Investigations:
+* Decoding DAOs as organizational laboratories
+    * Watching communities write new rules for coordinating
+    * Tracking the evolution of governance mechanisms
+    * Mapping how code and culture interweave
+* Learning from traditional craft
+    * Studying tailors who coordinate through shared understanding
+    * Understanding how expertise flows without formal structure
+    * Finding echoes of ancient wisdom in modern challenges
+* Building better research tools
+    * Weaving together ethnographic insight and computational analysis
+    * Teaching machines to help us see organizational patterns
+    * Creating methods that honor both detail and scale
 
-Resources I Share:
-* Curated X (Twitter) Lists for Organizational Research
-    * [Management Research](https://twitter.com/i/lists/1186983495517773825): People, Organizations, Blogs & Journals in Management, Strategy, Org Behavior
-    * [Research on DAOs](https://twitter.com/i/lists/1176535611269898240): Management focused, technical & non-technical perspectives
-    * [AI Research](https://twitter.com/i/lists/1761815451116413191): AI developments with implications for organizational research
-* Academic Tools & Resources
-    * [MaCAW](https://linxule.com/posts/2023/10/macaw/): A markdown-centric approach to academic writing
-    * [Research tools collection](https://github.com/linxule/themes): Themes, scripts, and templates for academic workflow
-    * Insights on research methods and productivity
+Knowledge Commons:
+* Curated X (Twitter) Lists for Fellow Explorers
+    * [Management Research](https://twitter.com/i/lists/1186983495517773825): A living map of our field's conversations
+    * [Research on DAOs](https://twitter.com/i/lists/1176535611269898240): Where technology meets organizing
+    * [AI Research](https://twitter.com/i/lists/1761815451116413191): Tracking intelligence, artificial and otherwise
+* Tools for Thinking
+    * [MaCAW](https://linxule.com/posts/2023/10/macaw/): Writing academic ideas in the digital age
+    * [Research tools collection](https://github.com/linxule/themes): Craft tools for scholarly work
+    * Shared notes on the art of research
 
 Want to explore more?
 * Read about [my research journey](https://linxule.com/posts/2020/05/so-what-are-you-studying/)
