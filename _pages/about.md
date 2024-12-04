@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# I explore how humans and algorithms are writing the next chapter of organizing together.
+I explore how humans and algorithms are writing the next chapter of organizing together.
 
 My Journey:
 * Building theory at [Imperial College Business School](https://www.imperial.ac.uk/business-school/faculty-research/academic-areas/management-entrepreneurship/) as a [PhD researcher](https://www.imperial.ac.uk/people/xule.lin)
