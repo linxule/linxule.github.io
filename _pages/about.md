@@ -16,13 +16,13 @@ Some things about me:
 * Professional experience at Ernst & Young (EY) in Chicago
 * Currently studying how organizations evolve when algorithms become active participants in decision-making
 
-Some things I believe:
+Working Theory of Organizing:
 * The future of organizing is hybrid
     * Algorithms are becoming active participants in organizational decision-making
     * Understanding decentralized coordination is crucial
     * Social and algorithmic mechanisms co-evolve
 * Research needs methodological innovation
-    * Rich ethnographic understanding combined with computational analysis
+    * Rich qualitative understanding combined with computational analysis
     * Extreme cases reveal fundamental organizing principles
     * Theory must emerge from empirical observation
 * Technology should enhance human agency
