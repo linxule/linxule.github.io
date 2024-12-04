@@ -53,7 +53,8 @@ Knowledge Commons:
     * [Research tools collection](https://github.com/linxule/themes): Craft tools for scholarly work
     * Shared notes on the art of research
 
-Want to explore more?
-* Read about [my research journey](https://linxule.com/posts/2020/05/so-what-are-you-studying/)
-* View my [academic profile](https://www.imperial.ac.uk/people/xule.lin)
-* Connect with me on [Twitter/X](https://twitter.com/linxule)
+Let's Connect:
+* [Academic profile](https://www.imperial.ac.uk/people/xule.lin) - Current projects and collaborations
+* [Twitter/X](https://twitter.com/linxule) - Join ongoing conversations about organizing in the algorithmic age
+
+I'm always eager to engage with fellow researchers and practitioners exploring the evolving dialogue between human wisdom and algorithmic capabilities in shaping tomorrow's organizations.
