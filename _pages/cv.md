@@ -28,10 +28,13 @@ redirect_from:
 
 # Research Interests
 
-Organizational Design and Governance, Socio-Technical Systems in Organizational Contexts<br/>
-Decentralized Autonomous Organizations (DAOs), Traditional Craft Organizations (e.g., Bespoke Tailoring Houses)<br/>
+Organizational Design and Governance, Decentralized Autonomous Organizations (DAOs), Traditional Craft Organizations (e.g., Bespoke Tailoring Houses)<br/>
+Epistemology of Human-AI Interaction, Boundary-Spanning Innovation<br/>
 Grounded Theory, Theory Building, AI-Augmented Qualitative Research<br/>
 Neural Topic Modeling, Large Language Models (LLMs)<br/>
+
+### Boundary-Spanning Innovation
+Integrating insights from academia, industry, and open-source communities to advance epistemological and methodological innovation at the intersection of organizational governance, qualitative inquiry, and AI.
 
 <!-- # Manuscripts Under Review -->
 
@@ -45,13 +48,16 @@ Neural Topic Modeling, Large Language Models (LLMs)<br/>
 - <br/>Lin, X., & Corley, K. G. (2024). _Preserving Researcher Agency When Adding AI Tools to a Grounded Theory Study: Introducing Scalable Inductive Grounded NLP Approach (SIGNA)._ [Manuscript in preparation]
 	- Grant Recipient, OpenAI Researcher Access Program, 2024
 	- Grant Recipient, Google Cloud Research Credits Program, 2023
+- <br/>**Epistemic Innovation in Qualitative Research** [Conceptual Development Stage]
+  - Developing frameworks integrating qualitative epistemologies with AI and agentic systems.
+  - Exploring how intelligent systems extend and reshape foundational assumptions in organizational theory and research.
 - <br/>Consensus Formation in DAOs (Project with Puranam, P., Hsieh, Y.-Y., Shrestha Y.). [Data analysis and additional data collection stage]
 - <br/>daogov: A Public Dataset on DAO Community Discussions [Data preparation stage]
 	- 78 DAOs, 260K posts, ~40.3 million words
 	- Ongoing cleaning and fine-tuned transformer-based labeling using grounded theory approach
 - <br/>Crafting Organizations: Creativity, Autonomy, and Authenticity in London's Bespoke Tailoring Houses [Data collection stage]
   - Employing ethnographic methods and grounded theory approach
-- <br/>Baldwin, C. Y., & Lin, X. (2024). _Technological Paradigms, Trajectories, and Revolutions: On Pin Factories and Tailored Suits_. [Book chapter in preparation]
+- <br/>- <br/>**Baldwin, C. Y. & Lin, X. (2024). _Technological Paradigms, Trajectories, and Revolutions: On Pin Factories and Tailored Suits_.** In _A Tribute to Giovanni Dosi_. [Book chapter]
 
 # Awards and Grants
 
@@ -153,7 +159,7 @@ Neural Topic Modeling, Large Language Models (LLMs)<br/>
 	- Discussed challenges, opportunities, and best practices for leveraging AI tools (Research Rabbit, Elicit) and Large Language Models (OpenAI, Llama models) in research
 	- Slides available at: [https://tinyurl.com/29svdbby](https://tinyurl.com/29svdbby)
 
-# LLM-Based Tools Development
+# AI Research Platforms and Tools Development
 
 - Multi-Agent AI Systems for Collaborative Research
 	- Developed an application to orchestrate role-based AI discussions using various LLMs, exploring potential for human-AI teaming in complex problem-solving
@@ -174,8 +180,9 @@ Neural Topic Modeling, Large Language Models (LLMs)<br/>
 - Qualitative Research
 	- Grounded Theory, Interviews
 	- [BERTopic](https://maartengr.github.io/BERTopic/index.html), ATLAS.ti
-- <br/>Programming Languages & Software Tools
-	- Python, R, STATA, Node.js
+- <br/>Technical Tools & Languages
+	- Python, R, TypeScript, STATA, Streamlit
+	- AI Frameworks: LangChain, Hugging Face Transformers
 
 # Academic & Professional Experience
 
