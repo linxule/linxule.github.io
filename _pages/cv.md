@@ -28,13 +28,9 @@ redirect_from:
 
 # Research Interests
 
-Organizational Design and Governance, Decentralized Autonomous Organizations (DAOs), Traditional Craft Organizations (e.g., Bespoke Tailoring Houses)<br/>
-Epistemology of Human-AI Interaction, Boundary-Spanning Innovation<br/>
-Grounded Theory, Theory Building, AI-Augmented Qualitative Research<br/>
-Neural Topic Modeling, Large Language Models (LLMs)<br/>
+My research examines organizational design and governance, focusing specifically on decentralized autonomous organizations (DAOs) and traditional craft organizations, such as bespoke tailoring houses. I'm particularly interested in how these distinct organizational forms innovate and adapt by integrating human judgment with technological capabilities, especially blockchain and artificial intelligence. 
 
-### Boundary-Spanning Innovation
-Integrating insights from academia, industry, and open-source communities to advance epistemological and methodological innovation at the intersection of organizational governance, qualitative inquiry, and AI.
+My methodological focus blends qualitative research methods with AI-enhanced inquiry, exploring how intelligent systems shape—and potentially transform—our approaches to theorizing and building knowledge. By actively engaging with academic, industry, and open-source communities, I explore new epistemological boundaries, aiming to develop integrative approaches that enrich both theoretical understanding and practical methodologies in organizational studies.
 
 <!-- # Manuscripts Under Review -->
 
@@ -51,6 +47,7 @@ Integrating insights from academia, industry, and open-source communities to adv
 - <br/>**Epistemic Innovation in Qualitative Research** [Conceptual Development Stage]
   - Developing frameworks integrating qualitative epistemologies with AI and agentic systems.
   - Exploring how intelligent systems extend and reshape foundational assumptions in organizational theory and research.
+- <br/>Hilbolling, S., Kratochvil, R., Corley, K., Glaser, V., Jung, J., Levina, N., **Lin, X.**, & Smith, A. (2024). _AI as a Collaborator for Qualitative Research Scholars? Reflections on Embracing Opportunities While Preserving Its Essence_. [Essay in preparation]
 - <br/>Consensus Formation in DAOs (Project with Puranam, P., Hsieh, Y.-Y., Shrestha Y.). [Data analysis and additional data collection stage]
 - <br/>daogov: A Public Dataset on DAO Community Discussions [Data preparation stage]
 	- 78 DAOs, 260K posts, ~40.3 million words
@@ -144,6 +141,14 @@ Integrating insights from academia, industry, and open-source communities to adv
 	- Teaching Assistant to Ken Milani
 - Partnerships and Passive Activities, University of Notre Dame, 2015
 	- Teaching Assistant to Ken Milani
+
+# Public Scholarship
+
+- **Thread Counts** ([threadcounts.substack.com](https://threadcounts.substack.com))  
+  - Essays exploring intersections of technology, human ingenuity, and organizational innovation, highlighting common threads across past, present, and future.
+  - [**LOOM (Locus of Observed Meanings)** series](https://threadcounts.substack.com/p/loom-locus-of-observed-meanings), in collaboration with Kevin Corley (Imperial College London) and AI collaborators: Short-form essays reflecting on methodological and epistemological questions around qualitative research and the integration of artificial intelligence.
+    - [Dialogue as Method: A Letter on Knowledge Co-Creation in the Age of AI](https://threadcounts.substack.com/p/loom-iv-dialogue-as-method)
+	- [The Third Space: Where Intelligence Emerges Through Human-AI Dialogue](https://threadcounts.substack.com/p/loom-v-the-third-space)
 
 # Guest Lectures
 
