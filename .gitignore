@@ -3,6 +3,7 @@ _site/
 .obsidian/  # to exclude Obsidian workspace settings (including plugin and hotkey configurations)
 # OR
 .obsidian/workspace  # to exlude workspace cache
+.specstory/
 
 # Add below lines to exclude OS settings and caches
 .trash/
