@@ -29,19 +29,18 @@ Working Theory of Organizing:
     * Shared understanding enables genuine decentralization
     * Traditional wisdom offers lessons for algorithmic age
 
+Working Theory of Human-AI Knowledge Creation:
+* Scientific research transforms fundamentally when AI actively shapes knowledge creation
+    * AI shifts roles from passive tools to active epistemic collaborators
+    * Traditional epistemologies struggle to account for knowledge co-created by humans and algorithms
+    * Novel paradigms emerge at the intersections of human cognition, computational methods, and epistemic robustness
+
 Current Investigations:
-* Decoding DAOs as organizational laboratories
-    * Watching communities write new rules for coordinating
-    * Tracking the evolution of governance mechanisms
-    * Mapping how code and culture interweave
-* Learning from traditional craft
-    * Studying tailors who coordinate through shared understanding
-    * Understanding how expertise flows without formal structure
-    * Finding echoes of ancient wisdom in modern challenges
-* Building better research tools
-    * Weaving together ethnographic insight and computational analysis
-    * Teaching machines to help us see organizational patterns
-    * Creating methods that honor both detail and scale
+* Investigating decentralized autonomous organizations (DAOs) alongside traditional craft practices to reveal common principles of coordination, shared understanding, and governance for decentralized organizing
+* Navigating how human-AI collaboration reshapes scientific research
+    * Developing innovative qualitative approaches that honor both human agency and algorithmic capabilities
+    * Diagnosing the epistemic implications of AI integration in social science research
+    * Follow my latest thinking on [Substack - Thread Counts](https://threadcounts.substack.com/)
 
 Knowledge Commons:
 * Curated X (Twitter) Lists for Fellow Explorers
