@@ -36,11 +36,17 @@ Working Theory of Human-AI Knowledge Creation:
     * Novel paradigms emerge at the intersections of human cognition, computational methods, and epistemic robustness
 
 Current Investigations:
-* Investigating decentralized autonomous organizations (DAOs) alongside traditional craft practices to reveal common principles of coordination, shared understanding, and governance for decentralized organizing
 * Navigating how human-AI collaboration reshapes scientific research
     * Developing innovative qualitative approaches that honor both human agency and algorithmic capabilities
     * Diagnosing the epistemic implications of AI integration in social science research
     * Follow my latest thinking on [Substack - Thread Counts](https://threadcounts.substack.com/)
+* Decoding DAOs as organizational laboratories
+    * Watching communities write new rules for coordinating
+    * Mapping how code and culture interweave
+* Learning from traditional craft
+    * Studying tailors who coordinate through shared understanding
+    * Understanding how expertise flows without formal structure
+    * Finding echoes of ancient wisdom in modern challenges
 
 Knowledge Commons:
 * Curated X (Twitter) Lists for Fellow Explorers
