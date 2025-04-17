@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Xule Lin 林徐乐"
-excerpt: "My personal website"
+title: "Xule Lin 林徐乐 — Human‑AI Organising"
+excerpt: "Xule Lin (林徐乐) is a PhD researcher at Imperial College London exploring human‑AI organising, DAO governance and socio‑technical futures."
 author_profile: false
 redirect_from:
   - /about/
@@ -40,6 +40,7 @@ Current Investigations:
     * Developing innovative qualitative approaches that honor both human agency and algorithmic capabilities
     * Diagnosing the epistemic implications of AI integration in social science research
     * Follow my latest thinking on [Substack - Thread Counts](https://threadcounts.substack.com/)
+* Explore open‑source essays and tools on [GitHub / Xule Lin](https://github.com/linxule)
 * Decoding DAOs as organizational laboratories
     * Watching communities write new rules for coordinating
     * Mapping how code and culture interweave
