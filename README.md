@@ -1,41 +1,41 @@
+# Xule Lin · 林徐乐 — Personal Academic Website
 
-# Academic Pages
+[![pages-build-deployment](https://github.com/linxule/linxule.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/linxule/linxule.github.io/actions/workflows/pages/pages-build-deployment)
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+This repository hosts the source code for **[linxule.com](https://linxule.com)**, the personal academic website of **Xule Lin (林徐乐)**, PhD researcher at Imperial College Business School.  
+The site showcases my research on human‑AI organising, DAO governance, and socio‑technical futures.
 
-Academic Pages is a Github Pages template for academic websites.
+## Quick links
 
+- **Live site:** <https://linxule.com>  
+- **Curriculum Vitae:** <https://linxule.com/cv>  
+- **Google Scholar:** <https://scholar.google.com/citations?user=ryocLTAAAAAJ>  
+- **Substack:** <https://threadcounts.substack.com/>  
+- **GitHub:** <https://github.com/linxule>  
+- **Twitter/X:** <https://twitter.com/LinXule>
 
-# Getting Started
+## Technology stack
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+This site is built with:
 
-See more info at https://academicpages.github.io/
+- [Jekyll](https://jekyllrb.com/) & GitHub Pages  
+- [Academic Pages](https://academicpages.github.io/) (a fork of the Minimal Mistakes theme)
 
-## Running Locally
+## Local development
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+```bash
+# one‑time setup
+bundle install
+# run a live preview at http://localhost:4000
+bundle exec jekyll serve
+```
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+## Contributing & issues
 
+Please use the [GitHub Issues](https://github.com/linxule/linxule.github.io/issues) tracker for bug reports or suggestions.  
+If you spot a typo or want to improve something, feel free to open a pull request.
 
-# Maintenance 
+## License
 
-Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
-
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
-
-## Bugfixes and enhancements
-
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+Content is licensed under the [Creative Commons BY‑NC‑SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless stated otherwise.  
+Code is released under the [MIT License](LICENSE.md).
