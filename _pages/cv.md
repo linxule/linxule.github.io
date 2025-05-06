@@ -36,25 +36,31 @@ My methodological focus blends qualitative research methods with AI-enhanced inq
 
 # Work in Progress
 
-- Lin, X., Hsieh, Y.-Y., & Autio, E. (2024). _Tokens' Dual Role in DAOs: Enabling Collective Governance and Shaping Outcomes_. [Manuscript in preparation]
-	- Recipient, 2024 Strategic Management Society (SMS) Annual Conference Ph.D. Paper Prize
-- <br/>Lin, X., Hsieh, Y.-Y., & Autio, E. (2024). _How Do Algorithmic and Social Governance Drive Governance Adaptations in Decentralized Organizations?_ [Manuscript in preparation]
+- Lin, X. (2025). _Cognitio Emergens: Agency, Dimensions, and Dynamics in Human–AI Knowledge Co-Creation_. [Preprint forthcoming on arXiv]
+	- Introduces framework comprising three components: Agency Configurations (Directed, Contributory, Partnership), Epistemic Dimensions (capabilities across Discovery, Integration, and Projection axes), and Partnership Dynamics
+	- Provides practical guidance for researchers detecting dimensional imbalances, institutional leaders designing governance structures, and policymakers developing nuanced evaluation approaches
+	- Draws from autopoiesis theory, social systems theory, and organizational modularity to reconceptualize human-AI scientific collaboration as co-evolutionary
+- <br/>Baldwin, C. Y. (Harvard Business School), & Lin, X. (2025). _Technological Paradigms, Trajectories, and Revolutions: On Pin Factories and Tailored Suits_. [Book chapter in Review]
+	- Examined pin factories, tailors, catalogues and platforms as structural paradigms in the apparel industry, building on Giovanni Dosi's framework of technological trajectories
+- <br/>Weiss, T., Rindova, V., Corley, K. G., & Lin, X. (2025). Academy of Management Journal. [2nd round of R&R]
+  - Note: Title paraphrased for blind review purposes
+  - Developed framework for multi-agent AI system combining human and AI-based coding to enable rigorous qualitative analysis of large corpus of entrepreneurial narratives while maintaining researcher agency
+- <br/>Lin, X., & Corley, K. G. (2025). _Preserving Researcher Agency When Adding AI Tools to a Grounded Theory Study: Introducing Scalable Inductive Grounded NLP Approach (SIGNA)._ [Manuscript in preparation]
+	- Grant Recipient, OpenAI Researcher Access Program, 2024
+	- Grant Recipient, Cohere for AI Research Grant Program, 2024
+	- Grant Recipient, Google Cloud Research Credits Program, 2023
+- <br/>Corley, K. G., & Lin, X. (2025). _Interpretive Orchestration: When Human Intuition meets Machine Intelligence_. Strategic Organization. [Manuscript in preparation]
+  - Invited contribution for Special Essay Forum on AI in qualitative research
+- <br/>Lin, X., Hsieh, Y.-Y., & Autio, E. (2025). _Tokens' Dual Role in DAOs: Enabling Collective Governance and Shaping Outcomes_. [Manuscript in preparation]
+	- Recipient, [2024 Strategic Management Society (SMS) Annual Conference Ph.D. Paper Prize](https://www.strategicmanagement.net/award/sms-annual-conference-phd-paper-prize/)
+- <br/>Lin, X., Hsieh, Y.-Y., & Autio, E. _How Do Algorithmic and Social Governance Drive Governance Adaptations in Decentralized Organizations?_ [Manuscript in preparation]
 	- Nominee, 2023 Strategic Management Society (SMS) Annual Conference Research Methods Paper Prize
 	- Nominee, 2023 Strategic Management Society (SMS) Annual Conference Ph.D. Paper Prize
-- <br/>Lin, X., & Corley, K. G. (2024). _Preserving Researcher Agency When Adding AI Tools to a Grounded Theory Study: Introducing Scalable Inductive Grounded NLP Approach (SIGNA)._ [Manuscript in preparation]
-	- Grant Recipient, OpenAI Researcher Access Program, 2024
-	- Grant Recipient, Google Cloud Research Credits Program, 2023
-- <br/>**Epistemic Innovation in Qualitative Research** [Conceptual Development Stage]
-  - Developing frameworks integrating qualitative epistemologies with AI and agentic systems.
-  - Exploring how intelligent systems extend and reshape foundational assumptions in organizational theory and research.
-- <br/>Hilbolling, S., Kratochvil, R., Corley, K., Glaser, V., Jung, J., Levina, N., **Lin, X.**, & Smith, A. (2024). _AI as a Collaborator for Qualitative Research Scholars? Reflections on Embracing Opportunities While Preserving Its Essence_. [Essay in preparation]
-- <br/>Consensus Formation in DAOs (Project with Puranam, P., Hsieh, Y.-Y., Shrestha Y.). [Data analysis and additional data collection stage]
+- <br/>Puranam, P. (INSEAD), Hsieh, Y.-Y. (Imperial), Shrestha, Y. (University of Lausanne), & Lin, X. (2025). _Consensus Formation in DAOs._ [Manuscript in preparation]
+	- Development of a multi-agent (committee & judge) framework for analyzing unstructured proposal data
 - <br/>daogov: A Public Dataset on DAO Community Discussions [Data preparation stage]
 	- 78 DAOs, 260K posts, ~40.3 million words
 	- Ongoing cleaning and fine-tuned transformer-based labeling using grounded theory approach
-- <br/>Crafting Organizations: Creativity, Autonomy, and Authenticity in London's Bespoke Tailoring Houses [Data collection stage]
-  - Employing ethnographic methods and grounded theory approach
-- <br/>- <br/>**Baldwin, C. Y. & Lin, X. (2024). _Technological Paradigms, Trajectories, and Revolutions: On Pin Factories and Tailored Suits_.** In _A Tribute to Giovanni Dosi_. [Book chapter]
 
 # Awards and Grants
 
