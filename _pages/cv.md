@@ -30,7 +30,7 @@ redirect_from:
 
 Broadly, I'm interested in how we innovate and adapt the way we (humans and maybe along with machine intelligences) organize by integrating human judgment with or without advanced technological capabilities. My research examines various contexts: (1) in my thesis, I mainly focus on the token-based governance in decentralized autonomous organizations (DAOs); (2) beyond thesis, I investigate the epistemic implications of human-AI co-creation; (3) for passion project (side quest?), I look into bespoke tailoring houses in London (i.e., traditional craft organizations).
 
-My methodological focus blends qualitative research methods with AI-enhanced inquiry, exploring how AI systems shape and potentially transform our approaches to theorizing and building knowledge. By actively engaging with academic, industry, and open-source communities, I explore new epistemological boundaries, aiming to develop integrative approaches that enrich both theoretical understanding and practical methodologies in organizational studies.
+My methodological focus blends qualitative research methods with AI-enhanced inquiry, exploring how AI systems shape and potentially transform our approaches to theorizing and building knowledge (e.g., vibe research?). By actively engaging with academic, industry, and open-source communities, I explore new epistemological boundaries, aiming to develop integrative approaches that enrich both theoretical understanding and practical methodologies in organizational studies.
 
 <!-- # Manuscripts Under Review -->
 
