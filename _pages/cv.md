@@ -44,7 +44,7 @@ My methodological focus blends qualitative research methods with AI-enhanced inq
 	- Examined pin factories, tailors, catalogues and platforms as structural paradigms in the apparel industry, building on Giovanni Dosi's framework of technological trajectories
 - <br/>With Weiss, T., Rindova, V., Corley, K. G., & McClellan, B. _Curating Entrepreneurial Possibilities._ Academy of Management Journal. [2nd round of R&R]
   - Note: Title paraphrased for blind review purposes
-  - Developed framework for multi-agent AI system combining human and AI-based coding to enable rigorous qualitative analysis of large corpus of entrepreneurial narratives while maintaining researcher agency
+  - Developed and facilitated grounded theory analysis with agentic AI systems
 - <br/>Lin, X., & Corley, K. G. (2025). _Preserving Researcher Agency When Adding AI Tools to a Grounded Theory Study: Introducing Scalable Inductive Grounded NLP Approach (SIGNA)._ [Manuscript in preparation]
 	- Grant Recipient, OpenAI Researcher Access Program, 2024
 	- Grant Recipient, Cohere for AI Research Grant Program, 2024
