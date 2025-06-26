@@ -40,7 +40,7 @@ My methodological focus blends qualitative research methods with AI-enhanced inq
 	- Introduces framework comprising three components: Agency Configurations (Directed, Contributory, Partnership), Epistemic Dimensions (capabilities across Discovery, Integration, and Projection axes), and Partnership Dynamics
 	- Provides practical guidance for researchers detecting dimensional imbalances, institutional leaders designing governance structures, and policymakers developing nuanced evaluation approaches
 	- Draws from autopoiesis theory, social systems theory, and organizational modularity to reconceptualize human-AI scientific collaboration as co-evolutionary
-- <br/>With Weiss, T., Rindova, V., Corley, K. G., & McClellan, B. _Curating Entrepreneurial Possibilities._ Academy of Management Journal. [2nd round of R&R]
+- <br/>With Weiss, T., Rindova, V., McClellan, B., & Corley, K. G. _Curating Entrepreneurial Possibilities._ Academy of Management Journal. [2nd round of R&R]
   - Note: Title paraphrased for blind review purposes
   - Developed and facilitated grounded theory analysis with agentic AI systems
 - <br/>Baldwin, C. Y. (Harvard Business School), & Lin, X. (2025). _Technological Paradigms, Trajectories, and Revolutions: On Pin Factories and Tailored Suits_. [Book chapter in Review]
