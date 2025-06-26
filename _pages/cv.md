@@ -36,13 +36,13 @@ My methodological focus blends qualitative research methods with AI-enhanced inq
 
 # Work in Progress
 
-- Lin, X. (2025). _Cognitio Emergens: Agency, Dimensions, and Dynamics in Human–AI Knowledge Co-Creation_. [Preprint forthcoming on arXiv]
+- Lin, X. (2025). _Cognitio Emergens: Agency, Dimensions, and Dynamics in Human–AI Knowledge Co-Creation_. [[Preprint on arXiv]](https://arxiv.org/abs/2505.03105v1)
 	- Introduces framework comprising three components: Agency Configurations (Directed, Contributory, Partnership), Epistemic Dimensions (capabilities across Discovery, Integration, and Projection axes), and Partnership Dynamics
 	- Provides practical guidance for researchers detecting dimensional imbalances, institutional leaders designing governance structures, and policymakers developing nuanced evaluation approaches
 	- Draws from autopoiesis theory, social systems theory, and organizational modularity to reconceptualize human-AI scientific collaboration as co-evolutionary
 - <br/>Baldwin, C. Y. (Harvard Business School), & Lin, X. (2025). _Technological Paradigms, Trajectories, and Revolutions: On Pin Factories and Tailored Suits_. [Book chapter in Review]
 	- Examined pin factories, tailors, catalogues and platforms as structural paradigms in the apparel industry, building on Giovanni Dosi's framework of technological trajectories
-- <br/>Weiss, T., Rindova, V., Corley, K. G., & Lin, X. (2025). Academy of Management Journal. [2nd round of R&R]
+- <br/>With Weiss, T., Rindova, V., Corley, K. G., & McClellan, B. _Curating Entrepreneurial Possibilities._ Academy of Management Journal. [2nd round of R&R]
   - Note: Title paraphrased for blind review purposes
   - Developed framework for multi-agent AI system combining human and AI-based coding to enable rigorous qualitative analysis of large corpus of entrepreneurial narratives while maintaining researcher agency
 - <br/>Lin, X., & Corley, K. G. (2025). _Preserving Researcher Agency When Adding AI Tools to a Grounded Theory Study: Introducing Scalable Inductive Grounded NLP Approach (SIGNA)._ [Manuscript in preparation]
