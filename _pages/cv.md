@@ -20,6 +20,8 @@ redirect_from:
 
 - Imperial College Business School, Imperial College London, 2019 – 2025 (Expected)
 	- Doctor of Philosophy, Management and Entrepreneurship
+	- Thesis Title: "Rethinking Organizational Design: Token-Enabled Coordination and Governance Adaptation in Decentralized Autonomous Organizations (DAOs)"
+	- Thesis Committee: Erkko Autio, Ying-Ying Hsieh, Kevin Corley, Viviana Fang He (UCL)
 - University of Chicago, 2018 – 2019
 	- Graduate Student At-Large
 - University of Notre Dame, 2011 – 2016
@@ -34,33 +36,33 @@ My methodological focus blends qualitative research methods with AI-enhanced inq
 
 <!-- # Manuscripts Under Review -->
 
-# Work in Progress
+# Current Research Projects
 
-- Lin, X. (2025). _Cognitio Emergens: Agency, Dimensions, and Dynamics in Human–AI Knowledge Co-Creation_. [Preprint forthcoming on arXiv]
-	- Introduces framework comprising three components: Agency Configurations (Directed, Contributory, Partnership), Epistemic Dimensions (capabilities across Discovery, Integration, and Projection axes), and Partnership Dynamics
-	- Provides practical guidance for researchers detecting dimensional imbalances, institutional leaders designing governance structures, and policymakers developing nuanced evaluation approaches
-	- Draws from autopoiesis theory, social systems theory, and organizational modularity to reconceptualize human-AI scientific collaboration as co-evolutionary
+- With Weiss, T., Rindova, V., McClellan, B., & Corley, K. G. _Curating Entrepreneurial Possibilities._ Academy of Management Journal. [2nd round of R&R]
+  - Note: Title paraphrased for blind review purposes
+  - Developed and facilitated grounded theory analysis with agentic AI systems
 - <br/>Baldwin, C. Y. (Harvard Business School), & Lin, X. (2025). _Technological Paradigms, Trajectories, and Revolutions: On Pin Factories and Tailored Suits_. [Book chapter in Review]
 	- Examined pin factories, tailors, catalogues and platforms as structural paradigms in the apparel industry, building on Giovanni Dosi's framework of technological trajectories
-- <br/>Weiss, T., Rindova, V., Corley, K. G., & Lin, X. (2025). Academy of Management Journal. [2nd round of R&R]
-  - Note: Title paraphrased for blind review purposes
-  - Developed framework for multi-agent AI system combining human and AI-based coding to enable rigorous qualitative analysis of large corpus of entrepreneurial narratives while maintaining researcher agency
-- <br/>Lin, X., & Corley, K. G. (2025). _Preserving Researcher Agency When Adding AI Tools to a Grounded Theory Study: Introducing Scalable Inductive Grounded NLP Approach (SIGNA)._ [Manuscript in preparation]
-	- Grant Recipient, OpenAI Researcher Access Program, 2024
-	- Grant Recipient, Cohere for AI Research Grant Program, 2024
-	- Grant Recipient, Google Cloud Research Credits Program, 2023
-- <br/>Corley, K. G., & Lin, X. (2025). _Interpretive Orchestration: When Human Intuition meets Machine Intelligence_. Strategic Organization. [Manuscript in preparation]
+- <br/>Corley, K. G., & Lin, X. (2025). _Interpretive Orchestration: When Human Intuition meets Machine Intelligence_. Strategic Organization. [Manuscript under review]
   - Invited contribution for Special Essay Forum on AI in qualitative research
 - <br/>Lin, X., Hsieh, Y.-Y., & Autio, E. (2025). _Tokens' Dual Role in DAOs: Enabling Collective Governance and Shaping Outcomes_. [Manuscript in preparation]
 	- Recipient, [2024 Strategic Management Society (SMS) Annual Conference Ph.D. Paper Prize](https://www.strategicmanagement.net/award/sms-annual-conference-phd-paper-prize/)
 - <br/>Lin, X., Hsieh, Y.-Y., & Autio, E. _How Do Algorithmic and Social Governance Drive Governance Adaptations in Decentralized Organizations?_ [Manuscript in preparation]
 	- Nominee, 2023 Strategic Management Society (SMS) Annual Conference Research Methods Paper Prize
 	- Nominee, 2023 Strategic Management Society (SMS) Annual Conference Ph.D. Paper Prize
+- <br/>Lin, X., & Corley, K. G. (2025). _Preserving Researcher Agency When Adding AI Tools to a Grounded Theory Study: Introducing Scalable Inductive Grounded NLP Approach (SIGNA)._ [Manuscript in preparation]
+	- Grant Recipient, OpenAI Researcher Access Program, 2024
+	- Grant Recipient, Cohere for AI Research Grant Program, 2024
+	- Grant Recipient, Google Cloud Research Credits Program, 2023
 - <br/>Puranam, P. (INSEAD), Hsieh, Y.-Y. (Imperial), Shrestha, Y. (University of Lausanne), & Lin, X. (2025). _Consensus Formation in DAOs._ [Manuscript in preparation]
 	- Development of a multi-agent (committee & judge) framework for analyzing unstructured proposal data
 - <br/>daogov: A Public Dataset on DAO Community Discussions [Data preparation stage]
 	- 78 DAOs, 260K posts, ~40.3 million words
 	- Ongoing cleaning and fine-tuned transformer-based labeling using grounded theory approach
+- <br/>Lin, X. (2025). _Cognitio Emergens: Agency, Dimensions, and Dynamics in Human–AI Knowledge Co-Creation_. [[Preprint on arXiv]](https://arxiv.org/abs/2505.03105v1)
+	- Introduces framework comprising three components: Agency Configurations (Directed, Contributory, Partnership), Epistemic Dimensions (capabilities across Discovery, Integration, and Projection axes), and Partnership Dynamics
+	- Provides practical guidance for researchers detecting dimensional imbalances, institutional leaders designing governance structures, and policymakers developing nuanced evaluation approaches
+	- Draws from autopoiesis theory, social systems theory, and organizational modularity to reconceptualize human-AI scientific collaboration as co-evolutionary
 
 # Awards and Grants
 
@@ -135,6 +137,12 @@ My methodological focus blends qualitative research methods with AI-enhanced inq
 
 # Teaching
 
+- Systematic Reviews, Imperial Business School, 2025
+	- Co-instructor with Erkko Autio (MRes Module)
+	- Co-designed and co-teach pioneering curriculum bridging the gap between AI tool availability and rigorous application in PhD-level research
+	- Train doctoral students to design, execute, and validate complex literature reviews using portfolios of AI agents, moving beyond single-prompt interactions
+	- Develop student expertise in strategic AI delegation, quality control of AI outputs, and maintaining intellectual ownership
+	- Lead hands-on tutorials that demonstrably transform student apprehension into confidence, creating ethically-aware AI-augmented researchers
 - Management, Strategy, and Innovation in FinTech, Imperial College Business School, 2022-2024
 	- Teaching Assistant to Ying-Ying Hsieh
 	- Developed a teaching case to help students understand the unique aspects of collectively managing and growing a DAO
