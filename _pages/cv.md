@@ -43,7 +43,7 @@ My methodological focus blends qualitative research methods with AI-enhanced inq
   - Developed and facilitated grounded theory analysis with agentic AI systems
 - <br/>Baldwin, C. Y. (Harvard Business School), & Lin, X. (2025). _Technological Paradigms, Trajectories, and Revolutions: On Pin Factories and Tailored Suits_. [Book chapter in Review]
 	- Examined pin factories, tailors, catalogues and platforms as structural paradigms in the apparel industry, building on Giovanni Dosi's framework of technological trajectories
-- <br/>Corley, K. G., & Lin, X. (2025). _Interpretive Orchestration: When Human Intuition meets Machine Intelligence_. Strategic Organization. [Manuscript under review]
+- <br/>Lin, X., & Corley, K. G. (2025). _Interpretive Orchestration: When Human Intuition meets Machine Intelligence_. Strategic Organization. [Manuscript under review]
   - Invited contribution for Special Essay Forum on AI in qualitative research
 - <br/>Lin, X., Hsieh, Y.-Y., & Autio, E. (2025). _Tokens' Dual Role in DAOs: Enabling Collective Governance and Shaping Outcomes_. [Manuscript in preparation]
 	- Recipient, [2024 Strategic Management Society (SMS) Annual Conference Ph.D. Paper Prize](https://www.strategicmanagement.net/award/sms-annual-conference-phd-paper-prize/)
