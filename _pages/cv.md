@@ -30,9 +30,7 @@ redirect_from:
 
 # Research Interests
 
-Broadly, I'm interested in how we innovate and adapt the way we (humans and maybe along with machine intelligences) organize by integrating human judgment with or without advanced technological capabilities. My research examines various contexts: (1) in my thesis, I mainly focus on the token-based governance in decentralized autonomous organizations (DAOs); (2) beyond thesis, I investigate the epistemic implications of human-AI co-creation; (3) for passion project (side quest?), I look into bespoke tailoring houses in London (i.e., traditional craft organizations).
-
-My methodological focus blends qualitative research methods with AI-enhanced inquiry, exploring how AI systems shape and potentially transform our approaches to theorizing and building knowledge (e.g., vibe research?). By actively engaging with academic, industry, and open-source communities, I explore new epistemological boundaries, aiming to develop integrative approaches that enrich both theoretical understanding and practical methodologies in organizational studies.
+I develop organizational theory for the algorithmic age, examining how human judgment and algorithmic systems co-evolve within hybrid governance structures. My empirical research investigates: (1) token-based governance in DAOs, identifying mechanisms of token duality, selective centralization, and structured transparency; (2) human-AI collaboration, revealing recursive agency configurations and emergent epistemic capabilities; and (3) traditional craft organizations as historical counterpoints. Methodologically, I pioneer the SIGNA framework: an AI-augmented qualitative approach that preserves interpretive depth while enabling analysis at a computational scale.
 
 <!-- # Manuscripts Under Review -->
 
@@ -158,11 +156,16 @@ My methodological focus blends qualitative research methods with AI-enhanced inq
 
 # Public Scholarship
 
-- **Thread Counts** ([threadcounts.substack.com](https://threadcounts.substack.com))  
-  - Essays exploring intersections of technology, human ingenuity, and organizational innovation, highlighting common threads across past, present, and future.
-  - [**LOOM (Locus of Observed Meanings)** series](https://threadcounts.substack.com/p/loom-locus-of-observed-meanings), in collaboration with Kevin Corley (Imperial College London) and AI collaborators: Short-form essays reflecting on methodological and epistemological questions around qualitative research and the integration of artificial intelligence.
-    - [Dialogue as Method: A Letter on Knowledge Co-Creation in the Age of AI](https://threadcounts.substack.com/p/loom-iv-dialogue-as-method)
-	- [The Third Space: Where Intelligence Emerges Through Human-AI Dialogue](https://threadcounts.substack.com/p/loom-v-the-third-space)
+- [**LOOM (Locus of Observed Meanings)** series](https://www.threadcounts.org/t/loom)
+  - In collaboration with Kevin Corley (Imperial College London) and AI collaborators (e.g., Claude, o1 pro)
+  - Short-form essays reflecting on methodological and epistemological questions around qualitative research and the integration of artificial intelligence. Examples:
+    - [Dialogue as Method: A Letter on Knowledge Co-Creation in the Age of AI](https://www.threadcounts.org/p/loom-iv-dialogue-as-method?r=1fcklh)
+    - [The Third Space: Where Intelligence Emerges Through Human-AI Dialogue](https://www.threadcounts.org/p/loom-v-the-third-space?r=1fcklh)
+    - [The AI Whisperer: How AI Is Transforming Research](https://www.threadcounts.org/p/loom-xii-the-ai-whisperer?r=1fcklh)
+- [**Organizational Futures** series](https://www.threadcounts.org/t/organizationalfutures)
+  - Short-form essays reflecting on organizational futures in the post-AGI era. Examples:
+    - [Post-AGI Organizations: AIs' Blind Spot and Ours](https://www.threadcounts.org/p/post-agi-organizations-ais-blind?r=1fcklh)
+- Legenvre, H., Autio, E., & Lin, X. (2025). [The Future of AI Language Models (LMs): Three Scenarios That Could Reshape Business and Society](https://www.europeanbusinessreview.com/the-future-of-ai-language-models-lms-three-scenarios-that-could-reshape-business-and-society/). The European Business Review.
 
 # Guest Lectures
 
@@ -178,21 +181,27 @@ My methodological focus blends qualitative research methods with AI-enhanced inq
 	- Discussed challenges, opportunities, and best practices for leveraging AI tools (Research Rabbit, Elicit) and Large Language Models (OpenAI, Llama models) in research
 	- Slides available at: [https://tinyurl.com/29svdbby](https://tinyurl.com/29svdbby)
 
-# AI Research Platforms and Tools Development
+# Applied AI Projects
 
-- Multi-Agent AI Systems for Collaborative Research
-	- Developed an application to orchestrate role-based AI discussions using various LLMs, exploring potential for human-AI teaming in complex problem-solving
-	- [Video demo](https://www.linkedin.com/posts/linxule_ai-accountability-privacy-activity-7214639418110803969-oe2y) & [Blog post](https://www.linkedin.com/pulse/exploring-potential-multi-agent-ai-systems-research-beyond-xule-lin-3odjc)
-- Interactive Literature Discussions
-	- Developed a Discord bot leveraging OpenAI's GPT models and the Discord API to facilitate engaging literature-focused conversations (Access the code [linxule/openai-assistants-discord-bot](https://github.com/linxule/openai-assistants-discord-bot) on GitHub to deploy the bot on your own Discord server)
-	- Built web applications using [Retrieval-Augmented Generation (RAG)](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/) with [Langchain](https://www.langchain.com/) and [Streamlit](https://streamlit.io/) to enable interactive exploration of literary works
-- <br/>LLM-Powered Bots for Academic Research Assistance
-	- **BERTopic Navigator**: an integration of OpenAI's ChatGPT with BERTopic, to enhance topic modeling and exploration capabilities
-		- Access BERTopic Navigator: [https://chat.openai.com/g/g-FvlPlwLn1-bertopic-navigator](https://chat.openai.com/g/g-FvlPlwLn1-bertopic-navigator)
-	- **Red Pen Scholar**: An AI-powered writing assistant that provides feedback and suggestions based on the principles of the University of Chicago's Little Red Schoolhouse writing program
-		- Access Red Pen Scholar: [https://chat.openai.com/g/g-wDUM3ows9-red-pen-scholar](https://chat.openai.com/g/g-wDUM3ows9-red-pen-scholar)
-	- **Academic Notes Assistant**: A tool that helps with summarizing, extracting key points, and generating questions from academic papers into structured notes to aid in research and paper writing
-		- Access Academic Notes Assistant: [https://chat.openai.com/g/g-pIFoLpzVx-academic-notes-assistant](https://chat.openai.com/g/g-pIFoLpzVx-academic-notes-assistant)
+- AI Systems for Human-AI Collaboration
+	- Multi-Agent AI Systems for Collaborative Research  ([Video demo](https://www.linkedin.com/posts/linxule_ai-accountability-privacy-activity-7214639418110803969-oe2y) | [Blog post](https://www.linkedin.com/pulse/exploring-potential-multi-agent-ai-systems-research-beyond-xule-lin-3odjc))
+		- Streamlit application to orchestrate role-based AI discussions using various LLMs (via OpenRouter)
+		- Multi-agent AI interactions and human-AI teaming for complex problem-solving
+	- Interactive Knowledge Building Chatbots ([GitHub](https://github.com/linxule/openai-assistants-discord-bot) | [Railway](https://railway.app?referralCode=3UMd0t))
+		- Discord bot using OpenAI's assistant API with source attribution and verification 
+		- RAG-based applications using Langchain and Streamlit for verifiable knowledge exploration
+- <br/>AI Research Tools & Frameworks
+	- AI Prompt Engineering Framework 
+		- [AI Research Prompts](https://github.com/linxule/prompts): Systematically curated prompts for enhancing LLM capabilities through cognitive techniques and specialized task solutions and for studying language model behaviors and human-agent interactions
+	- Custom GPTs for Research
+		- [BERTopic Navigator](https://chat.openai.com/g/g-FvlPlwLn1-bertopic-navigator): Integration of OpenAI's ChatGPT with BERTopic for enhanced topic modeling implementation
+		- [Red Pen Scholar](https://chat.openai.com/g/g-wDUM3ows9-red-pen-scholar): Writing assistant with transparent feedback based on the principles of the University of Chicago's Little Red Schoolhouse writing program
+		- [Academic Notes Assistant](https://chat.openai.com/g/g-pIFoLpzVx-academic-notes-assistant): Research tool for systematic source attribution and verification
+- <br/>Research Resources & Knowledge Base
+	- HuggingFace: [Management & Organization Research Collection](https://huggingface.co/collections/linxule/papers-haio-67262052e8dab420994a9343)
+		- Curated papers on human-AI interaction, AI governance, and responsible development
+	- GitHub Repo List: ["Make LLMs Better" Collection](https://github.com/stars/linxule/lists/make-llms-better)
+		- Best practices for ethical prompting, responsible data handling, and transparent workflows
 
 # Skills
 
