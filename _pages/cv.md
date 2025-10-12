@@ -58,9 +58,9 @@ I develop organizational theory for the algorithmic age, examining how human jud
 	- 78 DAOs, 260K posts, ~40.3 million words
 	- Ongoing cleaning and fine-tuned transformer-based labeling using grounded theory approach
 - <br/>Lin, X. (2025). _Cognitio Emergens: Agency, Dimensions, and Dynamics in Human–AI Knowledge Co-Creation_. [[Preprint on arXiv]](https://arxiv.org/abs/2505.03105v1)
-	- Introduces framework comprising three components: Agency Configurations (Directed, Contributory, Partnership), Epistemic Dimensions (capabilities across Discovery, Integration, and Projection axes), and Partnership Dynamics
-	- Provides practical guidance for researchers detecting dimensional imbalances, institutional leaders designing governance structures, and policymakers developing nuanced evaluation approaches
-	- Draws from autopoiesis theory, social systems theory, and organizational modularity to reconceptualize human-AI scientific collaboration as co-evolutionary
+	- Framework for human–AI research collaboration, explaining how human–AI epistemic partnerships transform organizational structure: enabling fewer hierarchical layers, wider spans of control, and a shift from compliance-based management to coherence-based governance.
+	- Comprises three interrelated components: Agency Configurations (authority distribution patterns across Directed, Contributory, and Partnership modes), Epistemic Dimensions (six emergent collaborative capabilities along Discovery, Integration, and Projection axes), and Partnership Dynamics (generative forces, balancing tensions, and risks such as epistemic alienation).
+	- Provides practical tools: diagnostic frameworks for research teams, organizational design principles for institutional leaders, and nuanced evaluation approaches for policymakers.
 
 # Awards and Grants
 
