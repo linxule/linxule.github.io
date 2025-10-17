@@ -75,7 +75,11 @@ I develop organizational theory for the algorithmic age, examining how organizat
 
 # Public Scholarship
 
-- [**LOOM (Locus of Observed Meanings)** series](https://www.threadcounts.org/t/loom)
+- [**Research Memex**](https://research-memex.org)
+  - Co-developed with Claude Opus 4.1 and Claude Sonnet 4.5 (2025)
+  - Framework for human-AI research collaboration emerging from co-teaching Systematic Reviews with Erkko Autio
+  - Comprehensive documentation of AI-augmented research workflows applying Interpretive Orchestration principles
+- <br/>[**LOOM (Locus of Observed Meanings)** series](https://www.threadcounts.org/t/loom)
   - In collaboration with Kevin Corley (Imperial College London) and AI collaborators (e.g., Claude, o1 pro)
   - Short-form essays examining methodological questions in AI-augmented qualitative research and organizational analysis. Examples:
     - [Dialogue as Method: A Letter on Knowledge Co-Creation in the Age of AI](https://www.threadcounts.org/p/loom-iv-dialogue-as-method?r=1fcklh)
@@ -137,6 +141,7 @@ I develop organizational theory for the algorithmic age, examining how organizat
 	- Train doctoral students to design, execute, and validate complex literature reviews using portfolios of AI agents
 	- Develop student expertise in strategic AI delegation, quality control of AI outputs, and maintaining intellectual ownership
 	- Lead hands-on tutorials creating ethically-aware AI-augmented researchers
+	- Course materials documented as [Research Memex](https://research-memex.org)
 - Management, Strategy, and Innovation in FinTech, Imperial Business School, 2022-2024
 	- Teaching Assistant to Ying-Ying Hsieh
 	- Developed a teaching case to help students understand the unique aspects of collectively managing and growing a DAO ([Case materials](https://makerdao.daogov.info/)) 
