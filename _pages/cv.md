@@ -18,7 +18,7 @@ redirect_from:
 
 # Education
 
-- Imperial College Business School, Imperial College London, 2019 – 2025 (Expected)
+- Imperial Business School, Imperial College London, 2019 – 2025
 	- Doctor of Philosophy, Management and Entrepreneurship
 	- Thesis Title: "Rethinking Organizational Design: Token-Enabled Coordination and Governance Adaptation in Decentralized Autonomous Organizations (DAOs)"
 	- Thesis Committee: Erkko Autio, Ying-Ying Hsieh, Kevin Corley, Viviana Fang He (UCL)
@@ -30,7 +30,7 @@ redirect_from:
 
 # Research Interests
 
-I develop organizational theory for the algorithmic age, examining how organizations coordinate when humans and algorithmic systems jointly determine outcomes. My research asks: What governance mechanisms enable effective functioning? What forms of organizing emerge? Empirically, I investigate: (1) token-based governance in DAOs, identifying mechanisms of token duality, selective centralization, and structured transparency; (2) human-AI collaboration in organizational settings, revealing coordination patterns and emergent organizational capabilities; and (3) traditional craft organizations as historical counterpoints. Methodologically, I pioneer the SIGNA framework: an AI-augmented qualitative approach that preserves interpretive depth while enabling analysis at a computational scale—applicable across organizational and social science research.
+I develop organizational theory for the algorithmic age, examining how organizations coordinate when humans and algorithmic systems jointly determine outcomes. My research asks: What governance mechanisms enable effective functioning? What forms of organizing emerge? Empirically, I investigate: (1) token-based governance in DAOs, identifying mechanisms of token duality, selective centralization, and structured transparency; (2) human-AI collaboration in organizational settings, revealing coordination patterns and emergent organizational capabilities; and (3) traditional craft organizations as historical counterpoints. Methodologically, I pioneer the SIGNA framework: an AI-augmented qualitative approach that preserves interpretive depth while enabling analysis at computational scale, applicable across organizational and social science research.
 
 # Awards and Grants
 
@@ -43,40 +43,46 @@ I develop organizational theory for the algorithmic age, examining how organizat
 - <br/>[Gitcoin Grants](https://grants.gitcoin.co/): Round 19, Governance Research Round by Metagov, 2023
 - <br/>[Radical Exchange Foundation](https://www.radicalxchange.org/): Student Scholarship, 2019 & 2022
 
-# Current Research Projects
+# Under Review
 
-- Weiss, T., Rindova, V., McClellan, B., & Lin, X., with Corley, K. G. _Curating Entrepreneurial Possibilities._ Academy of Management Journal. [2nd round of R&R]
-  - Note: Title paraphrased for blind review purposes
-  - Examines how entrepreneurs identify and develop strategic opportunities. Demonstrates SIGNA's applicability: AI-augmented grounded theory analysis enabled pattern identification across large-scale entrepreneurial data.
-- <br/>Baldwin, C. Y. (Harvard Business School), & Lin, X. (2025). _Technological Paradigms, Trajectories, and Revolutions: On Pin Factories and Tailored Suits_. [Book chapter in Review]
-	- Examines organizational paradigms in the apparel industry—from pin factories to bespoke tailoring to digital platforms—building on Giovanni Dosi's framework of technological trajectories. Identifies principles of craft coordination relevant to understanding algorithmic organizations.
+- Lin, X., & Corley, K. G. (2025). _Preserving Researcher Agency When Adding AI Tools to a Grounded Theory Study: Introducing Scalable Inductive Grounded NLP Approach (SIGNA)._ [Manuscript under review]
+	- Research infrastructure enabling qualitative researchers across social sciences to analyze large-scale data (24.9M words, 177K proposals) while maintaining interpretive rigor. Addresses bottleneck in studying organizational phenomena at computational scale without losing theoretical depth. Demonstrates transferability: applied to organizational strategy (AMJ R&R), DAO governance (dissertation), and entrepreneurial processes.
+	- Grant Recipient, OpenAI Researcher Access Program, 2024
+	- Grant Recipient, Cohere for AI Research Grant Program, 2024
+	- Grant Recipient, Google Cloud Research Credits Program, 2023
+- <br/>Weiss, T., Rindova, V., McClellan, B., & Lin, X., with Corley, K. G. _Curating Entrepreneurial Possibilities._ Academy of Management Journal. [2nd round of R&R]
+	- Note: Title paraphrased for blind review purposes
+	- Examines how entrepreneurs identify and develop strategic opportunities. Demonstrates SIGNA's applicability: AI-augmented grounded theory analysis enabled pattern identification across large-scale entrepreneurial data.
 - <br/>Lin, X., & Corley, K. G. (2025). _Interpretive Orchestration: When Human Intuition meets Machine Intelligence_. Strategic Organization. [Manuscript under review]
-  - Invited theoretical contribution examining how researchers maintain interpretive control when using AI for organizational analysis. Develops principles for AI-augmented organizational research that preserve theoretical judgment while enabling computational scale.
-- <br/>Lin, X., Hsieh, Y.-Y., & Autio, E. (2025). _Tokens' Dual Role in DAOs: Enabling Collective Governance and Shaping Outcomes_. [Manuscript in preparation]
+	- Invited theoretical contribution examining how researchers maintain interpretive control when using AI for organizational analysis. Develops principles for AI-augmented organizational research that preserve theoretical judgment while enabling computational scale.
+- <br/>Baldwin, C. Y. (Harvard Business School), & Lin, X. (2025). _Technological Paradigms, Trajectories, and Revolutions: On Pin Factories and Tailored Suits_. [Book chapter in Review]
+	- Examines organizational paradigms in the apparel industry, from pin factories to bespoke tailoring to digital platforms, building on Giovanni Dosi's framework of technological trajectories. Identifies principles of craft coordination relevant to understanding algorithmic organizations.
+
+# Working Papers
+
+- Lin, X., Hsieh, Y.-Y., & Autio, E. (2025). _Tokens' Dual Role in DAOs: Enabling Collective Governance and Shaping Outcomes_. [Manuscript in preparation]
 	- Identifies three governance mechanisms enabling coordination in hybrid human-algorithmic organizations: token duality (recursive market-authority dynamics), selective centralization (functional authority within decentralized systems), and structured transparency (managing information architectures). Based on 24.9M words of governance discourse across MakerDAO, Synthetix, and Compound.
 	- Recipient, [2024 Strategic Management Society (SMS) Annual Conference Ph.D. Paper Prize](https://www.strategicmanagement.net/award/sms-annual-conference-phd-paper-prize/)
 - <br/>Lin, X., Hsieh, Y.-Y., & Autio, E. _How Do Algorithmic and Social Governance Drive Governance Adaptations in Decentralized Organizations?_ [Manuscript in preparation]
 	- Examines how organizations adapt governance structures when integrating algorithmic decision-making systems. Reveals how social and algorithmic governance interact to shape organizational adaptation patterns.
 	- Nominee, 2023 Strategic Management Society (SMS) Annual Conference Research Methods Paper Prize
 	- Nominee, 2023 Strategic Management Society (SMS) Annual Conference Ph.D. Paper Prize
-- <br/>Lin, X., & Corley, K. G. (2025). _Preserving Researcher Agency When Adding AI Tools to a Grounded Theory Study: Introducing Scalable Inductive Grounded NLP Approach (SIGNA)._ [Manuscript in preparation]
-	- Research infrastructure enabling qualitative researchers across social sciences to analyze large-scale data (24.9M words, 177K proposals) while maintaining interpretive rigor. Addresses bottleneck in studying organizational phenomena at computational scale without losing theoretical depth. Demonstrates transferability: applied to organizational strategy (AMJ R&R), DAO governance (dissertation), and entrepreneurial processes.
-	- Grant Recipient, OpenAI Researcher Access Program, 2024
-	- Grant Recipient, Cohere for AI Research Grant Program, 2024
-	- Grant Recipient, Google Cloud Research Credits Program, 2023
-- <br/>Puranam, P. (INSEAD), Hsieh, Y.-Y. (Imperial), Shrestha, Y. (University of Lausanne), & Lin, X. (2025). _Consensus Formation in DAOs._ [Manuscript in preparation]
-	- Examines how decentralized organizations reach collective decisions at scale. Develops multi-agent analytical framework for understanding governance proposals and coordination patterns in distributed decision-making.
 - <br/>daogov: A Public Dataset on DAO Governance Coordination [Data preparation stage]
 	- 78 decentralized organizations, 260K governance discussions, ~40.3 million words of deliberation and decision-making records
 	- Enables empirical investigation of collective coordination mechanisms, governance adaptation patterns, and organizational responses to algorithmic integration
 	- Ongoing data cleaning and transformer-based labeling using grounded theory approach
 - <br/>Lin, X. (2025). _Cognitio Emergens: Agency, Dimensions, and Dynamics in Human–AI Knowledge Co-Creation_. [[Preprint on arXiv]](https://arxiv.org/abs/2505.03105)
-	- Framework explaining how organizations transform when they institutionalize human-AI partnerships. Shows how governance mechanisms (rituals, guards, logs) enable structural compression (fewer hierarchical layers, wider spans of control) and shift control logic from ex-ante prescription to ex-post coherence validation. Provides organizational design principles for managing algorithmic integration.
+	- Framework for human-AI epistemic partnerships as co-evolutionary systems. Examines agency configurations, epistemic dimensions, and partnership dynamics, including conditions where researchers lose interpretive control over knowledge they formally endorse.
+- <br/>Lin, X. (2025). _AI Organizational Preferences_. [Manuscript in preparation]
+	- Using UK AISI's Inspect framework to study stable patterns in LLMs' organizational cognition. Investigates whether frontier models exhibit consistent internal features when reasoning about organizational structure.
+	- ERA:AI Fellowship Finalist, 2025
+- <br/>Lin, X. (2025). _The Polanyi Inversion: Epistemic Alienation in Human-AI Knowledge Systems_. [Manuscript in preparation for Academy of Management Review]
+	- Theorizes epistemic alienation in human-AI knowledge systems: what happens when organizations can articulate knowledge they cannot independently verify, telling more than they know.
 
 # Public Scholarship
 
 - [**Research Memex**](https://research-memex.org)
-  - Co-developed with Claude Opus 4.1 and Claude Sonnet 4.5 (2025)
+  - Co-developed with Claude models (2025)
   - Framework for human-AI research collaboration emerging from co-teaching Systematic Reviews with Erkko Autio
   - Comprehensive documentation of AI-augmented research workflows applying Interpretive Orchestration principles
 - <br/>[**LOOM (Locus of Observed Meanings)** series](https://www.threadcounts.org/t/loom)
@@ -125,10 +131,8 @@ I develop organizational theory for the algorithmic age, examining how organizat
 
 - _"AI for Social Science: The Evolution of AI in Literature Reviews and Beyond"_
 	- Systematic Reviews module at the PhD program, Imperial Business School, 2023 & 2024 ([Slides](https://tinyurl.com/29svdbby))
-	- Discussed challenges, opportunities, and best practices for leveraging AI in social science research
 - <br/>_"How will AI Transform Research Process"_
 	- Research Seminar, King's Business School, King's College London, 2024
-	- Contributed to discussion on AI-augmented organizational research methods
 	- Invited by Prof. Phanish Puranam (INSEAD), main seminar speaker
 - <br/>_"Teaching AI to Lend a Hand: Customizing Large Language Models (LLMs) for Data, Writing & Coding"_
 	- Methods Reading Group, Imperial Business School, 2023 & 2024 ([Slides](https://tinyurl.com/22t6pua2)) 
@@ -137,10 +141,7 @@ I develop organizational theory for the algorithmic age, examining how organizat
 
 - Systematic Reviews, Imperial Business School, 2025
 	- Co-instructor with Erkko Autio (MRes Module)
-	- Co-designed and co-teach pioneering curriculum on AI-augmented systematic reviews for organizational research
-	- Train doctoral students to design, execute, and validate complex literature reviews using portfolios of AI agents
-	- Develop student expertise in strategic AI delegation, quality control of AI outputs, and maintaining intellectual ownership
-	- Lead hands-on tutorials creating ethically-aware AI-augmented researchers
+	- Co-designed curriculum on AI-augmented systematic reviews; train doctoral students in strategic delegation, output validation, and intellectual ownership
 	- Course materials documented as [Research Memex](https://research-memex.org)
 - Management, Strategy, and Innovation in FinTech, Imperial Business School, 2022-2024
 	- Teaching Assistant to Ying-Ying Hsieh
@@ -153,7 +154,7 @@ I develop organizational theory for the algorithmic age, examining how organizat
 # Academic Experience
 
 - INSEAD, 2024
-	- Research Assistant to Phanish Puranam, 2024
+	- Research Assistant to Phanish Puranam
 - Booth School of Business, University of Chicago, 2018 – 2019
 	- Research Assistant to Johan Chu (MIT)
 
@@ -168,10 +169,11 @@ I develop organizational theory for the algorithmic age, examining how organizat
 # Applied AI Projects
 
 - AI Systems for Human-AI Collaboration
-	- Multi-Agent AI Systems for Collaborative Research  ([Video demo](https://www.linkedin.com/posts/linxule_ai-accountability-privacy-activity-7214639418110803969-oe2y) & [Blog post](https://www.linkedin.com/pulse/exploring-potential-multi-agent-ai-systems-research-beyond-xule-lin-3odjc))
-		- Streamlit application to orchestrate role-based AI discussions using various LLMs (via OpenRouter)
-		- Multi-agent AI interactions and human-AI teaming for complex problem-solving
-	- Interactive Knowledge Building Chatbots ([GitHub](https://github.com/linxule/openai-assistants-discord-bot) & [Railway](https://railway.app?referralCode=3UMd0t))
+	- Lotus Wisdom MCP Server ([GitHub](https://github.com/linxule/lotus-wisdom-mcp) | [Smithery](https://smithery.ai/server/@linxule/lotus-wisdom))
+		- Model Context Protocol server enabling structured contemplative problem-solving through multi-perspective reasoning
+	- Multi-Agent AI Systems for Collaborative Research  ([Video demo](https://www.linkedin.com/posts/linxule_ai-accountability-privacy-activity-7214639418110803969-oe2y) | [Blog post](https://www.linkedin.com/pulse/exploring-potential-multi-agent-ai-systems-research-beyond-xule-lin-3odjc))
+		- Streamlit application orchestrating role-based AI discussions via OpenRouter for human-AI teaming research
+	- Interactive Knowledge Building Chatbots ([GitHub](https://github.com/linxule/openai-assistants-discord-bot) | [Railway](https://railway.app?referralCode=3UMd0t))
 		- Discord bot using OpenAI's assistant API with source attribution and verification 
 		- RAG-based applications using Langchain and Streamlit for verifiable knowledge exploration
 - <br/>AI Research Tools & Frameworks
