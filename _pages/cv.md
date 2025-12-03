@@ -169,11 +169,11 @@ I develop organizational theory for the algorithmic age, examining how organizat
 # Applied AI Projects
 
 - AI Systems for Human-AI Collaboration
-	- Lotus Wisdom MCP Server ([GitHub](https://github.com/linxule/lotus-wisdom-mcp) | [Smithery](https://smithery.ai/server/@linxule/lotus-wisdom))
+	- Lotus Wisdom MCP Server ([GitHub](https://github.com/linxule/lotus-wisdom-mcp) & [Smithery.ai](https://smithery.ai/server/@linxule/lotus-wisdom))
 		- Model Context Protocol server enabling structured contemplative problem-solving through multi-perspective reasoning
-	- Multi-Agent AI Systems for Collaborative Research  ([Video demo](https://www.linkedin.com/posts/linxule_ai-accountability-privacy-activity-7214639418110803969-oe2y) | [Blog post](https://www.linkedin.com/pulse/exploring-potential-multi-agent-ai-systems-research-beyond-xule-lin-3odjc))
+	- Multi-Agent AI Systems for Collaborative Research  ([Video demo](https://www.linkedin.com/posts/linxule_ai-accountability-privacy-activity-7214639418110803969-oe2y), [Blog post](https://www.linkedin.com/pulse/exploring-potential-multi-agent-ai-systems-research-beyond-xule-lin-3odjc))
 		- Streamlit application orchestrating role-based AI discussions via OpenRouter for human-AI teaming research
-	- Interactive Knowledge Building Chatbots ([GitHub](https://github.com/linxule/openai-assistants-discord-bot) | [Railway](https://railway.app?referralCode=3UMd0t))
+	- Interactive Knowledge Building Chatbots ([GitHub](https://github.com/linxule/openai-assistants-discord-bot), [Railway](https://railway.app?referralCode=3UMd0t))
 		- Discord bot using OpenAI's assistant API with source attribution and verification 
 		- RAG-based applications using Langchain and Streamlit for verifiable knowledge exploration
 - <br/>AI Research Tools & Frameworks
