@@ -30,7 +30,7 @@ redirect_from:
 
 # Research Interests
 
-I develop organizational theory for the algorithmic age, examining how organizations coordinate when humans and algorithmic systems jointly determine outcomes. My research asks: What governance mechanisms enable effective functioning? What forms of organizing emerge? Empirically, I investigate: (1) token-based governance in DAOs, identifying mechanisms of token duality, selective centralization, and structured transparency; (2) human-AI collaboration in organizational settings, revealing coordination patterns and emergent organizational capabilities; and (3) traditional craft organizations as historical counterpoints. Methodologically, I pioneer the SIGNA framework: an AI-augmented qualitative approach that preserves interpretive depth while enabling analysis at computational scale, applicable across organizational and social science research.
+I develop organizational theory for the *algorithmic age*, examining how organizations coordinate when humans and algorithmic systems jointly determine outcomes. My research asks: What governance mechanisms enable effective functioning? What forms of organizing emerge? Empirically, I investigate: (1) token-based governance in DAOs, identifying mechanisms of token duality, selective centralization, and structured transparency; (2) human-AI collaboration in organizational settings, revealing coordination patterns and emergent organizational capabilities; and (3) traditional craft organizations as historical counterpoints. Methodologically, I pioneer the SIGNA framework: an AI-augmented qualitative approach that preserves interpretive depth while enabling analysis at computational scale, applicable across organizational and social science research.
 
 # Awards and Grants
 
@@ -55,7 +55,7 @@ I develop organizational theory for the algorithmic age, examining how organizat
 
 # Working Papers
 
-- Lin, X., Hsieh, Y.-Y., & Autio, E. (2025). _Tokens' Dual Role in DAOs: Enabling Collective Governance and Shaping Outcomes_. [Manuscript in preparation]
+- **[Job Market Paper]** Lin, X., Hsieh, Y.-Y., & Autio, E. (2025). _Tokens' Dual Role in DAOs: Enabling Collective Governance and Shaping Outcomes_. [Manuscript in preparation]
 	- Identifies three governance mechanisms enabling coordination in hybrid human-algorithmic organizations: token duality (recursive market-authority dynamics), selective centralization (functional authority within decentralized systems), and structured transparency (managing information architectures). Based on 24.9M words of governance discourse across MakerDAO, Synthetix, and Compound.
 	- Recipient, [2024 Strategic Management Society (SMS) Annual Conference Ph.D. Paper Prize](https://www.strategicmanagement.net/award/sms-annual-conference-phd-paper-prize/)
 - <br/>Lin, X., Hsieh, Y.-Y., & Autio, E. _How Do Algorithmic and Social Governance Drive Governance Adaptations in Decentralized Organizations?_ [Manuscript in preparation]
@@ -70,12 +70,12 @@ I develop organizational theory for the algorithmic age, examining how organizat
 - <br/>daogov: A Public Dataset on DAO Governance Coordination [Data preparation stage]
 	- 78 decentralized organizations, 260K governance discussions, ~40.3 million words of deliberation and decision-making records
 - <br/>Lin, X. (2025). _Cognitio Emergens: Agency, Dimensions, and Dynamics in Human–AI Knowledge Co-Creation_. [[Preprint on arXiv]](https://arxiv.org/abs/2505.03105)
-	- Framework for human-AI epistemic partnerships as co-evolutionary systems. Examines agency configurations, epistemic dimensions, and partnership dynamics, including conditions where researchers lose interpretive control over knowledge they formally endorse.
+	- Framework examining human-AI knowledge co-creation as co-evolutionary systems.
 - <br/>Lin, X. (2025). _AI Organizational Preferences_. [Manuscript in preparation]
-	- Using UK AISI's Inspect framework to study stable patterns in LLMs' organizational cognition. Investigates whether frontier models exhibit consistent internal features when reasoning about organizational structure.
+	- Using UK AISI's Inspect framework to investigate stable patterns in LLMs' organizational reasoning.
 	- ERA:AI Fellowship Finalist, 2025
-- <br/>Lin, X. (2025). _The Polanyi Inversion: Epistemic Alienation in Human-AI Knowledge Systems_. [Manuscript in preparation for Academy of Management Review]
-	- Theorizes epistemic alienation in human-AI knowledge systems: what happens when organizations can articulate knowledge they cannot independently verify, telling more than they know.
+- <br/>Lin, X. (2025). _The Polanyi Inversion: Epistemic Alienation in Human-AI Knowledge Systems_. [Manuscript in preparation]
+	- Theorizes epistemic alienation in human-AI knowledge systems.
 
 # Public Scholarship
 
@@ -164,7 +164,7 @@ I develop organizational theory for the algorithmic age, examining how organizat
 - <br/>Programming Languages & Software Tools
 	- Python, R, TypeScript
 
-# Applied AI Projects
+# Research Tools & Artifacts
 
 - AI Systems for Human-AI Collaboration
 	- Lotus Wisdom MCP Server ([GitHub](https://github.com/linxule/lotus-wisdom-mcp) & [Smithery.ai](https://smithery.ai/server/@linxule/lotus-wisdom))
