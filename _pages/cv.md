@@ -45,12 +45,7 @@ I develop organizational theory for the algorithmic age, examining how organizat
 
 # Under Review
 
-- Lin, X., & Corley, K. G. (2025). _Preserving Researcher Agency When Adding AI Tools to a Grounded Theory Study: Introducing Scalable Inductive Grounded NLP Approach (SIGNA)._ [Manuscript under review]
-	- Research infrastructure enabling qualitative researchers across social sciences to analyze large-scale data (24.9M words, 177K proposals) while maintaining interpretive rigor. Addresses bottleneck in studying organizational phenomena at computational scale without losing theoretical depth. Demonstrates transferability: applied to organizational strategy (AMJ R&R), DAO governance (dissertation), and entrepreneurial processes.
-	- Grant Recipient, OpenAI Researcher Access Program, 2024
-	- Grant Recipient, Cohere for AI Research Grant Program, 2024
-	- Grant Recipient, Google Cloud Research Credits Program, 2023
-- <br/>Weiss, T., Rindova, V., McClellan, B., & Lin, X., with Corley, K. G. _Curating Entrepreneurial Possibilities._ Academy of Management Journal. [2nd round of R&R]
+- Weiss, T., Rindova, V., McClellan, B., & Lin, X., with Corley, K. G. _Curating Entrepreneurial Possibilities._ Academy of Management Journal. [2nd round of R&R]
 	- Note: Title paraphrased for blind review purposes
 	- Examines how entrepreneurs identify and develop strategic opportunities. Demonstrates SIGNA's applicability: AI-augmented grounded theory analysis enabled pattern identification across large-scale entrepreneurial data.
 - <br/>Lin, X., & Corley, K. G. (2025). _Interpretive Orchestration: When Human Intuition meets Machine Intelligence_. Strategic Organization. [Manuscript under review]
@@ -67,10 +62,13 @@ I develop organizational theory for the algorithmic age, examining how organizat
 	- Examines how organizations adapt governance structures when integrating algorithmic decision-making systems. Reveals how social and algorithmic governance interact to shape organizational adaptation patterns.
 	- Nominee, 2023 Strategic Management Society (SMS) Annual Conference Research Methods Paper Prize
 	- Nominee, 2023 Strategic Management Society (SMS) Annual Conference Ph.D. Paper Prize
+- <br/>Lin, X., & Corley, K. G. (2025). _Preserving Researcher Agency When Adding AI Tools to a Grounded Theory Study: Introducing Scalable Inductive Grounded NLP Approach (SIGNA)._ [Manuscript under review]
+	- Research infrastructure enabling qualitative researchers across social sciences to analyze large-scale data (24.9M words, 177K proposals) while maintaining interpretive rigor. Addresses bottleneck in studying organizational phenomena at computational scale without losing theoretical depth. Demonstrates transferability: applied to organizational strategy (AMJ R&R), DAO governance (dissertation), and entrepreneurial processes.
+	- Grant Recipient, OpenAI Researcher Access Program, 2024
+	- Grant Recipient, Cohere for AI Research Grant Program, 2024
+	- Grant Recipient, Google Cloud Research Credits Program, 2023
 - <br/>daogov: A Public Dataset on DAO Governance Coordination [Data preparation stage]
 	- 78 decentralized organizations, 260K governance discussions, ~40.3 million words of deliberation and decision-making records
-	- Enables empirical investigation of collective coordination mechanisms, governance adaptation patterns, and organizational responses to algorithmic integration
-	- Ongoing data cleaning and transformer-based labeling using grounded theory approach
 - <br/>Lin, X. (2025). _Cognitio Emergens: Agency, Dimensions, and Dynamics in Human–AI Knowledge Co-Creation_. [[Preprint on arXiv]](https://arxiv.org/abs/2505.03105)
 	- Framework for human-AI epistemic partnerships as co-evolutionary systems. Examines agency configurations, epistemic dimensions, and partnership dynamics, including conditions where researchers lose interpretive control over knowledge they formally endorse.
 - <br/>Lin, X. (2025). _AI Organizational Preferences_. [Manuscript in preparation]
