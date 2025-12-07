@@ -33,7 +33,7 @@ These observations share a common source: when algorithmic participants enter or
   * I'm not sure we have good ways to think about that yet
 
 * The interesting dynamics emerge from interaction
-  * From the back-and-forth between humans and AI, where neither operates alone
+  * From the back-and-forth between humans and AI, where neither operates alone ([Cognitio Emergens](https://arxiv.org/abs/2505.03105))
 
 * Old coordination patterns keep showing up
   * I study London tailors who coordinate through shared understanding (not formal structure)
@@ -45,7 +45,7 @@ These observations share a common source: when algorithmic participants enter or
 ## What I'm working on
 
 * How AI and organizations form feedback loops that create emergent forms of agency
-* DAOs as places where code and culture have to figure each other out
+* DAOs as sites where I develop and test theory (code as constitution, tokens as coordination)
 * Coordination through craft and shared understanding (the London tailoring study)
 * Governance when agency emerges from dynamics (rather than residing in any single actor)
 
